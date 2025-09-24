@@ -48,7 +48,7 @@ For your test set and the RAG systems, you will first need to compile a knowledg
 - City of Pittsburgh [2025 Operating Budget]([https://apps.pittsburghpa.gov/redtail/images/23255_2024_Operating_Budget.pdf](https://www.pittsburghpa.gov/files/assets/city/v/4/omb/documents/operating-budgets/2025-operating-budget.pdf))
 - [About CMU & CMU History](https://www.cmu.edu/about/)
 
-**Events in Pittsburgh and CMU** (We will only ask about annual/recurring events and events happening after October 9th.)
+**Events in Pittsburgh and CMU** (We will only ask about annual/recurring events and events happening after October 9th until the end of 2025.)
 - [Pittsburgh events calendar](https://pittsburgh.events): Navigate to month-specific pages for easier scraping
 - [Downtown Pittsburgh events calendar](https://downtownpittsburgh.com/events/)
 - [Pittsburgh City Paper events](https://www.pghcitypaper.com/pittsburgh/EventSearch?v=d)
