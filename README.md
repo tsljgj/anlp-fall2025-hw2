@@ -1,5 +1,3 @@
-# anlp-fall2025-hw2
-
 # CMU Advanced NLP Assignment 2: End-to-end NLP System Building
 
 Large language models (LLMs) such as Llama2 have been shown effective for question-answering (Touvron et al., 2023), however, they are often limited by their knowledge in certain domains. A common technique here is to augment LLM's knowledge with documents that are relevant to the question. In this assignment, you will develop a retrieval augmented generation system (RAG) (Lewis et al., 2021) that's capable of answering questions about Pittsburgh and CMU, including history, culture, trivia, and upcoming events.
@@ -47,10 +45,10 @@ For your test set and the RAG systems, you will first need to compile a knowledg
 - [Encyclopedia Brittanica page](https://www.britannica.com/place/Pittsburgh)
 - [Visit Pittsburgh webpage](https://www.visitpittsburgh.com): This website also contains subpages that would be useful for other topics (see below), like events, sports, music, food, etc.
 - City of Pittsburgh [Tax Regulations](https://pittsburghpa.gov/finance/tax-forms): See the links under the "Regulations" column of the table
-- City of Pittsburgh [2025 Operating Budget](https://apps.pittsburghpa.gov/redtail/images/23255_2024_Operating_Budget.pdf)
+- City of Pittsburgh [2025 Operating Budget]([https://apps.pittsburghpa.gov/redtail/images/23255_2024_Operating_Budget.pdf](https://www.pittsburghpa.gov/files/assets/city/v/4/omb/documents/operating-budgets/2025-operating-budget.pdf))
 - [About CMU & CMU History](https://www.cmu.edu/about/)
 
-**Events in Pittsburgh and CMU** (We will only ask about annual/recurring events and events happening after March 19th.)
+**Events in Pittsburgh and CMU** (We will only ask about annual/recurring events and events happening after October 9th.)
 - [Pittsburgh events calendar](https://pittsburgh.events): Navigate to month-specific pages for easier scraping
 - [Downtown Pittsburgh events calendar](https://downtownpittsburgh.com/events/)
 - [Pittsburgh City Paper events](https://www.pghcitypaper.com/pittsburgh/EventSearch?v=d)
@@ -108,7 +106,7 @@ To help you get started, here are some example questions:
 
 See [Vu et al., 2023](https://arxiv.org/abs/2310.03214) for ideas about questions to prompt LLMs. For questions with multiple valid answers, you can include multiple reference answers per line in `reference_answers.json` (separated by a semicolon `;`). As long as your system generates one of the valid answers, it will be considered correct.
 
-This test set will constitute `data/test/questions.txt` and `data/test/reference_answers.json` in your submission. The evaluation for your answers will not be case sensitive, in line with the SQuAD paper.
+This test set you have constructed will constitute `data/test/questions.txt` and `data/test/reference_answers.json` in your submission. The evaluation for your answers will not be case sensitive, in line with the SQuAD paper.
 
 ### Training data
 
@@ -123,11 +121,11 @@ If you are using a LLM in a few-shot learning setting, you could possibly:
 - Annotate examples for the task using the same method as the test set.
 - Use existing datasets to identify examples for in-context learning.
 
-This training set will constitute `data/train/questions.txt` and `data/train/reference_answers.json` in your submission.
+This training set you have constructed will constitute `data/train/questions.txt` and `data/train/reference_answers.json` in your submission.
 
 ### Estimating your data quality
 
-An important component of every data annotation effort is to estimate its quality. A standard approach is to measure inter-annotator agreement (IAA). To measure this, at least two members of your team should annotate a random subset of your test set. Compute IAA on this subset and report your findings.
+An important component of every data annotation effort is to estimate its quality. A standard approach is to measure inter-annotator agreement (IAA). To measure this, at least two members of your team should annotate a random subset of your test set. Compute [IAA](https://s3.amazonaws.com/resources.basistech.com/hltcon-presentations/2018/Zach_Yocum_Measuring_Inter-Annotator_Agreement_HLTCon2018.pdf) on this subset and report your findings.
 
 ### Data Format for Annotated Data
 
@@ -151,9 +149,9 @@ For your RAG system, you will need the following three components:
 2. **Document retriever** (implement sparse, dense and hybrid retrieval)
 3. **Document reader** (aka. question-answering system) (can use existing models)
 
-For the core retrieval components listed below, you MUST implement the retrieval logic directly using foundational libraries (e.g., sentence-transformers, scikit-learn, numpy). You cannot use high-level RAG frameworks like LangChain, LlamaIndex, or similar tools that abstract away the retrieval implementation:
+For the core retrieval components listed below, you **MUST** implement the retrieval logic directly using foundational libraries (e.g., sentence-transformers, scikit-learn, numpy). You cannot use high-level RAG frameworks like LangChain, LlamaIndex, or similar tools that abstract away the retrieval implementation:
 
-**Document Chunking**: Large documents need to be broken down into smaller, manageable pieces (chunks) for effective retrieval, since embedding models have token limits and retrieving overly large text segments can dilute relevance and overwhelm the generation model. Implement document chunking strategies that split documents into appropriately-sized segments while preserving semantic coherence. You may want to implement and try out different approaches (e.g., fixed-size with overlap to maintain context across boundaries, sentence-aware chunking to preserve linguistic units, paragraph-based chunking to respect natural document structure), since chunking strategy can have a significant impact on downstream retrieval and generation performance. Consider edge cases like very short documents, very long paragraphs, and documents with special formatting.
+**Document Chunking**: Large documents need to be broken down into smaller, manageable pieces (chunks) for effective retrieval, since embedding models have token limits and retrieving overly large text segments can dilute relevance and overwhelm the generation model. Implement document chunking strategies that split documents into appropriately-sized segments while preserving semantic coherence. You may want to implement and try out different approaches (e.g., fixed-size with overlap, sentence-aware chunking, paragraph-based chunking etc.), since chunking strategy can have a significant impact on downstream retrieval and generation performance. Consider edge cases like very short documents, very long paragraphs, and documents with special formatting.
 
 **Hybrid Retrieval**: Implement a system that combines dense (vector-based) and sparse (keyword-based) retrieval:
 
@@ -273,7 +271,7 @@ The following points (max. 100 points) are derived from the results and your rep
 
 To make the assignment accessible to everyone:
 
-- You are only allowed to use models that are also accessible through [HuggingFace](https://huggingface.co/models). This means you may not use closed models like OpenAI models, but you can opt to use a hosting service for an open model (such as the Hugging Face or Together APIs). The model you use must be released before January 1st, 2025.
+- You are only allowed to use models that are also accessible through [HuggingFace](https://huggingface.co/models). This means you may not use closed models like OpenAI models, but you can opt to use a hosting service for an open model (such as the Hugging Face or Together APIs). **The model you use must be released before January 1st, 2025**.
 - You are only allowed to include publicly available data in your knowledge resource, test data and training data.
 - You are welcome to use any open-source library to assist your data annotation and model training. For data annotation, you can use tools like Label Studio, Doccano, or similar annotation platforms to create your question-answer pairs efficiently. For model development, you can use standard ML libraries like scikit-learn, PyTorch, or HuggingFace Transformers for any model training, fine-tuning, or evaluation tasks. Make sure you check the license and provide due credit for all tools used.
 
@@ -291,7 +289,7 @@ A: Manual scraping is not prohibited. To what extent you would perform the task 
 A: You can use standard libraries like Selenium, Beautiful Soup, requests, pdfminer, pypdf, pdfplumber, and similar tools for data collection and preprocessing, as long as you provide proper credit in your report. These are considered basic utilities rather than high-level RAG frameworks.
 
 **Q: "What is the date range I should consider for event-based questions?"**  
-A: For any date-based questions about events, scrape data from the assignment January 1st, 2025 through September 25th, 2025. We will only ask questions about events occurring within this timeframe, including annual/recurring events.
+A: For any date-based questions about events, scrape data from October 9th onwards. We will only ask questions about events occurring within this timeframe, including annual/recurring events.
 
 **Q: "Can I use any closed-source models (OpenAI, Claude, etc.)?"**  
 A: No. You cannot use any closed-source models for any part of the assignment, including embeddings, retrieval, or generation. All models must be open-weight and available through HuggingFace or similar open platforms.
