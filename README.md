@@ -27,7 +27,7 @@ The key checkpoints for this assignment are:
 - [ ] [Write a report](#writing-report)
 - [ ] [Submit your work](#submission--grading)
 
-All deliverables are due by **Thursday, October 9th**. This is a group assignment, see the assignment policies for this class.
+All deliverables are due by **Thursday, October 9th**. This is a group assignment, see the assignment policies for this class.[^1]
 
 ## Task: Retrieval Augmented Generation (RAG)
 
@@ -88,9 +88,9 @@ Next, you will want to annotate question-answer pairs for two purposes: testing/
 The testing (and analysis) data will be the data that you use to make sure that your system is working properly. In order to do so, you will want to manually annotate enough data so that you can get an accurate estimate of how your system is doing, and if any improvements to your system are having a positive impact. Some guidelines on this:
 
 - **Manual annotation**: We expect you to manually annotate questions and answers for the test set. The aim of this task is to help you get a good understanding of what the data looks like and how to create a test set that helps give you a holistic understanding of how your system is performing, even on edge cases. You cannot use any models to help augment or create this test set.
-- **Domain Relevance**: Your test data should be similar to the data that you will finally be tested on (questions about Pittsburgh and CMU). Use the knowledge resources mentioned above to curate your test set.
+- **Domain Relevance**: Your test data should be similar to the data that you will finally be tested on (questions about Pittsburgh and CMU). Use the knowledge resources mentioned above to curate your test set. 
 - **Diversity**: Your test data should cover a wide range of questions Pittsburgh and CMU.
-- **Size**: Your test data should be large enough to distinguish between good and bad models. If you want some guidelines about this, see the lecture on experimental design and human annotation.
+- **Size**: Your test data should be large enough to distinguish between good and bad models. If you want some guidelines about this, see the lecture on experimental design and human annotation.[^2]
 - **Quality**: Your test data should be of high quality. We recommend that you annotate it yourself and validate your annotations within your team.
 
 To help you get started, here are some example questions:
@@ -210,7 +210,7 @@ Make sure you cite all your sources (open-source models, libraries, papers, blog
 Submit all deliverables on Canvas. Your submission checklist is below:
 
 - [ ] Your report.
-- [ ] A link to your GitHub repository containing your code.
+- [ ] A link to your GitHub repository containing your code.[^3]
 - [ ] A file listing contributions of each team member,
   - [ ] data annotation contributions from each team member (e.g. teammate A: instances 1-X; teammate B: instances X-Y, teammate C: instances Y-Z).
   - [ ] data collection (scraping, processing) and modeling contributions from each team member (e.g. teammate A: writing scripts to ..., implementing ...; teammate B:...; teammate C:...;)
@@ -240,11 +240,11 @@ ANDREWID/
 
 ### Grading
 
-The following points (max. 100 points) are derived from the results and your report. See course grading policy.
+The following points (max. 100 points) are derived from the results and your report. See course grading policy.[^4]
 
 - **Submit data** (15 points): submit testing/training data of your creation.
 - **Submit code** (15 points): submit your code for preprocessing and model development in the form of a GitHub repo. We may not necessarily run your code, but we will look at it. So please ensure that it contains up-to-date code with a README file outlining the steps to run it.
-- **Results** (30 points): points based on your system's performance on our private test set. 20 points based on your performance using our metrics, plus up to 10 points based on level of performance relative to other submissions from the class.
+- **Results** (30 points): points based on your system's performance on our private test set. 20 points based on your performance using our metrics[^5], plus up to 10 points based on level of performance relative to other submissions from the class.
 - **Report**: below points are awarded based on your report.
   - **Data creation** (10 points): clearly describe how you created your data. Please include the following details:
     - How did you compile your knowledge resource, and how did you decide which documents to include?
@@ -315,3 +315,14 @@ This assignment was based on the Spring 2024 version of this assignment by Graha
 - Lewis et al., 2021. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401).
 - Touvron et al., 2023. [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288).
 - Vu et al., 2023. [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214).
+
+
+[^1]: See the [assignment policies]([http://www.phontron.com/class/anlp2024/assignments/#assignment-policies](https://cmu-l3.github.io/anlp-fall2025/#assignments)) for this class, including submission information, late day policy and more.
+
+[^2]: See the previous [lecture notes](http://www.phontron.com/class/anlp2024/lectures/#experimental-design-and-human-annotation-feb-13) on experimental design and human annotation for guidance on annotation, size of test/train data, and general experimental design. This lecture will also take place on the day of the release of this assignment, and you can refer to those [notes](https://cmu-l3.github.io/anlp-fall2025/#schedule) too.
+
+[^3]: Create a private GitHub repo and give access to the TAs in charge of this assignment by the deadline. See piazza announcement post for our GitHub usernames.
+
+[^4]: Grading policy: https://cmu-l3.github.io/anlp-fall2025/#details
+
+[^5]: In general, if your system is generating answers that are relevant to the question, it would be considered non-trivial. This could be achieved with a basic RAG system.
