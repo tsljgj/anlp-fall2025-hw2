@@ -1,6 +1,6 @@
 # CMU Advanced NLP Assignment 2: End-to-end NLP System Building
 
-Large language models (LLMs) such as Llama2 have been shown effective for question-answering (Touvron et al., 2023), however, they are often limited by their knowledge in certain domains. A common technique here is to augment LLM's knowledge with documents that are relevant to the question. In this assignment, you will develop a retrieval augmented generation system (RAG) (Lewis et al., 2021) that's capable of answering questions about Pittsburgh and CMU, including history, culture, trivia, and upcoming events.
+Large language models (LLMs) such as Llama2 have been shown effective for question-answering ([Touvron et al., 2023](https://arxiv.org/abs/2307.09288)), however, they are often limited by their knowledge in certain domains. A common technique here is to augment LLM's knowledge with documents that are relevant to the question. In this assignment, you will *develop a retrieval augmented generation system (RAG)* ([Lewis et al., 2021](https://arxiv.org/abs/2005.11401)) that's capable of answering questions about Pittsburgh and CMU, including history, culture, trivia, and upcoming events.
 
 ```
 Q: Who is Pittsburgh named after? 
