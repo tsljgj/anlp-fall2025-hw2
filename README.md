@@ -271,7 +271,7 @@ The following points (max. 100 points) are derived from the results and your rep
 
 To make the assignment accessible to everyone:
 
-- You are only allowed to use models that are also accessible through [HuggingFace](https://huggingface.co/models). This means you may not use closed models like OpenAI models, but you can opt to use a hosting service for an open model (such as the Hugging Face or Together APIs). **The model you use must be released before January 1st, 2025, and must have a size of 32B or under.**.
+- You are only allowed to use models that are also accessible through [HuggingFace](https://huggingface.co/models). This means you may not use closed models like OpenAI models, but you can opt to use a hosting service for an open model (such as the Hugging Face or Together APIs). **The model must have been released before January 1, 2025, and its size must not exceed 32B parameters**.
 - You are only allowed to include publicly available data in your knowledge resource, test data and training data.
 - You are welcome to use any open-source library to assist your data annotation and model training. For data annotation, you can use tools like Label Studio, Doccano, or similar annotation platforms to create your question-answer pairs efficiently. For model development, you can use standard ML libraries like scikit-learn, PyTorch, or HuggingFace Transformers for any model training, fine-tuning, or evaluation tasks. Make sure you check the license and provide due credit for all tools used.
 
