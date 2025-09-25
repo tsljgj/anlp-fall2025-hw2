@@ -289,7 +289,7 @@ A: Manual scraping is not prohibited. To what extent you would perform the task 
 A: You can use standard libraries like Selenium, Beautiful Soup, requests, pdfminer, pypdf, pdfplumber, and similar tools for data collection and preprocessing, as long as you provide proper credit in your report. These are considered basic utilities rather than high-level RAG frameworks.
 
 **Q: "What is the date range I should consider for event-based questions?"**  
-A: For any date-based questions about events, scrape data from October 9th onwards. We will only ask questions about events occurring within this timeframe, including annual/recurring events.
+A: For any date-based questions specifically about events, we will only be asking questions about events happening from October 9th, 2025 to December 31st, 2025 (both days included). We will only ask questions about events occurring within this timeframe, including annual/recurring events.
 
 **Q: "Can I use any closed-source models (OpenAI, Claude, etc.)?"**  
 A: No. You cannot use any closed-source models for any part of the assignment, including embeddings, retrieval, or generation. All models must be open-weight and available through HuggingFace or similar open platforms.
