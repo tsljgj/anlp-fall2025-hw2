@@ -90,7 +90,7 @@ The testing (and analysis) data will be the data that you use to make sure that 
 - **Manual annotation**: We expect you to manually annotate questions and answers for the test set. The aim of this task is to help you get a good understanding of what the data looks like and how to create a test set that helps give you a holistic understanding of how your system is performing, even on edge cases. You cannot use any models to help augment or create this test set.
 - **Domain Relevance**: Your test data should be similar to the data that you will finally be tested on (questions about Pittsburgh and CMU). Use the knowledge resources mentioned above to curate your test set. 
 - **Diversity**: Your test data should cover a wide range of questions Pittsburgh and CMU.
-- **Size**: Your test data should be large enough to distinguish between good and bad models. If you want some guidelines about this, see the lecture on experimental design and human annotation.[^2]
+- **Size**: Your test data should be large enough to distinguish between good and bad models. If you want some guidelines about this, see the lecture on experimental design and human annotation.[^2]. We expect a test set size of at least 150 samples.
 - **Quality**: Your test data should be of high quality. We recommend that you annotate it yourself and validate your annotations within your team.
 
 To help you get started, here are some example questions:
@@ -125,7 +125,7 @@ This training set you have constructed will constitute `data/train/questions.txt
 
 ### Estimating your data quality
 
-An important component of every data annotation effort is to estimate its quality. A standard approach is to measure inter-annotator agreement (IAA). To measure this, at least two members of your team should annotate a random subset of your test set. Compute [IAA](https://s3.amazonaws.com/resources.basistech.com/hltcon-presentations/2018/Zach_Yocum_Measuring_Inter-Annotator_Agreement_HLTCon2018.pdf) on this subset and report your findings.
+An important component of every data annotation effort is to estimate its quality. A standard approach is to measure inter-annotator agreement (IAA). To measure this, at least two members of your team should annotate a random subset of your test set. Compute [IAA](https://s3.amazonaws.com/resources.basistech.com/hltcon-presentations/2018/Zach_Yocum_Measuring_Inter-Annotator_Agreement_HLTCon2018.pdf) on this subset and report your findings. You should annotate at least 30% of your test set to measure IAA.
 
 ### Data Format for Annotated Data
 
@@ -271,7 +271,7 @@ The following points (max. 100 points) are derived from the results and your rep
 
 To make the assignment accessible to everyone:
 
-- You are only allowed to use models that are also accessible through [HuggingFace](https://huggingface.co/models). This means you may not use closed models like OpenAI models, but you can opt to use a hosting service for an open model (such as the Hugging Face or Together APIs). **The model you use must be released before January 1st, 2025**.
+- You are only allowed to use models that are also accessible through [HuggingFace](https://huggingface.co/models). This means you may not use closed models like OpenAI models, but you can opt to use a hosting service for an open model (such as the Hugging Face or Together APIs). **The model you use must be released before January 1st, 2025, and must have a size of 32B or under.**.
 - You are only allowed to include publicly available data in your knowledge resource, test data and training data.
 - You are welcome to use any open-source library to assist your data annotation and model training. For data annotation, you can use tools like Label Studio, Doccano, or similar annotation platforms to create your question-answer pairs efficiently. For model development, you can use standard ML libraries like scikit-learn, PyTorch, or HuggingFace Transformers for any model training, fine-tuning, or evaluation tasks. Make sure you check the license and provide due credit for all tools used.
 
