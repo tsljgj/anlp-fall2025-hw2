@@ -1,0 +1,1878 @@
+📝 Logging to: ./data/raw\scraping_log.txt
+⏰ Started at: 2025-10-05T03:06:32.846189
+
+
+============================================================
+Processing category: GENERAL_INFO
+============================================================
+
+
+[1/41] Processing: https://www.cmu.edu/about/
+Output file: ./data/raw\cmu_edu_about.jsonl
+Starting crawl for: https://www.cmu.edu/about/
+Crawl job started with ID: b8a44063-64c7-4672-9d38-53fbaf302b76
+Job b8a44063-64c7-4672-9d38-53fbaf302b76 status: scraping
+Job b8a44063-64c7-4672-9d38-53fbaf302b76 status: scraping
+Job b8a44063-64c7-4672-9d38-53fbaf302b76 status: scraping
+Job b8a44063-64c7-4672-9d38-53fbaf302b76 status: completed
+Crawl completed! Found 9 pages
+✓ Processed [HTML]: About Carnegie Mellon | Carnegie Mellon University... (orig: 5942 chars, cleaned: 4473 chars)
+✓ Processed [HTML]: Traditions | Carnegie Mellon University... (orig: 6419 chars, cleaned: 5333 chars)
+✓ Processed [HTML]: Vision, Mission and Values | Carnegie Mellon University... (orig: 4241 chars, cleaned: 3513 chars)
+✓ Processed [HTML]: History | Carnegie Mellon University... (orig: 9780 chars, cleaned: 7258 chars)
+✓ Processed [HTML]: Search Announcement | Carnegie Mellon University... (orig: 5372 chars, cleaned: 5372 chars)
+✓ Processed [HTML]: Search for Associate Vice President for Entrepreneurship and... (orig: 1113 chars, cleaned: 1113 chars)
+✓ Processed [HTML]: Rankings & Awards | Carnegie Mellon University... (orig: 104946 chars, cleaned: 103125 chars)
+✓ Processed [HTML]: Open Searches | Carnegie Mellon University... (orig: 724 chars, cleaned: 567 chars)
+✓ Processed [HTML]: Search Advisory Committee | Carnegie Mellon University... (orig: 2864 chars, cleaned: 2864 chars)
+💾 Saved 9 documents to ./data/raw\cmu_edu_about.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[2/41] Processing: https://www.pittsburghpa.gov/
+Output file: ./data/raw\pittsburghpa_gov.jsonl
+Starting crawl for: https://www.pittsburghpa.gov/
+Crawl job started with ID: 855cc8a6-dac0-4105-a953-9901f552ebfe
+Job 855cc8a6-dac0-4105-a953-9901f552ebfe status: scraping
+Job 855cc8a6-dac0-4105-a953-9901f552ebfe status: scraping
+Job 855cc8a6-dac0-4105-a953-9901f552ebfe status: scraping
+Job 855cc8a6-dac0-4105-a953-9901f552ebfe status: scraping
+Job 855cc8a6-dac0-4105-a953-9901f552ebfe status: scraping
+Job 855cc8a6-dac0-4105-a953-9901f552ebfe status: completed
+Crawl completed! Found 30 pages
+✓ Processed [HTML]: Home - Pittsburgh, PA... (orig: 7861 chars, cleaned: 7861 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/City-Government/Finance-Budget/New-Business-Registration
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Curbside-Pick-Up/Curbside-Refuse
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/Allegheny-Regional-Asset-District-ARAD
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Home/Featured-Background/Hero-Image
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Home/Do-it-online/City-Press-Releases
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Resident-Services/311/Contacting-311
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/City-Government/Finance-Budget/Finance-Fee-Schedule
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Business-Development/Small-Business-Resources/Startup-Resources
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Home/Data-Viz/Total-Funding-Awarded-Millions
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Home/Do-it-online/Permits-Licenses
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Home/Do-it-online/Bid-Opportunities
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Home/Data-Viz/Active-Bridge-Count
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Drop-Off-Info-Additional-Resources/Christmas-Tree-Recycling
+✓ Processed [HTML]: Permits, Licenses, and Inspections - Pittsburgh, PA... (orig: 5937 chars, cleaned: 5937 chars)
+✓ Processed [HTML]: Curbside Pick Up - Pittsburgh, PA... (orig: 2511 chars, cleaned: 2511 chars)
+✓ Processed [HTML]: Drop-Off Info & Additional Resources - Pittsburgh, PA... (orig: 2081 chars, cleaned: 2081 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/files/assets/city/v/1/dpw/documents/23541_city_of_pittsburgh_central_east_mailer.pdf
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Contacts
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Drop-Off-Info-Additional-Resources/Waste-Disposal-Resources
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Home/Do-it-online/Tax-Real-Estate
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Curbside-Pick-Up/Missed-Pick-Up
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Anti-Litter-and-Illegal-Dumping/Plastic-Bag-Ban-Paper-Bag-Fee
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Licenses/Contractor-Licenses/General-Contractor-Licenses
+✓ Processed [HTML]: Content search - Pittsburgh, PA... (orig: 2718 chars, cleaned: 2718 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/City-Government/Contacts-Information/City-Press-Release-Archive/2022-April-2024
+✓ Processed [HTML]: Business & Development - Pittsburgh, PA... (orig: 4913 chars, cleaned: 4913 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Home/Do-it-online/Contact-311
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/City-Government/Finance-Budget/Taxes/Tax-Forms
+⚠️ FAILED SCRAPE (empty content): https://www.pittsburghpa.gov/Home/Tabs
+💾 Saved 6 documents to ./data/raw\pittsburghpa_gov.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[3/41] Processing: https://www.visitpittsburgh.com/
+Output file: ./data/raw\visitpittsburgh_com.jsonl
+Starting crawl for: https://www.visitpittsburgh.com/
+Rate limit hit. Waiting 10 seconds before retry 1/5...
+Rate limit hit. Waiting 20 seconds before retry 2/5...
+Rate limit hit. Waiting 40 seconds before retry 3/5...
+Crawl job started with ID: 6c728d5d-1ea2-4c30-a51f-600f6e96433c
+Job 6c728d5d-1ea2-4c30-a51f-600f6e96433c status: scraping
+Job 6c728d5d-1ea2-4c30-a51f-600f6e96433c status: scraping
+Job 6c728d5d-1ea2-4c30-a51f-600f6e96433c status: scraping
+Job 6c728d5d-1ea2-4c30-a51f-600f6e96433c status: scraping
+Job 6c728d5d-1ea2-4c30-a51f-600f6e96433c status: scraping
+Job 6c728d5d-1ea2-4c30-a51f-600f6e96433c status: scraping
+Job 6c728d5d-1ea2-4c30-a51f-600f6e96433c status: scraping
+Job 6c728d5d-1ea2-4c30-a51f-600f6e96433c status: completed
+Crawl completed! Found 50 pages
+✓ Processed [HTML]: Visit Pittsburgh | Official Tourism Site for Pittsburgh, PA... (orig: 6470 chars, cleaned: 6454 chars)
+✓ Processed [HTML]: Pittsburgh Skyline | Downtown & Mount Washington | Visit Pit... (orig: 10517 chars, cleaned: 10517 chars)
+✓ Processed [HTML]: Shopping in Pittsburgh | Reviews, Maps & Coupons | Visit Pit... (orig: 27169 chars, cleaned: 27165 chars)
+✓ Processed [HTML]: Fun Things to Do in Pittsburgh | Visit Pittsburgh... (orig: 29432 chars, cleaned: 29404 chars)
+✓ Processed [HTML]: Visual Arts in Pittsburgh | Museums, Galleries & Public Art ... (orig: 29511 chars, cleaned: 29507 chars)
+✓ Processed [HTML]: Pittsburgh Memorials | Things to Do in Pittsburgh | Visit Pi... (orig: 11 chars, cleaned: 11 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.visitpittsburgh.com/sitemaps-1-section-partnerDirectory-1-sitemap-p1.xml
+✓ Processed [HTML]: Pittsburgh Performing Arts | Events, Theaters & Venues | Vis... (orig: 26940 chars, cleaned: 26940 chars)
+✓ Processed [HTML]: Fun Things to Do in Pittsburgh | Visit Pittsburgh... (orig: 6283 chars, cleaned: 6255 chars)
+✓ Processed [HTML]: Pittsburgh Accolades & Rankings | Visit Pittsburgh Press Kit... (orig: 33953 chars, cleaned: 33951 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.visitpittsburgh.com/sitemaps-1-section-dealDirectory-1-sitemap.xml
+✓ Processed [HTML]: Moving to Pittsburgh - Relocation Services - Official Pittsb... (orig: 2277 chars, cleaned: 2269 chars)
+✓ Processed [HTML]: Pittsburgh Food Festivals - Greek - Oktoberfest - Apples - M... (orig: 53552 chars, cleaned: 42294 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.visitpittsburgh.com/sitemaps-1-section-blogDirectory-1-sitemap.xml
+⚠️ FAILED SCRAPE (empty content): https://www.visitpittsburgh.com/sitemaps-1-section-pressDirectory-1-sitemap.xml
+✓ Processed [HTML]: Pittsburgh Fishing & Boating | Rentals & Locations | Visit P... (orig: 5369 chars, cleaned: 5369 chars)
+✓ Processed [HTML]: Pittsburgh Penguins | Penguins Tickets, Store & Schedule | V... (orig: 758 chars, cleaned: 758 chars)
+✓ Processed [HTML]: Fun Things to Do in Pittsburgh | Visit Pittsburgh... (orig: 30378 chars, cleaned: 30350 chars)
+✓ Processed [HTML]: Pittsburgh Business Directory | Visit Pittsburgh | Visit Pit... (orig: 12514 chars, cleaned: 12514 chars)
+✓ Processed [HTML]: Pittsburgh Public Art | Tours & Locations for Public Art | V... (orig: 5950 chars, cleaned: 5950 chars)
+✓ Processed [HTML]: What to Do Between Christmas & New Years in Pittsburgh | Vis... (orig: 26230 chars, cleaned: 24982 chars)
+✓ Processed [HTML]: About Pittsburgh, PA | History, Landscape & Culture | Visit ... (orig: 4231 chars, cleaned: 4231 chars)
+✓ Processed [HTML]: Pittsburgh Business Directory | Visit Pittsburgh | Visit Pit... (orig: 12101 chars, cleaned: 12101 chars)
+✓ Processed [HTML]: Pittsburgh Business Directory | Visit Pittsburgh | Visit Pit... (orig: 12215 chars, cleaned: 12215 chars)
+✓ Processed [HTML]: Outdoor Recreation in Pittsburgh | Golf, Trails, Parks & Fis... (orig: 8959 chars, cleaned: 8959 chars)
+✓ Processed [HTML]: Fun Things to Do in Pittsburgh | Visit Pittsburgh... (orig: 30022 chars, cleaned: 29994 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.visitpittsburgh.com/sitemaps-1-section-partnerDirectory-1-sitemap-p4.xml
+✓ Processed [HTML]: Shopping in Pittsburgh | Reviews, Maps & Coupons | Visit Pit... (orig: 28504 chars, cleaned: 28500 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.visitpittsburgh.com/sitemaps-1-event-default-1-sitemap.xml
+✓ Processed [HTML]: Biking in Pittsburgh | Top Bike Trails, Maps & Shops | Visit... (orig: 14215 chars, cleaned: 13122 chars)
+✓ Processed [HTML]: Pittsburgh Museums | Visit Pittsburgh... (orig: 12140 chars, cleaned: 11870 chars)
+✓ Processed [HTML]: Sign Up For Pittsburgh's Newsletter | Tips & Information | V... (orig: 791 chars, cleaned: 791 chars)
+✓ Processed [HTML]: Pittsburgh Sightseeing Tours - Visit Pittsburgh | Visit Pitt... (orig: 28509 chars, cleaned: 28509 chars)
+✓ Processed [HTML]: City Grows | Visit Pittsburgh... (orig: 1135 chars, cleaned: 1134 chars)
+✓ Processed [HTML]: Things to do in Pittsburgh with Kids | Visit Pittsburgh | Vi... (orig: 18012 chars, cleaned: 17984 chars)
+✓ Processed [HTML]: Official Blog of Visit Pittsburgh - Visit Pittsburgh | Visit... (orig: 15648 chars, cleaned: 15644 chars)
+✓ Processed [HTML]: Fun Things to Do in Pittsburgh | Visit Pittsburgh... (orig: 6664 chars, cleaned: 6636 chars)
+✓ Processed [HTML]: Health & Wellness in Pittsburgh | Directory and Maps | Visit... (orig: 6529 chars, cleaned: 6529 chars)
+✓ Processed [HTML]: Pittsburgh Private & Public Golf Courses | Visit Pittsburgh... (orig: 14537 chars, cleaned: 14533 chars)
+✓ Processed [HTML]: Outdoor Recreation in Pittsburgh | Golf, Trails, Parks & Fis... (orig: 32170 chars, cleaned: 32170 chars)
+✓ Processed [HTML]: Pittsburgh Business Directory | Visit Pittsburgh | Visit Pit... (orig: 12217 chars, cleaned: 12217 chars)
+✓ Processed [HTML]: Fun Things to Do in Pittsburgh | Visit Pittsburgh... (orig: 6283 chars, cleaned: 6255 chars)
+✓ Processed [HTML]: Pittsburgh Business Directory | Visit Pittsburgh | Visit Pit... (orig: 12376 chars, cleaned: 12376 chars)
+✓ Processed [HTML]: Pittsburgh Business Directory | Visit Pittsburgh | Visit Pit... (orig: 12671 chars, cleaned: 12671 chars)
+✓ Processed [HTML]: Pittsburgh Business Directory | Visit Pittsburgh | Visit Pit... (orig: 12192 chars, cleaned: 12192 chars)
+✓ Processed [HTML]: Pittsburgh Business Directory | Visit Pittsburgh | Visit Pit... (orig: 12371 chars, cleaned: 12371 chars)
+✓ Processed [HTML]: Pittsburgh Casinos & Gaming | Reviews, Maps & Photos | Visit... (orig: 1821 chars, cleaned: 1821 chars)
+✓ Processed [HTML]: Pittsburgh Pirates | Pittsburgh Baseball Schedule | Visit Pi... (orig: 4329 chars, cleaned: 4329 chars)
+✓ Processed [HTML]: Pittsburgh Trails | Hiking, Biking & Water Trails | Visit Pi... (orig: 11478 chars, cleaned: 11478 chars)
+✓ Processed [HTML]: Fun Things to Do in Pittsburgh | Visit Pittsburgh... (orig: 29110 chars, cleaned: 29082 chars)
+💾 Saved 44 documents to ./data/raw\visitpittsburgh_com.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[4/41] Processing: https://www.britannica.com/place/Pittsburgh
+Output file: ./data/raw\britannica_com_place_Pittsburgh.jsonl
+Starting crawl for: https://www.britannica.com/place/Pittsburgh
+Crawl job started with ID: fece5be0-5aba-411a-a13c-9fea453da5fb
+Job fece5be0-5aba-411a-a13c-9fea453da5fb status: scraping
+Job fece5be0-5aba-411a-a13c-9fea453da5fb status: scraping
+Job fece5be0-5aba-411a-a13c-9fea453da5fb status: completed
+Crawl completed! Found 3 pages
+✓ Processed [HTML]: Pittsburgh | Location, History, Teams, Attractions, & Facts ... (orig: 23860 chars, cleaned: 23495 chars)
+✓ Processed [HTML]: Pittsburgh (Pennsylvania, United States) | Britannica... (orig: 10968 chars, cleaned: 10959 chars)
+✓ Processed [HTML]: Pittsburgh | Britannica... (orig: 9546 chars, cleaned: 5882 chars)
+💾 Saved 3 documents to ./data/raw\britannica_com_place_Pittsburgh.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+============================================================
+Processing category: CITY_REGULATIONS
+============================================================
+
+
+[5/41] Processing: https://pittsburghpa.gov/finance/tax-forms
+Output file: ./data/raw\pittsburghpa_gov_finance_tax-forms.jsonl
+Starting crawl for: https://pittsburghpa.gov/finance/tax-forms
+Rate limit hit. Waiting 10 seconds before retry 1/5...
+Rate limit hit. Waiting 20 seconds before retry 2/5...
+Rate limit hit. Waiting 40 seconds before retry 3/5...
+Crawl job started with ID: 0b20d066-e8d7-4132-82fa-fd505a0b32d8
+Job 0b20d066-e8d7-4132-82fa-fd505a0b32d8 status: scraping
+Job 0b20d066-e8d7-4132-82fa-fd505a0b32d8 status: completed
+Crawl completed! Found 0 pages
+No data to save for ./data/raw\pittsburghpa_gov_finance_tax-forms.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+============================================================
+Processing category: EVENTS_PITTSBURGH
+============================================================
+
+
+[6/41] Processing: https://pittsburgh.events/
+Output file: ./data/raw\pittsburgh_events.jsonl
+Starting crawl for: https://pittsburgh.events/
+Crawl job started with ID: 72b60f60-97af-4af2-a8fc-64221dfe9110
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: scraping
+Job 72b60f60-97af-4af2-a8fc-64221dfe9110 status: completed
+Crawl completed! Found 100 pages
+✓ Processed [HTML]: Pittsburgh Events Calendar 2025/2026 | Pittsburgh Events... (orig: 10300 chars, cleaned: 10290 chars)
+✓ Processed [HTML]: Pittsburgh Events February 2026: Concerts, Shows, Sports... (orig: 11084 chars, cleaned: 11074 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/crowder-passion-music-louie-giglio-and-kari-jobe-carnes-pittsburgh-thursday-october-9-2025-700-pm/
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/alvin-ailey-american-dance-theater-pittsburgh-tuesday-october-7-2025-700-pm/?pid=1125
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/ben-folds-and-pittsburgh-symphony-orchestra-pittsburgh-tuesday-october-7-2025-730-pm/
+✓ Processed [HTML]: Pittsburgh Events April 2026: Concerts, Shows, Sports...... (orig: 11078 chars, cleaned: 11068 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/crowder-passion-music-louie-giglio-and-kari-jobe-carnes-pittsburgh-thursday-october-9-2025-700-pm/?pid=2374
+✓ Processed [HTML]: Pittsburgh Sporting Events in February 2026... (orig: 6830 chars, cleaned: 6820 chars)
+✓ Processed [HTML]: Pittsburgh Events December 2025: Concerts, Shows, Sports... (orig: 11084 chars, cleaned: 11074 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/the-concert-a-tribute-to-abba-pittsburgh-wednesday-october-8-2025-730-pm/?pid=5134
+✓ Processed [HTML]: Pittsburgh Events Calendar 2025/2026 | Pittsburgh.Events... (orig: 1145 chars, cleaned: 1135 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/brnda-pittsburgh-wednesday-october-8-2025-800-pm/?pid=6271
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/sombr-pittsburgh-sunday-october-5-2025-700-pm/?pid=5506
+✓ Processed [HTML]: Pittsburgh Sporting Events in July 2026... (orig: 6830 chars, cleaned: 6820 chars)
+✓ Processed [HTML]: Grayscale Tickets | Pittsburgh.Events... (orig: 476 chars, cleaned: 368 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/six-the-musical-pittsburgh-thursday-october-9-2025-730-pm/?pid=650
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/performers-sitemap.xml
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/performers-sitemap5.xml
+✓ Processed [HTML]: Pittsburgh Concerts May 2026 | Concert Tickets... (orig: 11336 chars, cleaned: 11326 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/six-the-musical-pittsburgh-wednesday-october-8-2025-730-pm/?pid=650
+✓ Processed [HTML]: Pittsburgh Events October 2025: Concerts, Shows, Sports... (orig: 11106 chars, cleaned: 11096 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/elvis-costello-and-the-imposters-wheeling-tuesday-october-7-2025-800-pm/
+✓ Processed [HTML]: Pittsburgh Sporting Events in January 2026... (orig: 6830 chars, cleaned: 6820 chars)
+✓ Processed [HTML]: Pittsburgh Concerts December 2025 | Concert Tickets... (orig: 11341 chars, cleaned: 11331 chars)
+✓ Processed [HTML]: Pittsburgh Sporting Events in December 2025... (orig: 6830 chars, cleaned: 6820 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/masterchef-all-stars-live-wheeling-thursday-october-9-2025-700-pm/
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/raphael-saadiq-mckees-rocks-tuesday-october-7-2025-800-pm/
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/silent-theory-new-kensington-tuesday-october-7-2025-630-pm/?pid=6152
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/the-psychedelic-furs-pittsburgh-wednesday-october-8-2025-800-pm/
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/six-the-musical-pittsburgh-tuesday-october-7-2025-730-pm/?pid=650
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/sitemap_index.xml
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/the-ragged-co-warrendale-wednesday-october-8-2025-730-pm/?pid=4489
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/the-vampire-circus-greensburg-wednesday-october-8-2025-730-pm/
+✓ Processed [HTML]: Grateful For Biggie Tickets | Pittsburgh.Events... (orig: 557 chars, cleaned: 455 chars)
+✓ Processed [HTML]: Pittsburgh Entertainment Venues: Upcoming Events & Tickets... (orig: 12658 chars, cleaned: 1054 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/allan-rayman-pittsburgh-sunday-october-5-2025-800-pm/?pid=5669
+✓ Processed [HTML]: Pittsburgh Events January 2026: Concerts, Shows, Sports...... (orig: 11082 chars, cleaned: 11072 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/privacy-policy/
+✓ Processed [HTML]: Pittsburgh Sporting Events in April 2026... (orig: 6830 chars, cleaned: 6820 chars)
+✓ Processed [HTML]: Pittsburgh Events May 2026: Concerts, Shows, Sports...... (orig: 11074 chars, cleaned: 11064 chars)
+✓ Processed [HTML]: Pittsburgh Events March 2026: Concerts, Shows, Sports...... (orig: 11078 chars, cleaned: 11068 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/performers-sitemap4.xml
+✓ Processed [HTML]: Pittsburgh Sporting Events in October 2025... (orig: 6831 chars, cleaned: 6821 chars)
+✓ Processed [HTML]: Pittsburgh Concerts October 2025 | Concert Tickets... (orig: 11341 chars, cleaned: 11331 chars)
+✓ Processed [HTML]: Pittsburgh Events June 2026: Concerts, Shows, Sports...... (orig: 11076 chars, cleaned: 11066 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/pittsburgh-symphony-orchestra-byron-stripling-come-swing-with-me-pittsburgh-sunday-october-5-2025-230-pm/?pid=234
+✓ Processed [HTML]: Pittsburgh Sporting Events 2025/2026... (orig: 10129 chars, cleaned: 10119 chars)
+✓ Processed [HTML]: Concerts in Pittsburgh - Schedule & Tickets 2025/2026... (orig: 11505 chars, cleaned: 11495 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/evil-dead-in-concert-a-live-to-film-experience-homestead-sunday-october-5-2025-800-pm/?pid=5878
+✓ Processed [HTML]: Pittsburgh Ballet Theatre Tickets | Benedum Center... (orig: 881 chars, cleaned: 881 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/sitemaps/
+✓ Processed [HTML]: Pittsburgh Events July 2026: Concerts, Shows, Sports...... (orig: 11076 chars, cleaned: 11066 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/performers-sitemap2.xml
+✓ Processed [HTML]: Grateful Shred Tickets | Pittsburgh.Events... (orig: 549 chars, cleaned: 457 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/elvis-costello-and-the-imposters-wheeling-tuesday-october-7-2025-800-pm/?pid=5512
+✓ Processed [HTML]: Pittsburgh Sporting Events in May 2026... (orig: 6830 chars, cleaned: 6820 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/a-taste-of-ireland-johnstown-thursday-october-9-2025-730-pm/
+✓ Processed [HTML]: Comedy Shows in Pittsburgh - Schedule & Tickets 2025/2026... (orig: 5752 chars, cleaned: 5742 chars)
+✓ Processed [HTML]: Pittsburgh Concerts February 2026 | Concert Tickets... (orig: 11341 chars, cleaned: 11331 chars)
+✓ Processed [HTML]: Pittsburgh Concerts April 2026 | Concert Tickets... (orig: 11338 chars, cleaned: 11328 chars)
+✓ Processed [HTML]: Pittsburgh Concerts January 2026 | Concert Tickets... (orig: 11340 chars, cleaned: 11330 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/page-sitemap.xml
+✓ Processed [HTML]: Pittsburgh Sporting Events in June 2026... (orig: 6830 chars, cleaned: 6820 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/boozy-bingo-pittsburgh-monday-october-6-2025-700-pm/
+✓ Processed [HTML]: Pittsburgh Broadway Shows, Plays & Musicals 2025/2026... (orig: 10803 chars, cleaned: 10793 chars)
+✓ Processed [HTML]: Broadway in Pittsburgh - Shows, Plays & Musicals 2025/2026... (orig: 2080 chars, cleaned: 2070 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/pittsburgh-penguins-vs-new-york-islanders-pittsburgh-thursday-october-9-2025-700-pm/?pid=33
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/pat-metheny-homestead-monday-october-6-2025-800-pm/?pid=1486
+✓ Processed [HTML]: Pittsburgh Events Next Week | Pittsburgh.Events... (orig: 865 chars, cleaned: 865 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/t-pain-pittsburgh-tuesday-october-7-2025-800-pm/?pid=3109
+✓ Processed [HTML]: Pittsburgh Sporting Events in September 2026... (orig: 6830 chars, cleaned: 6820 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/judith-hill-pittsburgh-tuesday-october-7-2025-730-pm/?pid=6186
+✓ Processed [HTML]: Pittsburgh Concerts in September 2026... (orig: 11342 chars, cleaned: 11332 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/contact-us/
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/villain-of-the-story-new-kensington-monday-october-6-2025-630-pm/?pid=6061
+✓ Processed [HTML]: Pittsburgh Sporting Events in March 2026... (orig: 6830 chars, cleaned: 6820 chars)
+✓ Processed [HTML]: Fun and Best Things to Do in Pittsburgh, PA... (orig: 860 chars, cleaned: 860 chars)
+✓ Processed [HTML]: Pittsburgh Concerts July 2026 | Concert Tickets... (orig: 11337 chars, cleaned: 11327 chars)
+✓ Processed [HTML]: Pittsburgh Sporting Events in August 2026... (orig: 6830 chars, cleaned: 6820 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/venues-sitemap.xml
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/ben-folds-and-pittsburgh-symphony-orchestra-pittsburgh-tuesday-october-7-2025-730-pm/?pid=4733
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/destroyer-pittsburgh-tuesday-october-7-2025-800-pm/?pid=5133
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/the-psychedelic-furs-pittsburgh-wednesday-october-8-2025-800-pm/?pid=5716
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/goon-band-pittsburgh-monday-october-6-2025-800-pm/?pid=5963
+✓ Processed [HTML]: Pittsburgh Concerts March 2026 | Concert Tickets... (orig: 11338 chars, cleaned: 11328 chars)
+✓ Processed [HTML]: Pittsburgh Concerts in November 2025... (orig: 11341 chars, cleaned: 11331 chars)
+✓ Processed [HTML]: Pittsburgh Events This Weekend | Pittsburgh.Events... (orig: 874 chars, cleaned: 874 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/forever-seger-the-silver-bullet-experience-greensburg-thursday-october-9-2025-730-pm/?pid=5135
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/pittsburgh-penguins-vs-new-york-islanders-pittsburgh-thursday-october-9-2025-700-pm/
+✓ Processed [HTML]: Pittsburgh Concerts June 2026 | Concert Tickets... (orig: 11337 chars, cleaned: 11327 chars)
+✓ Processed [HTML]: Pittsburgh Events November 2025: Concerts, Shows, Sports... (orig: 11084 chars, cleaned: 11074 chars)
+✓ Processed [HTML]: Pittsburgh Concerts August 2026 | Concert Tickets... (orig: 11339 chars, cleaned: 11329 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/performers-sitemap3.xml
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/pittsburgh-panthers-womens-volleyball-vs-georgia-tech-yellow-jackets-pittsburgh-sunday-october-5-2025-1200-pm/?pid=432
+✓ Processed [HTML]: Pittsburgh Events August 2026: Concerts, Shows, Sports...... (orig: 11080 chars, cleaned: 11070 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/performers-sitemap6.xml
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/tune-yards-pittsburgh-wednesday-october-8-2025-800-pm/?pid=5670
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/raphael-saadiq-mckees-rocks-tuesday-october-7-2025-800-pm/?pid=5964
+⚠️ FAILED SCRAPE (empty content): https://pittsburgh.events/event/t-pain-pittsburgh-tuesday-october-7-2025-800-pm/
+✓ Processed [HTML]: Pittsburgh Sporting Events in November 2025... (orig: 6830 chars, cleaned: 6820 chars)
+💾 Saved 50 documents to ./data/raw\pittsburgh_events.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[7/41] Processing: https://downtownpittsburgh.com/events/
+Output file: ./data/raw\downtownpittsburgh_com_events.jsonl
+Starting crawl for: https://downtownpittsburgh.com/events/
+Crawl job started with ID: f6f82152-940d-476c-8dec-530106c8c603
+Job f6f82152-940d-476c-8dec-530106c8c603 status: scraping
+Job f6f82152-940d-476c-8dec-530106c8c603 status: scraping
+Job f6f82152-940d-476c-8dec-530106c8c603 status: scraping
+Job f6f82152-940d-476c-8dec-530106c8c603 status: scraping
+Job f6f82152-940d-476c-8dec-530106c8c603 status: scraping
+Job f6f82152-940d-476c-8dec-530106c8c603 status: scraping
+Job f6f82152-940d-476c-8dec-530106c8c603 status: scraping
+Job f6f82152-940d-476c-8dec-530106c8c603 status: scraping
+Job f6f82152-940d-476c-8dec-530106c8c603 status: completed
+Crawl completed! Found 80 pages
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=9&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=20&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=4&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=3&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=6&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=12&d=6&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=29&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=24&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=22&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=27&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=17&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=7&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=12&d=3&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=15&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=18&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/submit-an-event/
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=31&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=21&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=30&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=18&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=1&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=12&d=4&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/event/?id=63879
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/event/?id=61224
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=14&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=6&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=26&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=19&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=10&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=2&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=9&d=28&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/event/?id=63871
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=9&d=30&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=16&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=25&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=12&d=1&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=21&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=13&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=4&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=27&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=15&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=12&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=24&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=22&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=11&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=29&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=5&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=9&d=29&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=28&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=16&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=25&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=5&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=8&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=28&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=12&d=5&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=2&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=13&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/event/?id=63876
+✓ Processed [HTML]: Event - Downtown Pittsburgh... (orig: 1026 chars, cleaned: 1026 chars)
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=23&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/event/?id=63873
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=1&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=20&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=8&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=23&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=7&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=9&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=3&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=11&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=9&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=12&d=2&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=26&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=12&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=19&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=17&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=10&d=30&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=10&y=2025
+⚠️ FAILED SCRAPE (empty content): https://downtownpittsburgh.com/events/?n=11&d=14&y=2025
+💾 Saved 1 documents to ./data/raw\downtownpittsburgh_com_events.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[8/41] Processing: https://www.pghcitypaper.com/pittsburgh/EventSearch
+Output file: ./data/raw\pghcitypaper_com_pittsburgh_EventSearch.jsonl
+Starting crawl for: https://www.pghcitypaper.com/pittsburgh/EventSearch
+Crawl job started with ID: 4aab8eea-8c71-490b-b14e-d7b8cc0a900c
+Job 4aab8eea-8c71-490b-b14e-d7b8cc0a900c status: completed
+Crawl completed! Found 0 pages
+No data to save for ./data/raw\pghcitypaper_com_pittsburgh_EventSearch.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+============================================================
+Processing category: EVENTS_CMU
+============================================================
+
+
+[9/41] Processing: https://events.cmu.edu/
+Output file: ./data/raw\events_cmu_edu.jsonl
+Starting crawl for: https://events.cmu.edu/
+Rate limit hit. Waiting 10 seconds before retry 1/5...
+Rate limit hit. Waiting 20 seconds before retry 2/5...
+Crawl job started with ID: 81bfa138-d689-4276-bf3e-dfc49b87a24b
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: scraping
+Job 81bfa138-d689-4276-bf3e-dfc49b87a24b status: completed
+Crawl completed! Found 100 pages
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23846-mens-basketball-denison-vs-carnegie-mellon
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23873-womens-volleyball-point-park-vs-carnegie-mellon
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26318-heartfulness-sunday-meditation-guided-meditation
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26146-carl-amy-jones-lecture-in-interdisciplinary-science-am
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/21981-semester-mini-2-fces-close
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23833-womens-basketball-alvernia-vs-carnegie-mellon
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26122-beyond-the-intersection-of-art-and-technology
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/25099-thanksgiving-day-official-university-holiday
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23785-community-crafternoon
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26191-cna-working-group-abhimanyu-choudhary-carnegie-mellon-
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/25555-ai-sdm-student-practitioner-lunch-and-learn
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26271-cosmo-25-public-lecture
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/week/date/20251109
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/day/date/20251009?event_id=25729
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/22047-nativity-fast-ends
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23782-monthly-gratitude-gathering
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23777-paws-to-relax-weekly-pet-therapy-program
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26369-mid-week-recharge-with-sky-meditation
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23788-heartfulness-weekly-meditation
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/24864-libraries-workshop-communicating-data-power-bi
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/25105-new-years-day-official-university-holiday
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/21986-semester-mini-2-last-day-of-classes
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26283-voter-registration-drive
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/24855-libraries-workshop-sql-fundamentals
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/24867-libraries-workshop-series-getting-started-with-cc
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/24868-libraries-workshop-analyzing-scholarly-literature
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26308-voter-engagement-office-hours
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/24555-paws-to-relax-weekly-pet-therapy-program
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/21982-reading-day
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23894-womens-volleyball-rochester-ny-vs-carnegie-mellon
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/12957-family-weekend
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/25111-winter-break
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/24858-libraries-workshop-series-getting-started-with-cc
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/student-affairs/event/26260-register-to-vote-nvew
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/25102-christmas-day-official-university-holiday
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/25719-dining-student-advisory-committee-dsac-meeting
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/day/date/20251010?event_id=26151
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/24863-libraries-workshop-mining-microhistories-how-to
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26311-voter-engagement-office-hours
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/day/date/2025111
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/day/date/20251009
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/week/date/20251221
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23776-paws-to-relax-weekly-pet-therapy-program
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23835-womens-basketball-otterbein-vs-carnegie-mellon
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/25253-cmist-graduate-program-open-house
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/22039-guru-nanak-jis-birthday
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/student-affairs/event/24839-libraries-workshop-introduction-to-reaxys-for
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/25178-ai-sdm-seminar-series-ann-bostrom
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26321-heartfulness-sunday-meditation-guided-meditation
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/25703-academic-freedom-from-professional-norm-to-first
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/25103-new-years-eve-official-university-holiday
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26126-hands-on-cake-crafts-a-125th-birthday-celebration-with
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/week/date/20251026
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/24870-libraries-workshop-creating-websites-and
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/24862-libraries-workshop-breathe-reset-and-connect-with
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23787-heartfulness-weekly-meditation
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26316-heartfulness-sunday-meditation-guided-meditation
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26360-spirituality-coffee-hours
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26152-astro-lunch-seminar-gabe-freedman-psu
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/dietrich/event/26141-humanities-faculty-lunch-learn
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/24865-libraries-workshop-series-getting-started-with-cc
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23704-swartz-center-connects-seminar-series
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/student-affairs/event/26275-voter-engagement-office-hours
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/24871-libraries-workshop-tips-for-writing-literature
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/day/date/20251009?event_id=14670
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/21992-mini-2-drop-deadline-withdrawal-grade-assigned
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/22277-simchat-torah-begins
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26291-spirituality-coffee-hours
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23775-paws-to-relax-weekly-pet-therapy-program
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26285-voter-registration-drive
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26262-health-literacy-fair
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23855-womens-soccer-case-western-reserve-vs-carnegie
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/22038-anniversary-of-the-crowning-of-haile-salassie
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26166-cmu125-at-homecoming-weekend
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/22331-staff-supervisory-essentials-session
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/chemistry/event/23723-library-event-introduction-to-reaxys-for-chemical
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26297-making-hard-choices-spiritual-tools-for
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/22034-samhain-ends
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23783-monthly-gratitude-gathering
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/25250-room-to-imagine-125-years-of-carnegie-mellon
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26284-voter-registration-drive
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/day/date/2025109
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/student-affairs/event/12957-family-weekend
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/22046-channukah-ends
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/21996-mid-semester-mini-1-grades-due-by-4pm
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/day/date/20251010?event_id=26280
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/athletics-home/event/23910-football-mcdaniel-vs-carnegie-mellon
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/24851-libraries-workshop-arts-x-eship-crafting-a
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23781-monthly-gratitude-gathering
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23786-community-crafternoon
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23891-mens-golf-tartan-invitational
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/7307-here-to-stay-celebrating-40-years-at-the
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/25720-dining-student-advisory-committee-dsac-meeting
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/26292-shared-words-shared-worlds-an-interfaith-night-of
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23857-mens-soccer-case-western-reserve-vs-carnegie
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23779-paws-to-relax-weekly-pet-therapy-program
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/day/date/20251010?event_id=14670
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/23702-swartz-center-connects-seminar-series
+⚠️ FAILED SCRAPE (empty content): https://events.cmu.edu/event/22334-civil-treatment-for-employees
+No data to save for ./data/raw\events_cmu_edu.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[10/41] Processing: https://www.cmu.edu/engage/alumni/events/campus/
+Output file: ./data/raw\cmu_edu_engage_alumni_events_campus.jsonl
+Starting crawl for: https://www.cmu.edu/engage/alumni/events/campus/
+Crawl job started with ID: b977d5d2-f597-4b41-a23a-9c068bf6f4c7
+Job b977d5d2-f597-4b41-a23a-9c068bf6f4c7 status: scraping
+Job b977d5d2-f597-4b41-a23a-9c068bf6f4c7 status: completed
+Crawl completed! Found 0 pages
+No data to save for ./data/raw\cmu_edu_engage_alumni_events_campus.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+============================================================
+Processing category: MUSIC_CULTURE
+============================================================
+
+
+[11/41] Processing: https://www.pittsburghsymphony.org/
+Output file: ./data/raw\pittsburghsymphony_org.jsonl
+Starting crawl for: https://www.pittsburghsymphony.org/
+Crawl job started with ID: a80f8c41-cc59-4e47-9bdb-b17362cbb1fd
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: scraping
+Job a80f8c41-cc59-4e47-9bdb-b17362cbb1fd status: completed
+Crawl completed! Found 40 pages
+✓ Processed [HTML]: Pittsburgh Symphony Orchestra... (orig: 13969 chars, cleaned: 12889 chars)
+✓ Processed [HTML]: Tropical Rock - Pittsburgh | Official Ticket Source | Heinz ... (orig: 8313 chars, cleaned: 7098 chars)
+✓ Processed [HTML]: Subscriptions... (orig: 8177 chars, cleaned: 7194 chars)
+✓ Processed [HTML]: Appalachian Spring - Pittsburgh | Official Ticket Source | H... (orig: 8209 chars, cleaned: 7011 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 7348 chars, cleaned: 5953 chars)
+✓ Processed [HTML]: American Tunes - Pittsburgh | Official Ticket Source | Heinz... (orig: 7135 chars, cleaned: 5941 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 10561 chars, cleaned: 9155 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 13907 chars, cleaned: 12501 chars)
+✓ Processed [HTML]: PSO Conductors... (orig: 8144 chars, cleaned: 6751 chars)
+✓ Processed [HTML]: David Stock... (orig: 7503 chars, cleaned: 6551 chars)
+✓ Processed [HTML]: Employment... (orig: 5607 chars, cleaned: 4800 chars)
+✓ Processed [HTML]: PSO360: Gautier Capuçon - Pittsburgh | Official Ticket Sourc... (orig: 6303 chars, cleaned: 5108 chars)
+✓ Processed [HTML]: Bruckner's Eighth - Pittsburgh | Official Ticket Source | He... (orig: 7136 chars, cleaned: 5909 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 8048 chars, cleaned: 6653 chars)
+✓ Processed [HTML]: Choose Your Own... (orig: 7636 chars, cleaned: 6635 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 12206 chars, cleaned: 10811 chars)
+✓ Processed [HTML]: Sensory Friendly Concert: Holiday Pops - Pittsburgh | Offici... (orig: 7848 chars, cleaned: 6471 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 9979 chars, cleaned: 8573 chars)
+✓ Processed [HTML]: Mission... (orig: 6382 chars, cleaned: 5447 chars)
+✓ Processed [HTML]: Speaker Series: Anthony Fauci - Pittsburgh | Official Ticket... (orig: 6693 chars, cleaned: 5547 chars)
+✓ Processed [HTML]: Saturday Sessions: Stravinsky’s Violin Concerto - Pittsburgh... (orig: 8441 chars, cleaned: 7242 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 12470 chars, cleaned: 11075 chars)
+✓ Processed [HTML]: Visit Landing... (orig: 6866 chars, cleaned: 6059 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 9927 chars, cleaned: 8521 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 12756 chars, cleaned: 11361 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 10812 chars, cleaned: 9417 chars)
+✓ Processed [HTML]: Paul J. Ross Fellowship... (orig: 14907 chars, cleaned: 13391 chars)
+✓ Processed [HTML]: History of the Pittsburgh Symphony Orchestra... (orig: 33080 chars, cleaned: 32273 chars)
+✓ Processed [HTML]: Ax Plays Brahms - Pittsburgh | Official Ticket Source | Hein... (orig: 7455 chars, cleaned: 6266 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 9133 chars, cleaned: 7738 chars)
+✓ Processed [HTML]: Volunteer ... (orig: 9719 chars, cleaned: 7698 chars)
+✓ Processed [HTML]: Group Sales... (orig: 7442 chars, cleaned: 6411 chars)
+✓ Processed [HTML]: Star Wars: The Empire Strikes Back - Pittsburgh | Official T... (orig: 6398 chars, cleaned: 5237 chars)
+✓ Processed [HTML]: Board of Directors... (orig: 7443 chars, cleaned: 6636 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 13097 chars, cleaned: 11702 chars)
+✓ Processed [HTML]: Saturday Sessions: Tchaikovsky’s Pathétique - Pittsburgh | O... (orig: 7995 chars, cleaned: 6808 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 12935 chars, cleaned: 11540 chars)
+✓ Processed [HTML]: Speaker Series: Vladimir Kara-Murza - Pittsburgh | Official ... (orig: 6756 chars, cleaned: 5592 chars)
+✓ Processed [HTML]: Upcoming Events and Tickets for Pittsburgh Symphony Orchestr... (orig: 6271 chars, cleaned: 5452 chars)
+✓ Processed [HTML]: Trisha Yearwood - Pittsburgh | Official Ticket Source | Hein... (orig: 6460 chars, cleaned: 5339 chars)
+💾 Saved 40 documents to ./data/raw\pittsburghsymphony_org.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[12/41] Processing: https://pittsburghopera.org/
+Output file: ./data/raw\pittsburghopera_org.jsonl
+Starting crawl for: https://pittsburghopera.org/
+Crawl job started with ID: 36ffc11f-5ebb-4e7e-8525-a0ae17aed675
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: scraping
+Job 36ffc11f-5ebb-4e7e-8525-a0ae17aed675 status: completed
+Crawl completed! Found 30 pages
+✓ Processed [HTML]: Home | Pittsburgh Opera... (orig: 23155 chars, cleaned: 19312 chars)
+✓ Processed [HTML]: Pittsburgh Opera: Mission and History | Pittsburgh Opera... (orig: 18339 chars, cleaned: 17522 chars)
+✓ Processed [HTML]: About Pittsburgh Opera | Pittsburgh Opera... (orig: 16056 chars, cleaned: 15039 chars)
+✓ Processed [HTML]: Pittsburgh Opera Public Financial Documents | Pittsburgh Ope... (orig: 17289 chars, cleaned: 16657 chars)
+✓ Processed [HTML]: Opera Mythbusting | Pittsburgh Opera... (orig: 21189 chars, cleaned: 19990 chars)
+✓ Processed [HTML]: Pittsburgh Opera to Receive $25k NEA Grant... (orig: 15855 chars, cleaned: 15223 chars)
+✓ Processed [HTML]:  LA BOHÈME | Pittsburgh Opera... (orig: 31258 chars, cleaned: 27905 chars)
+✓ Processed [HTML]: CURLEW RIVER | Pittsburgh Opera... (orig: 21576 chars, cleaned: 20514 chars)
+✓ Processed [HTML]: Pittsburgh Opera past seasons | Pittsburgh Opera... (orig: 25747 chars, cleaned: 25115 chars)
+✓ Processed [HTML]: An Evening of German Vocal Music... (orig: 1721 chars, cleaned: 1302 chars)
+✓ Processed [HTML]: Terrence Chin-Loy... (orig: 19641 chars, cleaned: 16668 chars)
+✓ Processed [HTML]: FALSTAFF | Pittsburgh Opera... (orig: 30951 chars, cleaned: 27994 chars)
+✓ Processed [HTML]: Pittsburgh Opera's Calendar | Pittsburgh Opera... (orig: 2834 chars, cleaned: 1796 chars)
+✓ Processed [HTML]: Pittsburgh Opera presents Mozart's Don Giovanni | Pittsburgh... (orig: 17255 chars, cleaned: 16456 chars)
+✓ Processed [HTML]: CARMEN | Pittsburgh Opera... (orig: 51350 chars, cleaned: 45656 chars)
+✓ Processed [HTML]: Pittsburgh Opera: programs and resources for Educators | Pit... (orig: 15004 chars, cleaned: 14309 chars)
+✓ Processed [HTML]: TIME TO ACT | Pittsburgh Opera... (orig: 18449 chars, cleaned: 17300 chars)
+✓ Processed [HTML]: Pittsburgh Opera Special Events | Pittsburgh Opera... (orig: 14786 chars, cleaned: 13701 chars)
+✓ Processed [HTML]: Meet the Artists - Cavalleria Rusticana and Pagliacci... (orig: 1496 chars, cleaned: 1183 chars)
+✓ Processed [HTML]: Pittsburgh Opera Free & Low-Cost Events | Pittsburgh Opera... (orig: 15983 chars, cleaned: 15096 chars)
+✓ Processed [HTML]: Maeve Berry... (orig: 16446 chars, cleaned: 15739 chars)
+✓ Processed [HTML]: Pittsburgh Opera Season | Pittsburgh Opera... (orig: 14417 chars, cleaned: 12846 chars)
+✓ Processed [HTML]: FELLOW TRAVELERS | Pittsburgh Opera... (orig: 29177 chars, cleaned: 26369 chars)
+✓ Processed [HTML]: News and Announcements | Pittsburgh Opera... (orig: 20805 chars, cleaned: 20551 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburghopera.org/sitemap.xml
+✓ Processed [HTML]: Strategic Impact and Engagement | Pittsburgh Opera... (orig: 17739 chars, cleaned: 14595 chars)
+✓ Processed [HTML]: Pre-Opera Talk... (orig: 1387 chars, cleaned: 1074 chars)
+✓ Processed [HTML]: Tito Capobianco dies at age 87... (orig: 14958 chars, cleaned: 13953 chars)
+✓ Processed [HTML]: GLORY DENIED | Pittsburgh Opera... (orig: 34409 chars, cleaned: 31042 chars)
+✓ Processed [HTML]: Pittsburgh Opera tickets | Pittsburgh Opera... (orig: 15444 chars, cleaned: 14012 chars)
+💾 Saved 29 documents to ./data/raw\pittsburghopera_org.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[13/41] Processing: https://trustarts.org/
+Output file: ./data/raw\trustarts_org.jsonl
+Starting crawl for: https://trustarts.org/
+Crawl job started with ID: 3af8c322-bd53-4b90-a98c-0919d7fc9918
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: scraping
+Job 3af8c322-bd53-4b90-a98c-0919d7fc9918 status: completed
+Crawl completed! Found 40 pages
+✓ Processed [HTML]: The Pittsburgh Cultural Trust... (orig: 9524 chars, cleaned: 9071 chars)
+✓ Processed [HTML]: Jeremy Jordan | Performance List... (orig: 1584 chars, cleaned: 1258 chars)
+✓ Processed [HTML]: The 4th Witch - Pittsburgh | Official Ticket Source | Byham ... (orig: 5251 chars, cleaned: 4824 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 12910 chars, cleaned: 12037 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 4661 chars, cleaned: 3788 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 10806 chars, cleaned: 9933 chars)
+✓ Processed [HTML]: The Concert: A Tribute to ABBA - Pittsburgh | Official Ticke... (orig: 5268 chars, cleaned: 4642 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 10169 chars, cleaned: 9296 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 4586 chars, cleaned: 3713 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 13126 chars, cleaned: 12253 chars)
+✓ Processed [HTML]: Killers of Kill Tony - Pittsburgh | Official Ticket Source |... (orig: 4052 chars, cleaned: 3463 chars)
+✓ Processed [HTML]: Fountain and Eye Benches... (orig: 3097 chars, cleaned: 2631 chars)
+✓ Processed [HTML]: Aries Spears - Pittsburgh | Official Ticket Source | Byham T... (orig: 6758 chars, cleaned: 6193 chars)
+✓ Processed [HTML]: Public Transportation... (orig: 1534 chars, cleaned: 1117 chars)
+✓ Processed [HTML]: Seating Charts... (orig: 3491 chars, cleaned: 2414 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 9679 chars, cleaned: 8806 chars)
+✓ Processed [HTML]: Community Engagement... (orig: 2780 chars, cleaned: 2495 chars)
+✓ Processed [HTML]: Tickets & Events... (orig: 3937 chars, cleaned: 3652 chars)
+✓ Processed [HTML]: Sierra Boggess - Pittsburgh | Official Ticket Source | Greer... (orig: 3831 chars, cleaned: 3409 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 11085 chars, cleaned: 10212 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 4826 chars, cleaned: 3953 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 7137 chars, cleaned: 6264 chars)
+✓ Processed [HTML]: Brahms' Third - Pittsburgh | Official Ticket Source | Heinz ... (orig: 3627 chars, cleaned: 2976 chars)
+✓ Processed [HTML]: Host an Event... (orig: 2141 chars, cleaned: 1658 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 7809 chars, cleaned: 6936 chars)
+✓ Processed [HTML]: Shared Services... (orig: 2557 chars, cleaned: 2134 chars)
+✓ Processed [HTML]: Liberty Magic... (orig: 1143 chars, cleaned: 849 chars)
+✓ Processed [HTML]: The Box Office at Theater Square... (orig: 1879 chars, cleaned: 1487 chars)
+✓ Processed [HTML]: About... (orig: 4279 chars, cleaned: 3837 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 6174 chars, cleaned: 5301 chars)
+✓ Processed [HTML]: Arts Education... (orig: 3108 chars, cleaned: 2497 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 7354 chars, cleaned: 6481 chars)
+✓ Processed [HTML]: Coco (2017) - Pittsburgh | Official Ticket Source | Harris T... (orig: 5085 chars, cleaned: 4477 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 11191 chars, cleaned: 10318 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 5579 chars, cleaned: 4706 chars)
+✓ Processed [HTML]: Calendar and Event Schedule for Pittsburgh Cultural Trust... (orig: 10602 chars, cleaned: 9729 chars)
+✓ Processed [HTML]: Mafalda Minnozzi presents “MEU RIO” featuring Paul Ricci - P... (orig: 3741 chars, cleaned: 3047 chars)
+✓ Processed [HTML]: Cultural District... (orig: 3135 chars, cleaned: 2679 chars)
+✓ Processed [HTML]: Print At Home... (orig: 7088 chars, cleaned: 6206 chars)
+✓ Processed [HTML]: Visual Arts... (orig: 12938 chars, cleaned: 12460 chars)
+💾 Saved 40 documents to ./data/raw\trustarts_org.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[14/41] Processing: https://carnegiemuseums.org/
+Output file: ./data/raw\carnegiemuseums_org.jsonl
+Starting crawl for: https://carnegiemuseums.org/
+Crawl job started with ID: 50025699-4a00-44a3-844e-b97bff23847c
+Job 50025699-4a00-44a3-844e-b97bff23847c status: scraping
+Job 50025699-4a00-44a3-844e-b97bff23847c status: scraping
+Job 50025699-4a00-44a3-844e-b97bff23847c status: scraping
+Job 50025699-4a00-44a3-844e-b97bff23847c status: scraping
+Job 50025699-4a00-44a3-844e-b97bff23847c status: scraping
+Job 50025699-4a00-44a3-844e-b97bff23847c status: scraping
+Job 50025699-4a00-44a3-844e-b97bff23847c status: scraping
+Job 50025699-4a00-44a3-844e-b97bff23847c status: scraping
+Job 50025699-4a00-44a3-844e-b97bff23847c status: scraping
+Job 50025699-4a00-44a3-844e-b97bff23847c status: scraping
+Job 50025699-4a00-44a3-844e-b97bff23847c status: completed
+Crawl completed! Found 80 pages
+✓ Processed [HTML]: Home - Carnegie Museums of Pittsburgh... (orig: 6179 chars, cleaned: 6114 chars)
+✓ Processed [HTML]: How Whales Hear (Jul/Aug 1997) - Carnegie Museums of Pittsbu... (orig: 6552 chars, cleaned: 6552 chars)
+✓ Processed [HTML]: Carnegie Magazine Archives - Carnegie Museums of Pittsburgh... (orig: 9222 chars, cleaned: 9222 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/archive_article-sitemap2.xml
+✓ Processed [HTML]: About Town: Art for All (Winter 2013) - Carnegie Museums of ... (orig: 7383 chars, cleaned: 7383 chars)
+✓ Processed [HTML]: Events from February 28 – May 17 – Carnegie Museums of Pitts... (orig: 2324 chars, cleaned: 2324 chars)
+✓ Processed [HTML]: About Town: Changing the Conversation (Winter 2015) - Carneg... (orig: 7817 chars, cleaned: 7817 chars)
+✓ Processed [HTML]: About Town: Wild by Design (Fall 2013) - Carnegie Museums of... (orig: 6835 chars, cleaned: 6835 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/events/2025-10-01/?hide_subsequent_recurrences=1
+✓ Processed [HTML]: About Town: International Appeal (Winter 2007) - Carnegie Mu... (orig: 6532 chars, cleaned: 6531 chars)
+✓ Processed [HTML]: About       Town (Summer 2006) - Carnegie Museums of Pittsbu... (orig: 6822 chars, cleaned: 6739 chars)
+✓ Processed [HTML]: Events from February 28 – May 17 › Live Performances ›  – Ca... (orig: 1684 chars, cleaned: 1684 chars)
+✓ Processed [HTML]: Events for October 13, 2025 – Carnegie Museums of Pittsburgh... (orig: 438 chars, cleaned: 438 chars)
+✓ Processed [HTML]: Contact Us - Carnegie Museums of Pittsburgh... (orig: 1118 chars, cleaned: 1118 chars)
+✓ Processed [HTML]: About       Town (Winter 2006) - Carnegie Museums of Pittsbu... (orig: 5209 chars, cleaned: 5126 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/media_category-sitemap.xml
+✓ Processed [HTML]: Events for September 2025 – Carnegie Museums of Pittsburgh... (orig: 109212 chars, cleaned: 87646 chars)
+✓ Processed [HTML]: About       Town (Fall 2005) - Carnegie Museums of Pittsburg... (orig: 6795 chars, cleaned: 6795 chars)
+✓ Processed [HTML]: Exhibition Archives - Carnegie Museums of Pittsburgh... (orig: 9279 chars, cleaned: 9279 chars)
+✓ Processed [HTML]: About Town: Artists Among Us (Summer 2010) - Carnegie Museum... (orig: 6887 chars, cleaned: 6887 chars)
+✓ Processed [HTML]: About Town: A Legacy of Science (Summer 2014) - Carnegie Mus... (orig: 7678 chars, cleaned: 7678 chars)
+✓ Processed [HTML]: Events for October 15, 2025 – Carnegie Museums of Pittsburgh... (orig: 692 chars, cleaned: 692 chars)
+✓ Processed [HTML]: About       Town (Fall 2006) - Carnegie Museums of Pittsburg... (orig: 6261 chars, cleaned: 6178 chars)
+✓ Processed [HTML]: About       Town (Summer 2005) - Carnegie Museums of Pittsbu... (orig: 5625 chars, cleaned: 5625 chars)
+✓ Processed [HTML]: About Town: Robotic Wonder (Summer 2008) - Carnegie Museums ... (orig: 6810 chars, cleaned: 6810 chars)
+✓ Processed [HTML]: About Town: Asking Andy (Spring 2010) - Carnegie Museums of ... (orig: 7243 chars, cleaned: 7243 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/tribe_venue-sitemap.xml
+✓ Processed [HTML]: About Town: Awarding the Changemakers (Spring 2016) - Carneg... (orig: 8262 chars, cleaned: 8262 chars)
+✓ Processed [HTML]: About       Town (Spring 2005) - Carnegie Museums of Pittsbu... (orig: 4478 chars, cleaned: 4478 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/post-sitemap.xml
+✓ Processed [HTML]: Events for October 6, 2025 – Carnegie Museums of Pittsburgh... (orig: 323 chars, cleaned: 323 chars)
+✓ Processed [HTML]: Events for November 2025 – Carnegie Museums of Pittsburgh... (orig: 123871 chars, cleaned: 100596 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/post_tag-sitemap.xml
+✓ Processed [HTML]: Fall 2018 - Carnegie Museums of Pittsburgh... (orig: 7047 chars, cleaned: 7047 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/page-sitemap.xml
+✓ Processed [HTML]: Events for October 7, 2025 – Carnegie Museums of Pittsburgh... (orig: 266 chars, cleaned: 266 chars)
+✓ Processed [HTML]: Events for October 2025 – Carnegie Museums of Pittsburgh... (orig: 121055 chars, cleaned: 97145 chars)
+✓ Processed [HTML]: Our History - Carnegie Museums of Pittsburgh... (orig: 30397 chars, cleaned: 28779 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/events/2025-10-02/?hide_subsequent_recurrences=1
+✓ Processed [HTML]: Events for October 9, 2025 – Carnegie Museums of Pittsburgh... (orig: 601 chars, cleaned: 601 chars)
+✓ Processed [HTML]: Events for October 14, 2025 – Carnegie Museums of Pittsburgh... (orig: 268 chars, cleaned: 268 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/author-sitemap.xml
+✓ Processed [HTML]: About Town (Spring 2013) - Carnegie Museums of Pittsburgh... (orig: 6020 chars, cleaned: 6020 chars)
+✓ Processed [HTML]: Events from February 28 – May 17 › Films ›  – Carnegie Museu... (orig: 520 chars, cleaned: 520 chars)
+✓ Processed [HTML]: Events for October 10, 2025 – Carnegie Museums of Pittsburgh... (orig: 1273 chars, cleaned: 1273 chars)
+✓ Processed [HTML]: Events for October 17, 2025 – Carnegie Museums of Pittsburgh... (orig: 908 chars, cleaned: 908 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/exhibit-categories-sitemap.xml
+✓ Processed [HTML]: About Town: Friends of the Forest (Spring 2014) - Carnegie M... (orig: 6955 chars, cleaned: 6955 chars)
+✓ Processed [HTML]: Trustees and Museum Advisory Boards - Carnegie Museums of Pi... (orig: 4296 chars, cleaned: 4296 chars)
+✓ Processed [HTML]: Fall 2021 - Carnegie Museums of Pittsburgh... (orig: 7030 chars, cleaned: 7030 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/tribe_events-sitemap.xml
+✓ Processed [HTML]: Past Events from May 17 – February 28 – Carnegie Museums of ... (orig: 2478 chars, cleaned: 2478 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/object_type-sitemap.xml
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/issue-sitemap.xml
+✓ Processed [HTML]: About Town: Move Over, T. rex (Fall 2015) - Carnegie Museums... (orig: 7863 chars, cleaned: 7863 chars)
+✓ Processed [HTML]: About Town: Reconstructing Pittsburgh's Atomic Past (Winter ... (orig: 9011 chars, cleaned: 9011 chars)
+✓ Processed [HTML]: About Us - Carnegie Museums of Pittsburgh... (orig: 1719 chars, cleaned: 1419 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/events/category/member-lounge/
+✓ Processed [HTML]: Fall 2023 - Carnegie Museums of Pittsburgh... (orig: 7774 chars, cleaned: 7774 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/object_category-sitemap.xml
+✓ Processed [HTML]: About Town: Game On (Winter 2011) - Carnegie Museums of Pitt... (orig: 7919 chars, cleaned: 7919 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/events/2025-10-08/?hide_subsequent_recurrences=1
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/events/2025-09-29/?hide_subsequent_recurrences=1
+✓ Processed [HTML]: About Town: Let's Explore (Spring 2007) - Carnegie Museums o... (orig: 6329 chars, cleaned: 1152 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/tribe_events_cat-sitemap.xml
+✓ Processed [HTML]: Become a Member! - Carnegie Museums of Pittsburgh... (orig: 5208 chars, cleaned: 4995 chars)
+✓ Processed [HTML]: Events from February 28 – May 17 › After-hours Events ›  – C... (orig: 2259 chars, cleaned: 2259 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/events/2025-10-04/?hide_subsequent_recurrences=1
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/tec_recurring_events-sitemap.xml
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/tribe_event_series-sitemap.xml
+✓ Processed [HTML]: Fall 2022 - Carnegie Museums of Pittsburgh... (orig: 7747 chars, cleaned: 7747 chars)
+✓ Processed [HTML]: Events from February 28 – May 17 – Carnegie Museums of Pitts... (orig: 2324 chars, cleaned: 2324 chars)
+✓ Processed [HTML]: About Town: Let's Talk about Race (Fall 2014) - Carnegie Mus... (orig: 8084 chars, cleaned: 8084 chars)
+✓ Processed [HTML]: Events from February 28 – May 17 › Exhibitions ›  – Carnegie... (orig: 1717 chars, cleaned: 1717 chars)
+✓ Processed [HTML]: Events from February 28 – May 17 › Activites ›  – Carnegie M... (orig: 2208 chars, cleaned: 2208 chars)
+✓ Processed [HTML]: Events for October 12, 2025 – Carnegie Museums of Pittsburgh... (orig: 268 chars, cleaned: 268 chars)
+✓ Processed [HTML]: About Town: A Wild Weather Adventure (Winter 2008) - Carnegi... (orig: 6302 chars, cleaned: 6302 chars)
+✓ Processed [HTML]: Fall 2017 - Carnegie Museums of Pittsburgh... (orig: 5657 chars, cleaned: 5657 chars)
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/events/2025-10-03/?hide_subsequent_recurrences=1
+⚠️ FAILED SCRAPE (empty content): https://carnegiemuseums.org/sitemap_index.xml
+💾 Saved 57 documents to ./data/raw\carnegiemuseums_org.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[15/41] Processing: https://www.heinzhistorycenter.org/
+Output file: ./data/raw\heinzhistorycenter_org.jsonl
+Starting crawl for: https://www.heinzhistorycenter.org/
+Crawl job started with ID: 7fb796c2-8cc3-4de7-bf15-4f94b8aff772
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: scraping
+Job 7fb796c2-8cc3-4de7-bf15-4f94b8aff772 status: completed
+Crawl completed! Found 50 pages
+✓ Processed [HTML]: Home - Heinz History Center... (orig: 9395 chars, cleaned: 7822 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.heinzhistorycenter.org/tribe_events-sitemap.xml
+✓ Processed [HTML]: Was the World’s First Gas Station in Pittsburgh? It’s Compli... (orig: 38773 chars, cleaned: 34373 chars)
+✓ Processed [HTML]: Heinz History Center - Heinz History Center... (orig: 7626 chars, cleaned: 6034 chars)
+✓ Processed [HTML]: Meadowcroft Rockshelter and Historic Village - Heinz History... (orig: 6411 chars, cleaned: 4025 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.heinzhistorycenter.org/page-sitemap.xml
+✓ Processed [HTML]: Health & Safety - Heinz History Center... (orig: 1543 chars, cleaned: 1293 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.heinzhistorycenter.org/tribe_events_cat-sitemap.xml
+✓ Processed [HTML]: Join & Give - Heinz History Center... (orig: 3956 chars, cleaned: 2134 chars)
+✓ Processed [HTML]: Make a Donation - Heinz History Center... (orig: 1862 chars, cleaned: 1059 chars)
+✓ Processed [HTML]: Fort Pitt Museum - Heinz History Center... (orig: 2039 chars, cleaned: 1229 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.heinzhistorycenter.org/sitemap_index.xml
+✓ Processed [HTML]: Become a Member - Heinz History Center... (orig: 5103 chars, cleaned: 4078 chars)
+✓ Processed [HTML]: Heinz History Center - Heinz History Center... (orig: 6156 chars, cleaned: 3663 chars)
+✓ Processed [HTML]: Frequently Asked Questions - Heinz History Center... (orig: 5700 chars, cleaned: 5700 chars)
+✓ Processed [HTML]: Kids & Families - Heinz History Center... (orig: 6868 chars, cleaned: 4064 chars)
+✓ Processed [HTML]: Exhibits - Heinz History Center... (orig: 2586 chars, cleaned: 1132 chars)
+✓ Processed [HTML]: The Kamin Family Legacy - Heinz History Center... (orig: 4213 chars, cleaned: 2808 chars)
+✓ Processed [HTML]: About - Heinz History Center... (orig: 7903 chars, cleaned: 6548 chars)
+✓ Processed [HTML]: David McCullough (1933-2022) - Heinz History Center... (orig: 9294 chars, cleaned: 9019 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.heinzhistorycenter.org/blog-post-categories-sitemap.xml
+✓ Processed [HTML]: Search - Heinz History Center... (orig: 204 chars, cleaned: 31 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.heinzhistorycenter.org/blog-post-tags-sitemap.xml
+✓ Processed [HTML]: What's On - Heinz History Center... (orig: 3745 chars, cleaned: 1291 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.heinzhistorycenter.org/blog-post-sitemap.xml
+✓ Processed [HTML]: Meadowcroft Rockshelter and Historic Village - Heinz History... (orig: 8405 chars, cleaned: 6413 chars)
+✓ Processed [HTML]: Meadowcroft Events - Heinz History Center... (orig: 1865 chars, cleaned: 780 chars)
+✓ Processed [HTML]: Meadowcroft Rockshelter - Heinz History Center... (orig: 3504 chars, cleaned: 2714 chars)
+✓ Processed [HTML]: Western Pennsylvania Sports Museum - Heinz History Center... (orig: 3974 chars, cleaned: 2559 chars)
+✓ Processed [HTML]: Contact Us - Heinz History Center... (orig: 3498 chars, cleaned: 3116 chars)
+✓ Processed [HTML]: Sports Museum Exhibits - Heinz History Center... (orig: 12830 chars, cleaned: 12066 chars)
+✓ Processed [HTML]: History Center Exhibits - Heinz History Center... (orig: 16017 chars, cleaned: 15547 chars)
+✓ Processed [HTML]: Western Pennsylvania Sports Museum - Heinz History Center... (orig: 7235 chars, cleaned: 6285 chars)
+✓ Processed [HTML]: Work With Us - Heinz History Center... (orig: 46577 chars, cleaned: 24871 chars)
+✓ Processed [HTML]: Events for October 2025 – Heinz History Center... (orig: 6169 chars, cleaned: 3339 chars)
+✓ Processed [HTML]: Haunted History Center Halloween - Heinz History Center... (orig: 4748 chars, cleaned: 4464 chars)
+✓ Processed [HTML]: Internship Application - Heinz History Center... (orig: 3503 chars, cleaned: 3503 chars)
+✓ Processed [HTML]: Visit - Heinz History Center... (orig: 3980 chars, cleaned: 3165 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.heinzhistorycenter.org/blog-post-tags/collections/
+✓ Processed [HTML]: Fort Pitt Museum - Heinz History Center... (orig: 5604 chars, cleaned: 3645 chars)
+✓ Processed [HTML]: Directions & Parking - Heinz History Center... (orig: 1617 chars, cleaned: 1410 chars)
+✓ Processed [HTML]: Policies - Heinz History Center... (orig: 11397 chars, cleaned: 11182 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.heinzhistorycenter.org/blog-post-tags/events/
+✓ Processed [HTML]: Accessibility - Heinz History Center... (orig: 10154 chars, cleaned: 9788 chars)
+✓ Processed [HTML]: Sitemap - Heinz History Center... (orig: 12535 chars, cleaned: 12187 chars)
+✓ Processed [HTML]: Meadowcroft Exhibits - Heinz History Center... (orig: 5968 chars, cleaned: 5069 chars)
+✓ Processed [HTML]: Robert Barensfeld Center - Heinz History Center... (orig: 2208 chars, cleaned: 2100 chars)
+✓ Processed [HTML]: Meadowcroft Historic Village - Heinz History Center... (orig: 1481 chars, cleaned: 1159 chars)
+✓ Processed [HTML]: Frontier Trading Post - Heinz History Center... (orig: 1225 chars, cleaned: 905 chars)
+✓ Processed [HTML]: Prehistoric Indian Village - Heinz History Center... (orig: 1216 chars, cleaned: 904 chars)
+💾 Saved 41 documents to ./data/raw\heinzhistorycenter_org.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[16/41] Processing: https://www.thefrickpittsburgh.org/
+Output file: ./data/raw\thefrickpittsburgh_org.jsonl
+Starting crawl for: https://www.thefrickpittsburgh.org/
+Crawl job started with ID: f96c6838-6008-4ba4-bc56-1726b0915177
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: scraping
+Job f96c6838-6008-4ba4-bc56-1726b0915177 status: completed
+Crawl completed! Found 30 pages
+✓ Processed [HTML]: See and Do | The Frick Pittsburgh Museums & Gardens... (orig: 50116 chars, cleaned: 33730 chars)
+✓ Processed [HTML]: Home | The Frick Pittsburgh Museums & Gardens... (orig: 25809 chars, cleaned: 19226 chars)
+✓ Processed [HTML]: EITC | The Frick Pittsburgh Museums & Gardens... (orig: 5396 chars, cleaned: 5316 chars)
+✓ Processed [HTML]: Plan Your Visit | The Frick Pittsburgh Museums & Gardens... (orig: 12338 chars, cleaned: 9571 chars)
+✓ Processed [HTML]: Gifts of Stock | The Frick Pittsburgh Museums & Gardens... (orig: 3714 chars, cleaned: 3714 chars)
+✓ Processed [HTML]: Exhibitions | The Frick Pittsburgh Museums & Gardens... (orig: 43063 chars, cleaned: 41056 chars)
+✓ Processed [HTML]: Inclusion | The Frick Pittsburgh Museums & Gardens... (orig: 4346 chars, cleaned: 4346 chars)
+✓ Processed [HTML]: Donate | The Frick Pittsburgh Museums & Gardens... (orig: 6156 chars, cleaned: 5858 chars)
+✓ Processed [HTML]: Exhibitions | The Frick Pittsburgh Museums & Gardens... (orig: 43162 chars, cleaned: 41155 chars)
+✓ Processed [HTML]: Qualified Charitable Distributions | The Frick Pittsburgh Mu... (orig: 3599 chars, cleaned: 3599 chars)
+✓ Processed [HTML]: Our Supporters | The Frick Pittsburgh Museums & Gardens... (orig: 5115 chars, cleaned: 5115 chars)
+✓ Processed [HTML]: Legacy Planning | The Frick Pittsburgh Museums & Gardens... (orig: 9472 chars, cleaned: 9472 chars)
+✓ Processed [HTML]: Reciprocal Museums | The Frick Pittsburgh Museums & Gardens... (orig: 6991 chars, cleaned: 6991 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.thefrickpittsburgh.org/Files/Admin/Frick%5FSiteMap%2D080525.pdf?d=2025879544
+✓ Processed [HTML]: Plan Your Visit | The Frick Pittsburgh Museums & Gardens... (orig: 13475 chars, cleaned: 10708 chars)
+✓ Processed [HTML]: Store | The Frick Pittsburgh Museums & Gardens... (orig: 3084 chars, cleaned: 3084 chars)
+✓ Processed [HTML]: Group Visits | The Frick Pittsburgh Museums & Gardens... (orig: 5584 chars, cleaned: 5584 chars)
+✓ Processed [HTML]: Stories | The Frick Pittsburgh Museums & Gardens... (orig: 6276 chars, cleaned: 5359 chars)
+✓ Processed [HTML]: Membership | The Frick Pittsburgh Museums & Gardens... (orig: 16134 chars, cleaned: 13517 chars)
+✓ Processed [HTML]: Support | The Frick Pittsburgh Museums & Gardens... (orig: 8867 chars, cleaned: 7630 chars)
+✓ Processed [HTML]: Accessibility | The Frick Pittsburgh Museums & Gardens... (orig: 8169 chars, cleaned: 8077 chars)
+✓ Processed [HTML]: Tours | The Frick Pittsburgh Museums & Gardens... (orig: 6456 chars, cleaned: 6456 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.thefrickpittsburgh.org/sitemap.xml
+✓ Processed [HTML]: Collection | The Frick Pittsburgh Museums & Gardens... (orig: 12899 chars, cleaned: 12899 chars)
+✓ Processed [HTML]: Corporate Giving | The Frick Pittsburgh Museums & Gardens... (orig: 6871 chars, cleaned: 6153 chars)
+✓ Processed [HTML]: Rental Events | The Frick Pittsburgh Museums & Gardens... (orig: 6922 chars, cleaned: 5716 chars)
+✓ Processed [HTML]: Calendar of Events | The Frick Pittsburgh Museums & Gardens... (orig: 8803 chars, cleaned: 8197 chars)
+✓ Processed [HTML]: The Frick Societies | The Frick Pittsburgh Museums & Gardens... (orig: 7532 chars, cleaned: 6352 chars)
+✓ Processed [HTML]: Learning | The Frick Pittsburgh Museums & Gardens... (orig: 8446 chars, cleaned: 7954 chars)
+✓ Processed [HTML]: The Cafe at the Frick | The Frick Pittsburgh Museums & Garde... (orig: 10163 chars, cleaned: 10009 chars)
+💾 Saved 28 documents to ./data/raw\thefrickpittsburgh_org.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+============================================================
+Processing category: FOOD_EVENTS
+============================================================
+
+
+[17/41] Processing: https://www.visitpittsburgh.com/events-festivals/food-festivals/
+Output file: ./data/raw\visitpittsburgh_com_events-festivals_food-festivals.jsonl
+Starting crawl for: https://www.visitpittsburgh.com/events-festivals/food-festivals/
+Crawl job started with ID: 66368eb5-ebf7-4681-982d-073b6ea416a3
+Job 66368eb5-ebf7-4681-982d-073b6ea416a3 status: scraping
+Job 66368eb5-ebf7-4681-982d-073b6ea416a3 status: completed
+Crawl completed! Found 3 pages
+✓ Processed [HTML]: Pittsburgh Food Festivals - Greek - Oktoberfest - Apples - M... (orig: 53552 chars, cleaned: 42294 chars)
+✓ Processed [HTML]: Soul Food Festival in Pittsburgh 2025 | Visit Pittsburgh... (orig: 12933 chars, cleaned: 10540 chars)
+✓ Processed [HTML]: Pittsburgh Taco Festival 2025 | Visit Pittsburgh... (orig: 5598 chars, cleaned: 4820 chars)
+💾 Saved 3 documents to ./data/raw\visitpittsburgh_com_events-festivals_food-festivals.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[18/41] Processing: https://www.picklesburgh.com/
+Output file: ./data/raw\picklesburgh_com.jsonl
+Starting crawl for: https://www.picklesburgh.com/
+Rate limit hit. Waiting 10 seconds before retry 1/5...
+Crawl job started with ID: f14042f1-bd33-4cad-b130-6c5d980a3f08
+Job f14042f1-bd33-4cad-b130-6c5d980a3f08 status: scraping
+Job f14042f1-bd33-4cad-b130-6c5d980a3f08 status: scraping
+Job f14042f1-bd33-4cad-b130-6c5d980a3f08 status: scraping
+Job f14042f1-bd33-4cad-b130-6c5d980a3f08 status: scraping
+Job f14042f1-bd33-4cad-b130-6c5d980a3f08 status: scraping
+Job f14042f1-bd33-4cad-b130-6c5d980a3f08 status: scraping
+Job f14042f1-bd33-4cad-b130-6c5d980a3f08 status: scraping
+Job f14042f1-bd33-4cad-b130-6c5d980a3f08 status: scraping
+Job f14042f1-bd33-4cad-b130-6c5d980a3f08 status: scraping
+Job f14042f1-bd33-4cad-b130-6c5d980a3f08 status: completed
+Crawl completed! Found 20 pages
+⚠️ FAILED SCRAPE (empty content): https://www.picklesburgh.com/
+✓ Processed [HTML]: Getting Here - Picklesburgh... (orig: 6710 chars, cleaned: 6710 chars)
+✓ Processed [HTML]: Festival Map - Picklesburgh... (orig: 2000 chars, cleaned: 1387 chars)
+✓ Processed [HTML]: Sponsors - Picklesburgh... (orig: 8459 chars, cleaned: 6922 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.picklesburgh.com/sitemap.rss
+✓ Processed [HTML]: Dill-Cathlon Games - Picklesburgh... (orig: 2446 chars, cleaned: 2446 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.picklesburgh.com/wp-content/uploads/2025/06/Dill-Cathlon-2025-Pickle-Eating-Rules-Regulations.pdf
+✓ Processed [HTML]: Taste of Picklesburgh - Picklesburgh... (orig: 36236 chars, cleaned: 7448 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.picklesburgh.com/wp-content/uploads/2025/07/PicklesburghMainMapWhite11x17.pdf
+✓ Processed [HTML]: Visit - Picklesburgh... (orig: 2725 chars, cleaned: 2333 chars)
+✓ Processed [HTML]: Vendors - Picklesburgh... (orig: 17897 chars, cleaned: 661 chars)
+✓ Processed [HTML]: Entertainment - Picklesburgh... (orig: 2168 chars, cleaned: 814 chars)
+✓ Processed [HTML]: Photo Gallery - Picklesburgh... (orig: 6488 chars, cleaned: 6393 chars)
+✓ Processed [HTML]: Accessibility - Picklesburgh... (orig: 1658 chars, cleaned: 1658 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.picklesburgh.com/wp-content/uploads/2025/06/Dill-Cathlon-2025-Pickle-Bobbing-Rules-Regulations.pdf
+✓ Processed [HTML]: Contact Us - Picklesburgh... (orig: 1492 chars, cleaned: 1492 chars)
+✓ Processed [HTML]: Festival Schedules - Picklesburgh... (orig: 626 chars, cleaned: 626 chars)
+✓ Processed [HTML]: Pickle Riding - Picklesburgh... (orig: 1695 chars, cleaned: 1695 chars)
+✓ Processed [HTML]: Li’l Gherkins KidsPlay Activity Area - Picklesburgh... (orig: 1395 chars, cleaned: 1395 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.picklesburgh.com/wp-content/uploads/2025/06/Dill-Cathlon-2025-Pickle-Juice-Drinking-Rules-Regulations.pdf
+💾 Saved 14 documents to ./data/raw\picklesburgh_com.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[19/41] Processing: https://www.pghtacofest.com/
+Output file: ./data/raw\pghtacofest_com.jsonl
+Starting crawl for: https://www.pghtacofest.com/
+Crawl job started with ID: cba66479-ae8f-4986-a563-d8de5ecdc1d6
+Job cba66479-ae8f-4986-a563-d8de5ecdc1d6 status: scraping
+Job cba66479-ae8f-4986-a563-d8de5ecdc1d6 status: completed
+Crawl completed! Found 7 pages
+⚠️ FAILED SCRAPE (empty content): https://www.pghtacofest.com/
+⚠️ FAILED SCRAPE (empty content): https://www.pghtacofest.com/about
+⚠️ FAILED SCRAPE (empty content): https://www.pghtacofest.com/vendors
+⚠️ FAILED SCRAPE (empty content): https://www.pghtacofest.com/faqs
+⚠️ FAILED SCRAPE (empty content): https://www.pghtacofest.com/map
+⚠️ FAILED SCRAPE (empty content): https://www.pghtacofest.com/sitemap.xml
+⚠️ FAILED SCRAPE (empty content): https://www.pghtacofest.com/privacy-policy
+No data to save for ./data/raw\pghtacofest_com.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[20/41] Processing: https://pittsburghrestaurantweek.com/
+Output file: ./data/raw\pittsburghrestaurantweek_com.jsonl
+Starting crawl for: https://pittsburghrestaurantweek.com/
+Rate limit hit. Waiting 10 seconds before retry 1/5...
+Rate limit hit. Waiting 20 seconds before retry 2/5...
+Rate limit hit. Waiting 40 seconds before retry 3/5...
+Crawl job started with ID: 7961ad5e-41a5-411d-bc95-d4987cf2a4a6
+Job 7961ad5e-41a5-411d-bc95-d4987cf2a4a6 status: scraping
+Job 7961ad5e-41a5-411d-bc95-d4987cf2a4a6 status: scraping
+Job 7961ad5e-41a5-411d-bc95-d4987cf2a4a6 status: scraping
+Job 7961ad5e-41a5-411d-bc95-d4987cf2a4a6 status: scraping
+Job 7961ad5e-41a5-411d-bc95-d4987cf2a4a6 status: scraping
+Job 7961ad5e-41a5-411d-bc95-d4987cf2a4a6 status: scraping
+Job 7961ad5e-41a5-411d-bc95-d4987cf2a4a6 status: scraping
+Job 7961ad5e-41a5-411d-bc95-d4987cf2a4a6 status: scraping
+Job 7961ad5e-41a5-411d-bc95-d4987cf2a4a6 status: scraping
+Job 7961ad5e-41a5-411d-bc95-d4987cf2a4a6 status: completed
+Crawl completed! Found 20 pages
+✓ Processed [HTML]: Pittsburgh Restaurant Week – Putting Pittsburgh Restaurants ... (orig: 508 chars, cleaned: 508 chars)
+✓ Processed [HTML]: TV appearance – Pittsburgh Restaurant Week... (orig: 2534 chars, cleaned: 2534 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburghrestaurantweek.com/wp-sitemap-taxonomies-category-1.xml
+✓ Processed [HTML]: Pittsburgh Restaurant Week to be revived – Pittsburgh Restau... (orig: 518 chars, cleaned: 518 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburghrestaurantweek.com/wp-sitemap-posts-page-1.xml
+✓ Processed [HTML]: General – Pittsburgh Restaurant Week... (orig: 2703 chars, cleaned: 2703 chars)
+✓ Processed [HTML]: kickoff party – Pittsburgh Restaurant Week... (orig: 8514 chars, cleaned: 8514 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburghrestaurantweek.com/wp-sitemap.xml
+⚠️ FAILED SCRAPE (empty content): https://pittsburghrestaurantweek.com/wp-sitemap-posts-post-1.xml
+✓ Processed [HTML]: live cooking – Pittsburgh Restaurant Week... (orig: 1827 chars, cleaned: 1827 chars)
+✓ Processed [HTML]: Pittsburgh Restaurant Week 2012 planning begins – Pittsburgh... (orig: 463 chars, cleaned: 463 chars)
+✓ Processed [HTML]: Media – Pittsburgh Restaurant Week... (orig: 6817 chars, cleaned: 6817 chars)
+✓ Processed [HTML]: Pittsburgh Restaurant Week begins January 16, 2012 – Pittsbu... (orig: 904 chars, cleaned: 904 chars)
+✓ Processed [HTML]: Chef Interview – Pittsburgh Restaurant Week... (orig: 1004 chars, cleaned: 1004 chars)
+✓ Processed [HTML]: Restaurant Registration now available online – Pittsburgh Re... (orig: 639 chars, cleaned: 639 chars)
+✓ Processed [HTML]: downtown pittsburgh – Pittsburgh Restaurant Week... (orig: 1162 chars, cleaned: 1162 chars)
+✓ Processed [HTML]: Pittsburgh Restaurant Week 2012 – Pittsburgh Restaurant Week... (orig: 11002 chars, cleaned: 11002 chars)
+✓ Processed [HTML]: Featured – Pittsburgh Restaurant Week... (orig: 10870 chars, cleaned: 10870 chars)
+✓ Processed [HTML]: Tips for Getting the Most out of Pittsburgh Restaurant Week ... (orig: 1256 chars, cleaned: 1256 chars)
+⚠️ FAILED SCRAPE (empty content): https://pittsburghrestaurantweek.com/wp-sitemap-taxonomies-post_tag-1.xml
+💾 Saved 15 documents to ./data/raw\pittsburghrestaurantweek_com.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[21/41] Processing: https://littleitalydays.com/
+Output file: ./data/raw\littleitalydays_com.jsonl
+Starting crawl for: https://littleitalydays.com/
+Crawl job started with ID: 249b1722-bfd2-4565-a318-469bdf4c05da
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: scraping
+Job 249b1722-bfd2-4565-a318-469bdf4c05da status: completed
+Crawl completed! Found 15 pages
+✓ Processed [HTML]: Little Italy Days | Italian Festival... (orig: 8980 chars, cleaned: 6473 chars)
+✓ Processed [HTML]: Entertainment Schedule | Little Italy Days... (orig: 3171 chars, cleaned: 3022 chars)
+✓ Processed [HTML]: FAQ | Little Italy Days... (orig: 1455 chars, cleaned: 1455 chars)
+✓ Processed [HTML]: Highmark | Little Italy Days... (orig: 306 chars, cleaned: 230 chars)
+⚠️ FAILED SCRAPE (empty content): http://littleitalydays.com/wp-content/uploads/2019/07/GolffatherEntryForm.pdf
+✓ Processed [HTML]: Bloomfield-Businesses | Little Italy Days... (orig: 8425 chars, cleaned: 8041 chars)
+✓ Processed [HTML]: Getting Around | Little Italy Days... (orig: 3483 chars, cleaned: 3028 chars)
+⚠️ FAILED SCRAPE (empty content): http://littleitalydays.com/wp-content/uploads/2025/07/Miss-Little-Italy-2025.pdf
+✓ Processed [HTML]: About Us | Little Italy Days... (orig: 1721 chars, cleaned: 1721 chars)
+⚠️ FAILED SCRAPE (empty content): https://littleitalydays.com/wp-sitemap-posts-envira-1.xml
+⚠️ FAILED SCRAPE (empty content): https://littleitalydays.com/wp-sitemap-posts-post-1.xml
+✓ Processed [HTML]: Allegheny Health Network | Little Italy Days... (orig: 316 chars, cleaned: 245 chars)
+✓ Processed [HTML]: UPMC | Little Italy Days... (orig: 380 chars, cleaned: 299 chars)
+⚠️ FAILED SCRAPE (empty content): https://littleitalydays.com/wp-sitemap-taxonomies-category-1.xml
+⚠️ FAILED SCRAPE (empty content): https://littleitalydays.com/wp-sitemap-users-1.xml
+💾 Saved 9 documents to ./data/raw\littleitalydays_com.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[22/41] Processing: https://bananasplitfest.com/
+Output file: ./data/raw\bananasplitfest_com.jsonl
+Starting crawl for: https://bananasplitfest.com/
+Crawl job started with ID: b556e58e-f810-4a87-99d2-e0fcc56d9617
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: scraping
+Job b556e58e-f810-4a87-99d2-e0fcc56d9617 status: completed
+Crawl completed! Found 15 pages
+✓ Processed [HTML]: The Great American Banana Split Celebration... (orig: 6656 chars, cleaned: 5935 chars)
+✓ Processed [HTML]: Crafts, Games, & Activities - Great American Banana Split Ce... (orig: 1182 chars, cleaned: 1182 chars)
+✓ Processed [HTML]: 5K Banana Run - Great American Banana Split Celebration... (orig: 3012 chars, cleaned: 2830 chars)
+⚠️ FAILED SCRAPE (empty content): https://bananasplitfest.com/sitemap_index.xml
+⚠️ FAILED SCRAPE (empty content): https://bananasplitfest.com/product-sitemap.xml
+✓ Processed [HTML]: Sponsorship Opportunities - Great American Banana Split Cele... (orig: 6450 chars, cleaned: 6450 chars)
+✓ Processed [HTML]: Sponsorship - Great American Banana Split Celebration... (orig: 3522 chars, cleaned: 3420 chars)
+⚠️ FAILED SCRAPE (empty content): https://bananasplitfest.com/page-sitemap.xml
+✓ Processed [HTML]: Banana Split Princess Pageant - Great American Banana Split ... (orig: 1980 chars, cleaned: 1980 chars)
+✓ Processed [HTML]: Activities - Great American Banana Split Celebration... (orig: 3617 chars, cleaned: 3617 chars)
+✓ Processed [HTML]: Latrobe Art Center Yellow Tie Gala - Great American Banana S... (orig: 1417 chars, cleaned: 1417 chars)
+✓ Processed [HTML]: Eat & Drink - Great American Banana Split Celebration... (orig: 2264 chars, cleaned: 2263 chars)
+✓ Processed [HTML]: Face Painting Sponsor - Great American Banana Split Celebrat... (orig: 2378 chars, cleaned: 2378 chars)
+✓ Processed [HTML]: Participating Vendors - Great American Banana Split Celebrat... (orig: 1168 chars, cleaned: 1168 chars)
+✓ Processed [HTML]: Media - Great American Banana Split Celebration... (orig: 7613 chars, cleaned: 7613 chars)
+💾 Saved 12 documents to ./data/raw\bananasplitfest_com.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+============================================================
+Processing category: SPORTS
+============================================================
+
+
+[23/41] Processing: https://www.visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/
+Output file: ./data/raw\visitpittsburgh_com_things-to-do_pittsburgh-sports-teams.jsonl
+Starting crawl for: https://www.visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/
+Crawl job started with ID: bf5dcdfd-c926-4590-8086-77548e0e3591
+Job bf5dcdfd-c926-4590-8086-77548e0e3591 status: scraping
+Job bf5dcdfd-c926-4590-8086-77548e0e3591 status: scraping
+Job bf5dcdfd-c926-4590-8086-77548e0e3591 status: scraping
+Job bf5dcdfd-c926-4590-8086-77548e0e3591 status: completed
+Crawl completed! Found 8 pages
+✓ Processed [HTML]: Pittsburgh, PA Sports Teams | Steelers, Pirates, Penguins & ... (orig: 16859 chars, cleaned: 16547 chars)
+✓ Processed [HTML]: Pittsburgh Sports | Soccer, Football & Roller Derby | Visit ... (orig: 1934 chars, cleaned: 1934 chars)
+✓ Processed [HTML]: Pittsburgh Steelers | History, Schedule, Tickets & Bars | Vi... (orig: 5069 chars, cleaned: 5069 chars)
+✓ Processed [HTML]: Pittsburgh College Sports | Spectator Sports in Pittsburgh |... (orig: 2479 chars, cleaned: 2479 chars)
+✓ Processed [HTML]: Pittsburgh Pirates | Pittsburgh Baseball Schedule | Visit Pi... (orig: 4329 chars, cleaned: 4329 chars)
+✓ Processed [HTML]: Pittsburgh Riverhounds | Cheer on the Hounds | Visit Pittsbu... (orig: 2760 chars, cleaned: 2760 chars)
+✓ Processed [HTML]: Pittsburgh Penguins | Penguins Tickets, Store & Schedule | V... (orig: 758 chars, cleaned: 758 chars)
+✓ Processed [HTML]: The Terrible Towel Legend - Visit Pittsburgh | Visit Pittsbu... (orig: 6757 chars, cleaned: 6741 chars)
+💾 Saved 8 documents to ./data/raw\visitpittsburgh_com_things-to-do_pittsburgh-sports-teams.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[24/41] Processing: https://www.mlb.com/pirates
+Output file: ./data/raw\mlb_com_pirates.jsonl
+Starting crawl for: https://www.mlb.com/pirates
+Rate limit hit. Waiting 10 seconds before retry 1/5...
+Crawl job started with ID: f3f8cfa7-5852-4821-8277-2b713240ac1d
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: scraping
+Job f3f8cfa7-5852-4821-8277-2b713240ac1d status: completed
+Crawl completed! Found 40 pages
+✓ Processed [HTML]: Official Pittsburgh Pirates Website | MLB.com... (orig: 54492 chars, cleaned: 53512 chars)
+✓ Processed [HTML]: Buy Pirates Group Tickets | Pittsburgh Pirates... (orig: 44582 chars, cleaned: 44550 chars)
+✓ Processed [HTML]: Pirates Downloadable Schedule | Pittsburgh Pirates... (orig: 37873 chars, cleaned: 37841 chars)
+✓ Processed [HTML]: Pittsburgh Pirates Video Search | MLB Film Room | Pittsburgh... (orig: 44520 chars, cleaned: 44520 chars)
+✓ Processed [HTML]: Concert and Event Tickets at PNC Park | Pittsburgh Pirates... (orig: 38073 chars, cleaned: 38041 chars)
+✓ Processed [HTML]: Printable Schedule | Pittsburgh Pirates... (orig: 37319 chars, cleaned: 37287 chars)
+✓ Processed [HTML]: Transactions | Pittsburgh Pirates... (orig: 642 chars, cleaned: 642 chars)
+✓ Processed [HTML]: MLB Ballpark App | Pittsburgh Pirates... (orig: 41454 chars, cleaned: 41422 chars)
+✓ Processed [HTML]: PNC Park 3D Seating Chart | Pittsburgh Pirates... (orig: 37030 chars, cleaned: 36998 chars)
+✓ Processed [HTML]: Pirates Broadcasters | Pittsburgh Pirates... (orig: 48567 chars, cleaned: 48535 chars)
+✓ Processed [HTML]: Tours of PNC Park | Pittsburgh Pirates... (orig: 41874 chars, cleaned: 41842 chars)
+✓ Processed [HTML]: Active Roster | Pittsburgh Pirates... (orig: 13256 chars, cleaned: 577 chars)
+✓ Processed [HTML]: Latest Pirates News | Pittsburgh Pirates... (orig: 14814 chars, cleaned: 14761 chars)
+✓ Processed [HTML]: Mini Plans | Pittsburgh Pirates... (orig: 37825 chars, cleaned: 37793 chars)
+✓ Processed [HTML]: Pirates Staff Directory | Pittsburgh Pirates... (orig: 61276 chars, cleaned: 37940 chars)
+✓ Processed [HTML]: Buy Pirates Tickets | Pittsburgh Pirates... (orig: 46297 chars, cleaned: 40676 chars)
+✓ Processed [HTML]: Ticket Information Request | Pittsburgh Pirates... (orig: 40423 chars, cleaned: 40374 chars)
+✓ Processed [HTML]: Pirates Game Recap Videos | Pittsburgh Pirates... (orig: 6706 chars, cleaned: 6706 chars)
+✓ Processed [HTML]: Pirates injury report | Pittsburgh Pirates... (orig: 16488 chars, cleaned: 16435 chars)
+✓ Processed [HTML]: Pirates Community Videos | Pittsburgh Pirates... (orig: 6910 chars, cleaned: 6910 chars)
+✓ Processed [HTML]: 40-Man Roster | Pittsburgh Pirates... (orig: 14513 chars, cleaned: 577 chars)
+✓ Processed [HTML]: Pirates Press Releases | Pittsburgh Pirates... (orig: 17019 chars, cleaned: 16994 chars)
+✓ Processed [HTML]: Pirates Scores: Scoreboard, Results and Highlights... (orig: 7864 chars, cleaned: 5597 chars)
+✓ Processed [HTML]: Pirates Ticket Information | Pittsburgh Pirates... (orig: 38241 chars, cleaned: 38209 chars)
+✓ Processed [HTML]: Buy Pirates Suites and Premium Seating | Pittsburgh Pirates... (orig: 36271 chars, cleaned: 36239 chars)
+✓ Processed [HTML]: Ticket Technology FAQs | Pittsburgh Pirates... (orig: 60708 chars, cleaned: 60676 chars)
+✓ Processed [HTML]: Pittsburgh Baseball Club Level | Pittsburgh Pirates... (orig: 38521 chars, cleaned: 38489 chars)
+✓ Processed [HTML]: Buy Pirates Season Tickets | Pittsburgh Pirates... (orig: 37623 chars, cleaned: 37591 chars)
+✓ Processed [HTML]: Hospitality and Suites | Pittsburgh Pirates... (orig: 41309 chars, cleaned: 41277 chars)
+✓ Processed [HTML]: Run It Back Videos | Pittsburgh Pirates... (orig: 990 chars, cleaned: 990 chars)
+✓ Processed [HTML]: Pirates Pipeline | Pittsburgh Pirates... (orig: 15426 chars, cleaned: 15370 chars)
+✓ Processed [HTML]: Depth Chart | Pittsburgh Pirates... (orig: 16549 chars, cleaned: 582 chars)
+✓ Processed [HTML]: PNC Park: Home of the Pirates | Pittsburgh Pirates... (orig: 38649 chars, cleaned: 38617 chars)
+✓ Processed [HTML]: Pirates' All-Time Retired Numbers | Pittsburgh Pirates... (orig: 37295 chars, cleaned: 37263 chars)
+✓ Processed [HTML]: 2025 MLB Team Hitting Stat Leaders | Pittsburgh Pirates... (orig: 45764 chars, cleaned: 400 chars)
+✓ Processed [HTML]: 2025 Pirates Player Hitting Stat Leaders | Pittsburgh Pirate... (orig: 32002 chars, cleaned: 671 chars)
+✓ Processed [HTML]: Pittsburgh Pirates Schedule | Pittsburgh Pirates... (orig: 218289 chars, cleaned: 9096 chars)
+✓ Processed [HTML]: Coaching Staff | Pittsburgh Pirates... (orig: 4588 chars, cleaned: 578 chars)
+✓ Processed [HTML]: Most Popular Videos | Pittsburgh Pirates... (orig: 7140 chars, cleaned: 7140 chars)
+✓ Processed [HTML]: Pittsburgh Pirates | Pittsburgh Pirates... (orig: 18824 chars, cleaned: 18824 chars)
+💾 Saved 40 documents to ./data/raw\mlb_com_pirates.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[25/41] Processing: https://www.steelers.com/
+Output file: ./data/raw\steelers_com.jsonl
+Starting crawl for: https://www.steelers.com/
+Crawl job started with ID: 9699e1a0-5604-49b6-b232-970cbefa30ac
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: scraping
+Job 9699e1a0-5604-49b6-b232-970cbefa30ac status: completed
+Crawl completed! Found 40 pages
+✓ Processed [HTML]: Steelers Home | Pittsburgh Steelers - Steelers.com... (orig: 42156 chars, cleaned: 39868 chars)
+✓ Processed [HTML]: Semana de descanso y análisis de la temporada hasta el momen... (orig: 7665 chars, cleaned: 7541 chars)
+✓ Processed [HTML]: Pierre signed to one-year contract... (orig: 18440 chars, cleaned: 12550 chars)
+✓ Processed [HTML]: 5 for Friday: Versatility a key for Steelers... (orig: 12625 chars, cleaned: 12501 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.steelers.com/sitemap-news-archive_1.xml
+⚠️ FAILED SCRAPE (empty content): https://www.steelers.com/sitemap-video-archive_4.xml
+✓ Processed [HTML]: Bye Week Blog: A love of the game... (orig: 51582 chars, cleaned: 32992 chars)
+✓ Processed [HTML]: Alexander: 'It helps out tremendously'... (orig: 7400 chars, cleaned: 7276 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.steelers.com/sitemap-video-fast-changing.xml
+⚠️ FAILED SCRAPE (empty content): https://www.steelers.com/sitemap-fast-changing.xml
+✓ Processed [HTML]: A week to remember on the Emerald Isle... (orig: 15606 chars, cleaned: 11473 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.steelers.com/sitemap-news-archive_3.xml
+✓ Processed [HTML]: Next men up... (orig: 7543 chars, cleaned: 7426 chars)
+✓ Processed [HTML]: Smith: 'We looked smooth Sunday' ... (orig: 6770 chars, cleaned: 6646 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.steelers.com/sitemap-video-archive_3.xml
+✓ Processed [HTML]: Steelers in Dublin | Pittsburgh Steelers - Steelers.com... (orig: 13749 chars, cleaned: 11991 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.steelers.com/sitemap.xml
+⚠️ FAILED SCRAPE (empty content): https://www.steelers.com/sitemap-news-archive_2.xml
+✓ Processed [HTML]: WATCH: SNR Drive Trending Topics (Week 5)... (orig: 4166 chars, cleaned: 4166 chars)
+✓ Processed [HTML]: The arrow is pointing up... (orig: 7336 chars, cleaned: 7212 chars)
+✓ Processed [HTML]: Metcalf, Elliott are co-captains for Steelers Style... (orig: 8213 chars, cleaned: 8089 chars)
+✓ Processed [HTML]: Martin: 'He can do everything'... (orig: 8524 chars, cleaned: 8407 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.steelers.com/sitemap-index.xml
+✓ Processed [HTML]: Winning while building... (orig: 194199 chars, cleaned: 103806 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.steelers.com/sitemap-video-archive_2.xml
+⚠️ FAILED SCRAPE (empty content): https://www.steelers.com/sitemap-video-archive_1.xml
+✓ Processed [HTML]: WATCH: SNR Drive (Oct. 2)... (orig: 4013 chars, cleaned: 4013 chars)
+✓ Processed [HTML]: First half of Steelers' season loaded with memorable plays... (orig: 14756 chars, cleaned: 14632 chars)
+✓ Processed [HTML]: Steelers make multiple roster moves... (orig: 17986 chars, cleaned: 17868 chars)
+✓ Processed [HTML]: Learning from one of the best... (orig: 9611 chars, cleaned: 9390 chars)
+✓ Processed [HTML]: Steelers turn to Pickett, lose to the Jets, 24-20... (orig: 76318 chars, cleaned: 44303 chars)
+✓ Processed [HTML]: WATCH: The Mike Tomlin Show - Bye Week... (orig: 4513 chars, cleaned: 4513 chars)
+✓ Processed [HTML]: Steelers Player Roster | Pittsburgh Steelers - Steelers.com... (orig: 24931 chars, cleaned: 284 chars)
+✓ Processed [HTML]: Asked and Answered: Oct. 2... (orig: 10643 chars, cleaned: 10526 chars)
+✓ Processed [HTML]: Steelers Sign Stevenson Sylvester... (orig: 4901 chars, cleaned: 4901 chars)
+✓ Processed [HTML]: Sawyer wins Way to Play Award... (orig: 5872 chars, cleaned: 5872 chars)
+✓ Processed [HTML]: WATCH: SNR Drive (Oct. 1)... (orig: 4582 chars, cleaned: 4582 chars)
+✓ Processed [HTML]: Irish eyes were smiling... (orig: 11525 chars, cleaned: 11401 chars)
+✓ Processed [HTML]: An unselfish group... (orig: 8052 chars, cleaned: 7935 chars)
+⚠️ FAILED SCRAPE (empty content): https://www.steelers.com/sitemap-news-archive_4.xml
+💾 Saved 28 documents to ./data/raw\steelers_com.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[26/41] Processing: https://www.nhl.com/penguins/
+Output file: ./data/raw\nhl_com_penguins.jsonl
+Starting crawl for: https://www.nhl.com/penguins/
+Crawl job started with ID: 2c9c0dc9-34bc-4268-b25d-79ea00891a37
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: scraping
+Job 2c9c0dc9-34bc-4268-b25d-79ea00891a37 status: completed
+Crawl completed! Found 39 pages
+✓ Processed [HTML]: Official Pittsburgh Penguins Website | Pittsburgh Penguins... (orig: 12547 chars, cleaned: 9163 chars)
+✓ Processed [HTML]: Dek and Ball Hockey Rinks | Pittsburgh Penguins... (orig: 8966 chars, cleaned: 8251 chars)
+✓ Processed [HTML]: Official Pittsburgh Penguins Website | Pittsburgh Penguins... (orig: 2702 chars, cleaned: 2693 chars)
+✓ Processed [HTML]: Future Goals Hockey Scholar | Pittsburgh Penguins... (orig: 4614 chars, cleaned: 4393 chars)
+✓ Processed [HTML]: Try Hockey for Free | Pittsburgh Penguins... (orig: 4270 chars, cleaned: 3557 chars)
+✓ Processed [HTML]: Youth Movement Shapes Penguins’ Roster Decisions | Pittsburg... (orig: 27343 chars, cleaned: 18011 chars)
+✓ Processed [HTML]: Fans | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 4256 chars, cleaned: 4165 chars)
+✓ Processed [HTML]: Season Tickets | Pittsburgh Penguins... (orig: 10715 chars, cleaned: 10706 chars)
+✓ Processed [HTML]: Community | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 21320 chars, cleaned: 20571 chars)
+✓ Processed [HTML]: Community | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 5407 chars, cleaned: 5167 chars)
+✓ Processed [HTML]: Tickets | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 4386 chars, cleaned: 4385 chars)
+✓ Processed [HTML]: Training Camp: Kindel (10.04.25) | Pittsburgh Penguins... (orig: 9482 chars, cleaned: 6227 chars)
+✓ Processed [HTML]: Community | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 3326 chars, cleaned: 3235 chars)
+✓ Processed [HTML]: Training Camp: Muse (10.04.25) | Pittsburgh Penguins... (orig: 9486 chars, cleaned: 6231 chars)
+✓ Processed [HTML]: Penguins Preseason Lineup Versus Sabres (10.03.25) | Pittsbu... (orig: 14922 chars, cleaned: 7269 chars)
+✓ Processed [HTML]: Youth Hockey | Pittsburgh Penguins... (orig: 4468 chars, cleaned: 4377 chars)
+✓ Processed [HTML]: Healthy Novak Looking to Carve Out Role with Penguins | Pitt... (orig: 19271 chars, cleaned: 11069 chars)
+✓ Processed [HTML]: Training Camp: Letang (10.04.25) | Pittsburgh Penguins... (orig: 9483 chars, cleaned: 6228 chars)
+✓ Processed [HTML]: Premium Seating | Pittsburgh Penguins... (orig: 6643 chars, cleaned: 5268 chars)
+✓ Processed [HTML]: Training Camp: Brunicke (10.03.25) | Pittsburgh Penguins... (orig: 9489 chars, cleaned: 6234 chars)
+✓ Processed [HTML]: Birthdays and Anniversaries | Pittsburgh Penguins... (orig: 7376 chars, cleaned: 7147 chars)
+✓ Processed [HTML]: Official Pittsburgh Penguins Website | Pittsburgh Penguins... (orig: 2781 chars, cleaned: 2780 chars)
+✓ Processed [HTML]: Community | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 14172 chars, cleaned: 13195 chars)
+✓ Processed [HTML]: Penguins Pledge | Pittsburgh Penguins... (orig: 14087 chars, cleaned: 13206 chars)
+✓ Processed [HTML]: Musings: Penguins 5, Sabres 4 OT (Preseason Finale) | Pittsb... (orig: 20689 chars, cleaned: 13046 chars)
+✓ Processed [HTML]: Ice Crew | Pittsburgh Penguins... (orig: 4661 chars, cleaned: 2770 chars)
+✓ Processed [HTML]: Community | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 7655 chars, cleaned: 6591 chars)
+✓ Processed [HTML]: Pittsburgh Penguins Schedule | Pittsburgh Penguins... (orig: 6149 chars, cleaned: 2767 chars)
+✓ Processed [HTML]: Community | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 10181 chars, cleaned: 9525 chars)
+✓ Processed [HTML]: Community | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 4689 chars, cleaned: 4598 chars)
+✓ Processed [HTML]: Community | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 6724 chars, cleaned: 6633 chars)
+✓ Processed [HTML]: Community | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 9061 chars, cleaned: 8752 chars)
+✓ Processed [HTML]: Community | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 6027 chars, cleaned: 5110 chars)
+✓ Processed [HTML]: Iceburgh Appearances | Pittsburgh Penguins... (orig: 4500 chars, cleaned: 4277 chars)
+✓ Processed [HTML]: Community | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 5489 chars, cleaned: 5390 chars)
+✓ Processed [HTML]: Little Penguins Learn to Play | Pittsburgh Penguins... (orig: 14016 chars, cleaned: 13474 chars)
+✓ Processed [HTML]: Official Pittsburgh Penguins Website | Pittsburgh Penguins... (orig: 3160 chars, cleaned: 3069 chars)
+✓ Processed [HTML]: 12 Packs | Pittsburgh Penguins... (orig: 6865 chars, cleaned: 6085 chars)
+✓ Processed [HTML]: Community | Pittsburgh Penguins | Pittsburgh Penguins... (orig: 6204 chars, cleaned: 5822 chars)
+💾 Saved 39 documents to ./data/raw\nhl_com_penguins.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+============================================================
+Processing single pages: WIKIPEDIA
+============================================================
+
+
+[27/41] Processing: https://en.wikipedia.org/wiki/Pittsburgh
+Output file: ./data/raw\en_wikipedia_org_wiki_Pittsburgh.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/Pittsburgh
+✓ Processed [HTML]: Pittsburgh - Wikipedia... (orig: 503599 chars, cleaned: 352793 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_Pittsburgh.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[28/41] Processing: https://en.wikipedia.org/wiki/History_of_Pittsburgh
+Output file: ./data/raw\en_wikipedia_org_wiki_History_of_Pittsburgh.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/History_of_Pittsburgh
+✓ Processed [HTML]: History of Pittsburgh - Wikipedia... (orig: 171193 chars, cleaned: 162313 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_History_of_Pittsburgh.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[29/41] Processing: https://en.wikipedia.org/wiki/Carnegie_Mellon_University
+Output file: ./data/raw\en_wikipedia_org_wiki_Carnegie_Mellon_University.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/Carnegie_Mellon_University
+✓ Processed [HTML]: Carnegie Mellon University - Wikipedia... (orig: 294241 chars, cleaned: 231087 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_Carnegie_Mellon_University.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[30/41] Processing: https://en.wikipedia.org/wiki/Pittsburgh_Symphony_Orchestra
+Output file: ./data/raw\en_wikipedia_org_wiki_Pittsburgh_Symphony_Orchestra.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/Pittsburgh_Symphony_Orchestra
+✓ Processed [HTML]: Pittsburgh Symphony Orchestra - Wikipedia... (orig: 74449 chars, cleaned: 63926 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_Pittsburgh_Symphony_Orchestra.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[31/41] Processing: https://en.wikipedia.org/wiki/Pittsburgh_Opera
+Output file: ./data/raw\en_wikipedia_org_wiki_Pittsburgh_Opera.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/Pittsburgh_Opera
+✓ Processed [HTML]: Pittsburgh Opera - Wikipedia... (orig: 27439 chars, cleaned: 18010 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_Pittsburgh_Opera.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[32/41] Processing: https://en.wikipedia.org/wiki/Carnegie_Museums_of_Pittsburgh
+Output file: ./data/raw\en_wikipedia_org_wiki_Carnegie_Museums_of_Pittsburgh.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/Carnegie_Museums_of_Pittsburgh
+✓ Processed [HTML]: Carnegie Museums of Pittsburgh - Wikipedia... (orig: 51281 chars, cleaned: 28453 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_Carnegie_Museums_of_Pittsburgh.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[33/41] Processing: https://en.wikipedia.org/wiki/Heinz_History_Center
+Output file: ./data/raw\en_wikipedia_org_wiki_Heinz_History_Center.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/Heinz_History_Center
+✓ Processed [HTML]: Heinz History Center - Wikipedia... (orig: 46194 chars, cleaned: 27010 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_Heinz_History_Center.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[34/41] Processing: https://en.wikipedia.org/wiki/The_Frick_Pittsburgh
+Output file: ./data/raw\en_wikipedia_org_wiki_The_Frick_Pittsburgh.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/The_Frick_Pittsburgh
+✓ Processed [HTML]: The Frick Pittsburgh - Wikipedia... (orig: 45117 chars, cleaned: 26875 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_The_Frick_Pittsburgh.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[35/41] Processing: https://en.wikipedia.org/wiki/Pittsburgh_Pirates
+Output file: ./data/raw\en_wikipedia_org_wiki_Pittsburgh_Pirates.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/Pittsburgh_Pirates
+✓ Processed [HTML]: Pittsburgh Pirates - Wikipedia... (orig: 306701 chars, cleaned: 156670 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_Pittsburgh_Pirates.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[36/41] Processing: https://en.wikipedia.org/wiki/Pittsburgh_Steelers
+Output file: ./data/raw\en_wikipedia_org_wiki_Pittsburgh_Steelers.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/Pittsburgh_Steelers
+✓ Processed [HTML]: Pittsburgh Steelers - Wikipedia... (orig: 402355 chars, cleaned: 239707 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_Pittsburgh_Steelers.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[37/41] Processing: https://en.wikipedia.org/wiki/Pittsburgh_Penguins
+Output file: ./data/raw\en_wikipedia_org_wiki_Pittsburgh_Penguins.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/Pittsburgh_Penguins
+Rate limit hit. Waiting 5 seconds before retry 1/5...
+Rate limit hit. Waiting 10 seconds before retry 2/5...
+✓ Processed [HTML]: Pittsburgh Penguins - Wikipedia... (orig: 269313 chars, cleaned: 183912 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_Pittsburgh_Penguins.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[38/41] Processing: https://en.wikipedia.org/wiki/PNC_Park
+Output file: ./data/raw\en_wikipedia_org_wiki_PNC_Park.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/PNC_Park
+✓ Processed [HTML]: PNC Park - Wikipedia... (orig: 190778 chars, cleaned: 129916 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_PNC_Park.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[39/41] Processing: https://en.wikipedia.org/wiki/Acrisure_Stadium
+Output file: ./data/raw\en_wikipedia_org_wiki_Acrisure_Stadium.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/Acrisure_Stadium
+✓ Processed [HTML]: Acrisure Stadium - Wikipedia... (orig: 240506 chars, cleaned: 113056 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_Acrisure_Stadium.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+[40/41] Processing: https://en.wikipedia.org/wiki/PPG_Paints_Arena
+Output file: ./data/raw\en_wikipedia_org_wiki_PPG_Paints_Arena.jsonl
+Scraping single page: https://en.wikipedia.org/wiki/PPG_Paints_Arena
+✓ Processed [HTML]: PPG Paints Arena - Wikipedia... (orig: 159531 chars, cleaned: 92532 chars)
+💾 Saved 1 documents to ./data/raw\en_wikipedia_org_wiki_PPG_Paints_Arena.jsonl
+⏱️ Waiting 3 seconds before next request...
+
+============================================================
+Processing single pages: CITY_DOCUMENTS
+============================================================
+
+
+[41/41] Processing: https://www.pittsburghpa.gov/files/assets/city/v/4/omb/documents/operating-budgets/2025-operating-budget.pdf
+Output file: ./data/raw\pittsburghpa_gov_files_assets_city_v_4_omb_documents_operating-budgets_2025-operating-budget.jsonl
+Scraping single page: https://www.pittsburghpa.gov/files/assets/city/v/4/omb/documents/operating-budgets/2025-operating-budget.pdf
+HTTP Error: 500 Server Error: Internal Server Error for url: https://api.firecrawl.dev/v2/scrape
+⏱️ Waiting 3 seconds before next request...
+💾 Saved 530 documents to ./data/pittsburgh_cmu_knowledge_base.jsonl
+⚠️ Saved 334 failed URLs to ./data/failed_urls.txt
+
+============================================================
+✅ COLLECTION COMPLETE!
+⏰ Finished at: 2025-10-05T03:39:19.351993
+============================================================
+Total documents collected: 530
+PDFs processed: 0
+HTML pages processed: 530
+Other formats: 0
+Failed scrapes (empty content): 334
+Individual files saved to: ./data/raw/
+Combined knowledge base: ./data/pittsburgh_cmu_knowledge_base.jsonl
+Log file: ./data/raw\scraping_log.txt
+Failed URLs list: ./data/failed_urls.txt

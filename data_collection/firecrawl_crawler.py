@@ -54,7 +54,7 @@ class FirecrawlCollector:
                 "parsers": ["pdf"],
                 "includeTags": ["article", "main", "section"],
                 "excludeTags": ["nav", "footer", "header", "aside", "script", "style"],
-                "waitFor": 1000
+                # "waitFor": 1000
             }
         }
         
@@ -115,7 +115,7 @@ class FirecrawlCollector:
                 print(f"Crawl failed: {status_data}")
                 return {"success": False, "data": []}
             
-            time.sleep(5)
+            time.sleep(2)
         
         print(f"Crawl timed out after {max_wait_time} seconds")
         return {"success": False, "data": []}
@@ -587,7 +587,7 @@ if __name__ == "__main__":
     OUTPUT_DIR = "./data/raw"
     COMBINED_OUTPUT_FILE = "./data/pittsburgh_cmu_knowledge_base.jsonl"
     FAILED_URLS_FILE = "./data/failed_urls.txt"
-    DELAY_BETWEEN_REQUESTS = 15
+    DELAY_BETWEEN_REQUESTS = 3
     
     print("\n" + "="*60)
     print("🚀 RUNNING FULL SCALE DATA COLLECTION")
@@ -603,16 +603,19 @@ if __name__ == "__main__":
                     "url": "https://www.cmu.edu/about/",
                     "max_depth": 3,
                     "limit": 40,
+                    # "include_paths": ["/about", "/history"]
                 },
                 {
                     "url": "https://www.pittsburghpa.gov/",
                     "max_depth": 2,
                     "limit": 30,
+                    # "include_paths": ["/mayor", "/government", "/services"]
                 },
                 {
                     "url": "https://www.visitpittsburgh.com/",
                     "max_depth": 2,
                     "limit": 50,
+                    # "include_paths": ["/about-pittsburgh", "/things-to-do"]
                 },
                 {
                     "url": "https://www.britannica.com/place/Pittsburgh",
@@ -627,6 +630,7 @@ if __name__ == "__main__":
                     "url": "https://pittsburghpa.gov/finance/tax-forms",
                     "max_depth": 2,
                     "limit": 30,
+                    # "include_paths": ["/finance"]
                 }
             ]
         },
@@ -636,11 +640,15 @@ if __name__ == "__main__":
                     "url": "https://pittsburgh.events/",
                     "max_depth": 3,
                     "limit": 100,
+                    # "include_paths": ["/event/", "/2025/"],
+                    # "exclude_paths": ["/calendar", "/list", "/search"]
                 },
                 {
                     "url": "https://downtownpittsburgh.com/events/",
                     "max_depth": 3,
                     "limit": 80,
+                    # "include_paths": ["/event"],
+                    # "exclude_paths": ["/calendar"]
                 },
                 {
                     "url": "https://www.pghcitypaper.com/pittsburgh/EventSearch",
@@ -655,6 +663,8 @@ if __name__ == "__main__":
                     "url": "https://events.cmu.edu/",
                     "max_depth": 3,
                     "limit": 100,
+                    # "include_paths": ["/event/"],
+                    # "exclude_paths": ["/calendar", "/list"]
                 },
                 {
                     "url": "https://www.cmu.edu/engage/alumni/events/campus/",
@@ -669,31 +679,38 @@ if __name__ == "__main__":
                     "url": "https://www.pittsburghsymphony.org/",
                     "max_depth": 2,
                     "limit": 40,
+                    # "include_paths": ["/events", "/concerts", "/about"]
                 },
                 {
                     "url": "https://pittsburghopera.org/",
                     "max_depth": 2,
                     "limit": 30,
+                    # "include_paths": ["/performances", "/about"]
                 },
                 {
                     "url": "https://trustarts.org/",
                     "max_depth": 2,
                     "limit": 40,
+                    # "include_paths": ["/events", "/venues", "/about"]
                 },
                 {
                     "url": "https://carnegiemuseums.org/",
                     "max_depth": 3,
                     "limit": 80,
+                    # "include_paths": ["/visit", "/events", "/about", "/exhibition"],
+                    # "exclude_paths": ["/calendar"]
                 },
                 {
                     "url": "https://www.heinzhistorycenter.org/",
                     "max_depth": 2,
                     "limit": 50,
+                    # "include_paths": ["/visit", "/exhibits", "/events", "/collections"]
                 },
                 {
                     "url": "https://www.thefrickpittsburgh.org/",
                     "max_depth": 2,
                     "limit": 30,
+                    # "include_paths": ["/visit", "/exhibitions", "/events"]
                 }
             ]
         },
@@ -742,16 +759,22 @@ if __name__ == "__main__":
                     "url": "https://www.mlb.com/pirates",
                     "max_depth": 2,
                     "limit": 40,
+                    # "include_paths": ["/schedule", "/team", "/ballpark", "/tickets"],
+                    # "exclude_paths": ["/scores", "/stats", "/news", "/video", "/game"]
                 },
                 {
                     "url": "https://www.steelers.com/",
                     "max_depth": 2,
                     "limit": 40,
+                    # "include_paths": ["/team", "/stadium", "/schedule"],
+                    # "exclude_paths": ["/news", "/video", "/photos", "/game"]
                 },
                 {
                     "url": "https://www.nhl.com/penguins/",
                     "max_depth": 2,
                     "limit": 40,
+                    # "include_paths": ["/team", "/arena", "/schedule"],
+                    # "exclude_paths": ["/news", "/video", "/stats", "/game", "/scores"]
                 }
             ]
         }
