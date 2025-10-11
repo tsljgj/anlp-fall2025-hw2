@@ -50,16 +50,23 @@ class HybridRetriever(BaseRetriever):
         for i, key in enumerate(sparse_scores.keys()):
             sparse_scores[key] = sparse_norm[i]
 
+        # === Adaptive alpha based on query length ===
+        if len(query.split()) < 5:
+            alpha = 0.3  # short query → lexical match dominates
+        else:
+            alpha = 0.7  # long query → semantic match dominates
+        # ============================================
+
         combined_scores = {}
         all_texts = set(dense_scores.keys()) | set(sparse_scores.keys())
 
         for text in all_texts:
             d = dense_scores.get(text, 0.0)
             s = sparse_scores.get(text, 0.0)
-            combined_scores[text] = self.alpha * d + (1 - self.alpha) * s
+            combined_scores[text] = alpha * d + (1 - alpha) * s
 
-        ranked = sorted(combined_scores.items(), key=lambda x: x[1], reverse=True)
-        top_docs = [{"text": t, "score": s} for t, s in ranked[: k * 2]]
+            ranked = sorted(combined_scores.items(), key=lambda x: x[1], reverse=True)
+            top_docs = [{"text": t, "score": s} for t, s in ranked[: k * 2]]
 
         if self.use_reranker:
             pairs = [(query, doc["text"]) for doc in top_docs]
