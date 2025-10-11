@@ -1,0 +1,1053 @@
+{
+  "1": {
+    "question": "Who won the 2025 Pulitzer Prize in History at CMU?",
+    "answer": "Edda Fields-Black",
+    "source_doc_ids": [
+      6
+    ]
+  },
+  "2": {
+    "question": "How many people were liberated in the 1863 Combahee River Raid described in COMBEE?",
+    "answer": "756",
+    "source_doc_ids": [
+      6
+    ]
+  },
+  "3": {
+    "question": "What are CMU's Times Higher Education world and U.S. News national rankings?",
+    "answer": "#24 world; #20 U.S.",
+    "source_doc_ids": [
+      6
+    ]
+  },
+  "4": {
+    "question": "What are CMU's U.S. News rankings in AI and computer science?",
+    "answer": "#1 AI; #2 computer science",
+    "source_doc_ids": [
+      6
+    ]
+  },
+  "5": {
+    "question": "How much is the investment to revitalize Downtown Pittsburgh announced in 2024?",
+    "answer": "$600 million",
+    "source_doc_ids": [
+      13
+    ]
+  },
+  "6": {
+    "question": "Which officials celebrated the Downtown revitalization step on Oct. 25, 2024?",
+    "answer": "Ed Gainey; Sara Innamorato",
+    "source_doc_ids": [
+      13
+    ]
+  },
+  "7": {
+    "question": "As of Oct–Dec 2025, who is CMU’s 2025 Pulitzer Prize in History winner?",
+    "answer": "Edda Fields-Black",
+    "source_doc_ids": [
+      6
+    ]
+  },
+  "8": {
+    "question": "Which Pittsburgh recycling service is relevant in December 2025?",
+    "answer": "Christmas Tree Recycling",
+    "source_doc_ids": [
+      12
+    ]
+  },
+  "9": {
+    "question": "Which department manages Pittsburgh’s streets, sidewalks, and bridges?",
+    "answer": "Department of Mobility and Infrastructure; DOMI",
+    "source_doc_ids": [
+      14
+    ]
+  },
+  "10": {
+    "question": "How many “Places of Worship” are listed in VisitPittsburgh’s directory?",
+    "answer": "56",
+    "source_doc_ids": [
+      52
+    ]
+  },
+  "11": {
+    "question": "What is the approximate run time of Noises Off?",
+    "answer": "2h 30m, incl. 15m intermission",
+    "source_doc_ids": [
+      112
+    ]
+  },
+  "12": {
+    "question": "Which company presents “Noises Off” by arrangement?",
+    "answer": "Concord Theatricals; Samuel French, Inc.",
+    "source_doc_ids": [
+      112
+    ]
+  },
+  "13": {
+    "question": "What genre is “Noises Off” regarded as?",
+    "answer": "the ultimate theatrical farce",
+    "source_doc_ids": [
+      112
+    ]
+  },
+  "14": {
+    "question": "Which categories are available on the Pittsburgh Events calendar?",
+    "answer": "All Events; Concerts; Theater; Sports",
+    "source_doc_ids": [
+      67
+    ]
+  },
+  "15": {
+    "question": "On the Pittsburgh Events calendar page, what end date is shown in the filter?",
+    "answer": "Oct 10, 2025",
+    "source_doc_ids": [
+      67
+    ]
+  },
+  "16": {
+    "question": "Which month and year is the focus of the “Pittsburgh Concerts October 2025” page?",
+    "answer": "October 2025",
+    "source_doc_ids": [
+      82
+    ]
+  },
+  "17": {
+    "question": "Name three popular concert venues listed on the October 2025 page.",
+    "answer": "Benedum Center; Heinz Hall; Carnegie of Homestead Music Hall",
+    "source_doc_ids": [
+      82
+    ]
+  },
+  "18": {
+    "question": "What start and end dates are shown on the November 2025 concerts page filter?",
+    "answer": "Nov 1, 2025; Nov 6, 2025",
+    "source_doc_ids": [
+      105
+    ]
+  },
+  "19": {
+    "question": "What ZIP code is listed for Acrisure Stadium?",
+    "answer": "15212",
+    "source_doc_ids": [
+      94
+    ]
+  },
+  "20": {
+    "question": "In what city is 1st Summit Arena at Cambria County War Memorial located?",
+    "answer": "Johnstown, PA",
+    "source_doc_ids": [
+      94
+    ]
+  },
+  "21": {
+    "question": "In what year did Meadowcroft Historic Village open to the public?",
+    "answer": "1969",
+    "source_doc_ids": [
+      317
+    ]
+  },
+  "22": {
+    "question": "From which county was the Pine Bank Covered Bridge relocated to Meadowcroft?",
+    "answer": "Greene County",
+    "source_doc_ids": [
+      317
+    ]
+  },
+  "23": {
+    "question": "What year is the 'Día de los Muertos Cultural Celebration' listing on the Cultural Trust site?",
+    "answer": "2025",
+    "source_doc_ids": [
+      202
+    ]
+  },
+  "24": {
+    "question": "At what time is the 'Día de los Muertos Cultural Celebration' scheduled?",
+    "answer": "1:00PM",
+    "source_doc_ids": [
+      202
+    ]
+  },
+  "25": {
+    "question": "Name one showtime listed for 'The Lord of the Rings: The Two Towers.'",
+    "answer": "7:00PM; 2:30PM",
+    "source_doc_ids": [
+      202
+    ]
+  },
+  "26": {
+    "question": "What is the title of Madelyn Roehrig's project about Andy Warhol's grave?",
+    "answer": "Figments: Conversations with Andy",
+    "source_doc_ids": [
+      244
+    ]
+  },
+  "27": {
+    "question": "In which town is Andy Warhol's gravesite located?",
+    "answer": "Bethel Park",
+    "source_doc_ids": [
+      244
+    ]
+  },
+  "28": {
+    "question": "Who is the President of Carnegie Mellon University listed on the PSO board?",
+    "answer": "Farnam Jahanian, Ph.D.",
+    "source_doc_ids": [
+      146
+    ]
+  },
+  "29": {
+    "question": "Which three sites offer employment opportunities through the History Center?",
+    "answer": "History Center; Fort Pitt Museum; Meadowcroft Rockshelter and Historic Village",
+    "source_doc_ids": [
+      305
+    ]
+  },
+  "30": {
+    "question": "Which decades saw coal mining alter the Millers' Avella farm landscape?",
+    "answer": "1940s and 1950s",
+    "source_doc_ids": [
+      317
+    ]
+  },
+  "31": {
+    "question": "What are the 2025 dates for Little Italy Days?",
+    "answer": "August 14–17, 2025",
+    "source_doc_ids": [
+      380
+    ]
+  },
+  "32": {
+    "question": "When booking by phone, what should you mention for Restaurant Week?",
+    "answer": "Pittsburgh Restaurant Week",
+    "source_doc_ids": [
+      379
+    ]
+  },
+  "33": {
+    "question": "Where is Little Italy Days held in Pittsburgh?",
+    "answer": "Liberty Ave, Bloomfield (Ella–Gross St)",
+    "source_doc_ids": [
+      380
+    ]
+  },
+  "34": {
+    "question": "Name a listed sponsor of Little Italy Days.",
+    "answer": "Highmark; AHN; First Commonwealth Bank; UPMC; UPMC Shadyside; UPMC Children's",
+    "source_doc_ids": [
+      380
+    ]
+  },
+  "35": {
+    "question": "Where can you buy the 2025 Little Italy Days VIP Experience?",
+    "answer": "Eventbrite",
+    "source_doc_ids": [
+      380
+    ]
+  },
+  "36": {
+    "question": "What is the 2025 VIP Experience price for two?",
+    "answer": "$34.95",
+    "source_doc_ids": [
+      380
+    ]
+  },
+  "37": {
+    "question": "Which chef made Lobster Flautas live on Pittsburgh Today Live?",
+    "answer": "Jason Huzzard",
+    "source_doc_ids": [
+      370
+    ]
+  },
+  "38": {
+    "question": "Which TV show did Chef Jessica Gibson cook live on?",
+    "answer": "Pittsburgh Today Live",
+    "source_doc_ids": [
+      370
+    ]
+  },
+  "39": {
+    "question": "Where were the 'Getting To Know Pittsburgh Chefs' interviews posted?",
+    "answer": "YouTube",
+    "source_doc_ids": [
+      374
+    ]
+  },
+  "40": {
+    "question": "What email contacts the Banana Split Celebration team?",
+    "answer": "info@bananasplitfest.com",
+    "source_doc_ids": [
+      396
+    ]
+  },
+  "41": {
+    "question": "What city hosted the Steelers-Vikings game mentioned?",
+    "answer": "Dublin",
+    "source_doc_ids": [
+      475
+    ]
+  },
+  "42": {
+    "question": "Which Dublin district with cobblestones did Steelers fans crowd?",
+    "answer": "Temple Bar",
+    "source_doc_ids": [
+      475
+    ]
+  },
+  "43": {
+    "question": "Name one attraction Steelers fans visited in Dublin.",
+    "answer": "Guinness Storehouse; Christ Church Cathedral; Trinity College",
+    "source_doc_ids": [
+      475
+    ]
+  },
+  "44": {
+    "question": "On what date and time was 'Next men up' published?",
+    "answer": "Oct 02, 2025 at 07:00 AM",
+    "source_doc_ids": [
+      456
+    ]
+  },
+  "45": {
+    "question": "Which running back was deactivated due to a knee injury before the Vikings game?",
+    "answer": "Jaylen Warren",
+    "source_doc_ids": [
+      456
+    ]
+  },
+  "46": {
+    "question": "Who logged 19 carries for 99 yards and two TDs vs. the Vikings?",
+    "answer": "Kenneth Gainwell",
+    "source_doc_ids": [
+      456
+    ]
+  },
+  "47": {
+    "question": "Whose interception set up the five-play, 35-yard TD drive?",
+    "answer": "T.J. Watt",
+    "source_doc_ids": [
+      456
+    ]
+  },
+  "48": {
+    "question": "What was the Steelers’ record after four games entering the bye week?",
+    "answer": "3-1",
+    "source_doc_ids": [
+      463
+    ]
+  },
+  "49": {
+    "question": "What age group is the Little Penguins Learn to Play program for?",
+    "answer": "Ages 5-9",
+    "source_doc_ids": [
+      508
+    ]
+  },
+  "50": {
+    "question": "Which casino is listed as a Founding Partner on the Penguins schedule page?",
+    "answer": "Rivers Casino",
+    "source_doc_ids": [
+      504
+    ]
+  },
+  "51": {
+    "question": "What is the Seneca name for the Pittsburgh region?",
+    "answer": "Jaödeogë’",
+    "source_doc_ids": [
+      517
+    ]
+  },
+  "52": {
+    "question": "Which two rivers meet at Pittsburgh to form the Ohio River?",
+    "answer": "Allegheny; Monongahela",
+    "source_doc_ids": [
+      517
+    ]
+  },
+  "53": {
+    "question": "After the British victory in the 1750s, which nation ceded territories east of the Mississippi?",
+    "answer": "France",
+    "source_doc_ids": [
+      517
+    ]
+  },
+  "54": {
+    "question": "What is the nickname of Pittsburgh’s former Civic Arena?",
+    "answer": "the Igloo",
+    "source_doc_ids": [
+      526
+    ]
+  },
+  "55": {
+    "question": "Which NHL division do the Penguins play in?",
+    "answer": "Metropolitan Division",
+    "source_doc_ids": [
+      526
+    ]
+  },
+  "56": {
+    "question": "In which NHL conference are the Penguins?",
+    "answer": "Eastern Conference",
+    "source_doc_ids": [
+      526
+    ]
+  },
+  "57": {
+    "question": "Which organization operates four museums in Pittsburgh?",
+    "answer": "Carnegie Museums of Pittsburgh",
+    "source_doc_ids": [
+      521
+    ]
+  },
+  "58": {
+    "question": "During Oct–Dec 2025, where will Pittsburgh Opera primarily perform?",
+    "answer": "Benedum Center",
+    "source_doc_ids": [
+      520
+    ]
+  },
+  "59": {
+    "question": "Which Point Breeze museum can visitors visit in Oct–Dec 2025?",
+    "answer": "The Frick Pittsburgh",
+    "source_doc_ids": [
+      523
+    ]
+  },
+  "60": {
+    "question": "During Oct–Dec 2025, which arena hosts Penguins home games?",
+    "answer": "PPG Paints Arena",
+    "source_doc_ids": [
+      526
+    ]
+  },
+  "61": {
+    "question": "Which month and year does the Pittsburgh concerts schedule focus on?",
+    "answer": "November 2025",
+    "source_doc_ids": [
+      105
+    ]
+  },
+  "62": {
+    "question": "Name one popular Pittsburgh concert venue mentioned on the page.",
+    "answer": "Benedum Center; Heinz Hall; Carnegie of Homestead Music Hall; Club Cafe; Thunderbird Cafe; Hard Rock Cafe",
+    "source_doc_ids": [
+      105
+    ]
+  },
+  "63": {
+    "question": "What start date is shown in the November concerts filter?",
+    "answer": "Nov 1, 2025",
+    "source_doc_ids": [
+      105
+    ]
+  },
+  "64": {
+    "question": "What end date is shown in the November concerts filter?",
+    "answer": "Nov 6, 2025",
+    "source_doc_ids": [
+      105
+    ]
+  },
+  "65": {
+    "question": "What was the Steelers' record entering their 2025 bye week?",
+    "answer": "3-1",
+    "source_doc_ids": [
+      463
+    ]
+  },
+  "66": {
+    "question": "Who is the Steelers’ new QB mentioned after four games in 2025?",
+    "answer": "Aaron Rodgers",
+    "source_doc_ids": [
+      463
+    ]
+  },
+  "67": {
+    "question": "In what year did Meadowcroft Historic Village open to the public?",
+    "answer": "1969",
+    "source_doc_ids": [
+      317
+    ]
+  },
+  "68": {
+    "question": "From which county was the Pine Bank Covered Bridge relocated to Meadowcroft?",
+    "answer": "Greene County",
+    "source_doc_ids": [
+      317
+    ]
+  },
+  "69": {
+    "question": "What building serves as headquarters of the Carnegie Museums of Pittsburgh?",
+    "answer": "The Carnegie Institute",
+    "source_doc_ids": [
+      521
+    ]
+  },
+  "70": {
+    "question": "Who should be contacted for info about the Yellow Tie Gala?",
+    "answer": "Greater Latrobe-Laurel Valley Chamber of Commerce",
+    "source_doc_ids": [
+      396
+    ]
+  },
+  "71": {
+    "question": "Which NHL team’s October 2025 schedule is shown on the page?",
+    "answer": "Pittsburgh Penguins",
+    "source_doc_ids": [
+      504
+    ]
+  },
+  "72": {
+    "question": "What month and year are displayed on the Penguins schedule?",
+    "answer": "October 2025",
+    "source_doc_ids": [
+      504
+    ]
+  },
+  "73": {
+    "question": "Which months flank October 2025 in the schedule navigation?",
+    "answer": "September 2025; November 2025",
+    "source_doc_ids": [
+      504
+    ]
+  },
+  "74": {
+    "question": "What are the two game categories listed on the October 2025 schedule page?",
+    "answer": "Home; Away",
+    "source_doc_ids": [
+      504
+    ]
+  },
+  "75": {
+    "question": "Name a healthcare-related founding partner shown on the Penguins page.",
+    "answer": "Highmark; UPMC",
+    "source_doc_ids": [
+      504
+    ]
+  },
+  "76": {
+    "question": "Who is the Chair of the Pittsburgh Symphony Orchestra Board?",
+    "answer": "Anthony L. Bucci",
+    "source_doc_ids": [
+      146
+    ]
+  },
+  "77": {
+    "question": "Who is listed as President, Carnegie Mellon University, on the PSO board?",
+    "answer": "Farnam Jahanian",
+    "source_doc_ids": [
+      146
+    ]
+  },
+  "78": {
+    "question": "Who serves as PSO Principal Piccolo?",
+    "answer": "Rhian Kenny",
+    "source_doc_ids": [
+      146
+    ]
+  },
+  "79": {
+    "question": "Which two rivers meet at Pittsburgh to form the Ohio River?",
+    "answer": "Allegheny; Monongahela",
+    "source_doc_ids": [
+      517
+    ]
+  },
+  "80": {
+    "question": "Where does Pittsburgh Opera primarily perform?",
+    "answer": "Benedum Center",
+    "source_doc_ids": [
+      520
+    ]
+  },
+  "81": {
+    "question": "Which department manages Pittsburgh’s streets, sidewalks, and bridges?",
+    "answer": "Department of Mobility and Infrastructure; DOMI",
+    "source_doc_ids": [
+      14
+    ]
+  },
+  "82": {
+    "question": "Which city office offers permit applications and occupancy searches?",
+    "answer": "Permits, Licenses, and Inspections; PLI",
+    "source_doc_ids": [
+      14
+    ]
+  },
+  "83": {
+    "question": "What plan guides Pittsburgh’s digital equity work through 2030?",
+    "answer": "2030 Community Strategic Plan",
+    "source_doc_ids": [
+      14
+    ]
+  },
+  "84": {
+    "question": "Which chef from Bistro 19 cooked live on Pittsburgh Today Live?",
+    "answer": "Chef Jessica Gibson; Jessica Gibson",
+    "source_doc_ids": [
+      370
+    ]
+  },
+  "85": {
+    "question": "Which chef made Lobster Flautas live on Pittsburgh Today Live?",
+    "answer": "Chef Jason Huzzard; Jason Huzzard",
+    "source_doc_ids": [
+      370
+    ]
+  },
+  "86": {
+    "question": "Who provides the live score for Nosferatu (1922)?",
+    "answer": "Tom Roberts",
+    "source_doc_ids": [
+      202
+    ]
+  },
+  "87": {
+    "question": "Which organization presents The Lord of the Rings: The Two Towers?",
+    "answer": "Pittsburgh Symphony Orchestra",
+    "source_doc_ids": [
+      202
+    ]
+  },
+  "88": {
+    "question": "Which 2025 Cultural Trust event is free and includes live music?",
+    "answer": "Día de los Muertos Cultural Celebration",
+    "source_doc_ids": [
+      202
+    ]
+  },
+  "89": {
+    "question": "What month and year does the page focus on for Pittsburgh concerts?",
+    "answer": "October 2025",
+    "source_doc_ids": [
+      82
+    ]
+  },
+  "90": {
+    "question": "What start and end dates are shown in the filter on the October 2025 concerts page?",
+    "answer": "Oct 5, 2025; Oct 10, 2025",
+    "source_doc_ids": [
+      82
+    ]
+  },
+  "91": {
+    "question": "What are the 2025 dates for Little Italy Days?",
+    "answer": "August 14–17, 2025",
+    "source_doc_ids": [
+      380
+    ]
+  },
+  "92": {
+    "question": "Between which streets does Little Italy Days run on Liberty Avenue?",
+    "answer": "Ella St. to Gross St.",
+    "source_doc_ids": [
+      380
+    ]
+  },
+  "93": {
+    "question": "How much is the VIP Experience for two at Little Italy Days?",
+    "answer": "$34.95",
+    "source_doc_ids": [
+      380
+    ]
+  },
+  "94": {
+    "question": "Which healthcare systems are listed as sponsors for Little Italy Days?",
+    "answer": "UPMC; AHN",
+    "source_doc_ids": [
+      380
+    ]
+  },
+  "95": {
+    "question": "What End Date is shown in the Pittsburgh.Events calendar filter?",
+    "answer": "Oct 10, 2025",
+    "source_doc_ids": [
+      67
+    ]
+  },
+  "96": {
+    "question": "Which years are highlighted in the Pittsburgh Events Calendar title?",
+    "answer": "2025/2026",
+    "source_doc_ids": [
+      67
+    ]
+  },
+  "97": {
+    "question": "Which categories can you filter by on Pittsburgh.Events?",
+    "answer": "All Events; Concerts; Theater; Sports",
+    "source_doc_ids": [
+      67
+    ]
+  },
+  "98": {
+    "question": "How much is the investment to revitalize Downtown Pittsburgh?",
+    "answer": "$600 million",
+    "source_doc_ids": [
+      13
+    ]
+  },
+  "99": {
+    "question": "Who authored “Getting To Know Pittsburgh Chefs”?",
+    "answer": "Brian McCollum",
+    "source_doc_ids": [
+      374
+    ]
+  },
+  "100": {
+    "question": "Which Dublin district did Steelers fans crowd during the Ireland game week?",
+    "answer": "Temple Bar",
+    "source_doc_ids": [
+      475
+    ]
+  },
+  "101": {
+    "question": "What is the name of Madelyn Roehrig’s gravesite project about Andy Warhol?",
+    "answer": "Figments: Conversations with Andy",
+    "source_doc_ids": [
+      244
+    ]
+  },
+  "102": {
+    "question": "In which Pittsburgh-area municipality is Andy Warhol buried?",
+    "answer": "Bethel Park",
+    "source_doc_ids": [
+      244
+    ]
+  },
+  "103": {
+    "question": "How many handwritten messages did Roehrig collect at Warhol’s grave?",
+    "answer": "230",
+    "source_doc_ids": [
+      244
+    ]
+  },
+  "104": {
+    "question": "Which types of opportunities does the Heinz History Center offer?",
+    "answer": "employment; internships; volunteer",
+    "source_doc_ids": [
+      305
+    ]
+  },
+  "105": {
+    "question": "What ages can enroll in Little Penguins Learn to Play?",
+    "answer": "5-9",
+    "source_doc_ids": [
+      508
+    ]
+  },
+  "106": {
+    "question": "How many on-ice sessions does Little Penguins Learn to Play provide?",
+    "answer": "eight to ten",
+    "source_doc_ids": [
+      508
+    ]
+  },
+  "107": {
+    "question": "Since what year have Penguins home games been at PPG Paints Arena?",
+    "answer": "2010",
+    "source_doc_ids": [
+      526
+    ]
+  },
+  "108": {
+    "question": "During Oct 9–Dec 31, 2025, which program’s events might local rinks host several times per season?",
+    "answer": "Try Hockey for Free",
+    "source_doc_ids": [
+      508
+    ]
+  },
+  "109": {
+    "question": "Between Oct 9 and Dec 31, 2025, where will Penguins home games be played?",
+    "answer": "PPG Paints Arena",
+    "source_doc_ids": [
+      526
+    ]
+  },
+  "110": {
+    "question": "When booking by phone, what should diners mention for Restaurant Week?",
+    "answer": "Pittsburgh Restaurant Week",
+    "source_doc_ids": [
+      379
+    ]
+  },
+  "111": {
+    "question": "How long is the intermission in 'Noises Off'?",
+    "answer": "15 minutes",
+    "source_doc_ids": [
+      112
+    ]
+  },
+  "112": {
+    "question": "Who presents 'Noises Off' by arrangement?",
+    "answer": "Concord Theatricals on behalf of Samuel French, Inc.",
+    "source_doc_ids": [
+      112
+    ]
+  },
+  "113": {
+    "question": "As reported on Oct 2, 2025, where did the Steelers face the Vikings in their 24-21 win?",
+    "answer": "Dublin",
+    "source_doc_ids": [
+      456
+    ]
+  },
+  "114": {
+    "question": "Which running back did the Steelers deactivate before their Dublin game vs. the Vikings?",
+    "answer": "Jaylen Warren",
+    "source_doc_ids": [
+      456
+    ]
+  },
+  "115": {
+    "question": "Between Oct 9 and Dec 31, 2025, which CMU program was ranked #1 in the U.S.?",
+    "answer": "Artificial intelligence",
+    "source_doc_ids": [
+      6
+    ]
+  },
+  "116": {
+    "question": "Who made the 13-yard interception return that set up a Steelers touchdown drive?",
+    "answer": "T.J. Watt",
+    "source_doc_ids": [
+      456
+    ]
+  },
+  "117": {
+    "question": "In which Pittsburgh neighborhood is The Frick Pittsburgh located?",
+    "answer": "Point Breeze, Pittsburgh",
+    "source_doc_ids": [
+      523
+    ]
+  },
+  "118": {
+    "question": "What are the geographic coordinates of The Frick Pittsburgh?",
+    "answer": "40°26′47″N 79°54′09″W",
+    "source_doc_ids": [
+      523
+    ]
+  },
+  "119": {
+    "question": "Which map is linked on Pittsburgh's Drop-Off Info page?",
+    "answer": "Materials Recovery Map",
+    "source_doc_ids": [
+      12
+    ]
+  },
+  "120": {
+    "question": "Between Oct 9 and Dec 31, 2025, what world rank did CMU hold per Times Higher Education?",
+    "answer": "24",
+    "source_doc_ids": [
+      6
+    ]
+  },
+  "121": {
+    "question": "What was the final score of the Steelers' win over the Vikings in Dublin?",
+    "answer": "24-21",
+    "source_doc_ids": [
+      456
+    ]
+  },
+  "122": {
+    "question": "Which running back recorded 99 rushing yards and two touchdowns in that game?",
+    "answer": "Kenneth Gainwell",
+    "source_doc_ids": [
+      456
+    ]
+  },
+  "123": {
+    "question": "What lead did Pittsburgh hold with 2:23 left in the third quarter?",
+    "answer": "21-6",
+    "source_doc_ids": [
+      456
+    ]
+  },
+  "124": {
+    "question": "What is the listed address for Acrisure Stadium in Pittsburgh?",
+    "answer": "15212, 100 Art Rooney Avenue, Pittsburgh, PA, US",
+    "source_doc_ids": [
+      94
+    ]
+  },
+  "125": {
+    "question": "In what city was the Steelers-Vikings game played?",
+    "answer": "Dublin; Dublin, Ireland",
+    "source_doc_ids": [
+      475,
+      456
+    ]
+  },
+  "126": {
+    "question": "Name a Steelers offensive tackle mentioned as a former first-round pick.",
+    "answer": "Broderick Jones; Troy Fautanu",
+    "source_doc_ids": [
+      475
+    ]
+  },
+  "127": {
+    "question": "Which month and year are shown on the Penguins schedule page?",
+    "answer": "October 2025",
+    "source_doc_ids": [
+      504
+    ]
+  },
+  "128": {
+    "question": "Name a founding partner listed on the Penguins schedule page.",
+    "answer": "PPG; 84 Lumber; DICK'S; FedEx; F.N.B.; Ford; Highmark; Coca-Cola; Rivers Casino; UPMC",
+    "source_doc_ids": [
+      504
+    ]
+  },
+  "129": {
+    "question": "Which month and year does the concerts page focus on?",
+    "answer": "November 2025",
+    "source_doc_ids": [
+      105
+    ]
+  },
+  "130": {
+    "question": "What Start Date is shown on the November concerts page filter?",
+    "answer": "Nov 1, 2025",
+    "source_doc_ids": [
+      105
+    ]
+  },
+  "131": {
+    "question": "Who is the chair of the Pittsburgh Symphony Orchestra board?",
+    "answer": "Anthony L. Bucci",
+    "source_doc_ids": [
+      146
+    ]
+  },
+  "132": {
+    "question": "Who is the PSO president and CEO?",
+    "answer": "Melia Peters Tourangeau",
+    "source_doc_ids": [
+      146
+    ]
+  },
+  "133": {
+    "question": "Which Carnegie Mellon University official serves on the PSO board?",
+    "answer": "Farnam Jahanian",
+    "source_doc_ids": [
+      146
+    ]
+  },
+  "134": {
+    "question": "Which film features a live score by Tom Roberts?",
+    "answer": "Nosferatu: A Symphony of Horror (1922)",
+    "source_doc_ids": [
+      202
+    ]
+  },
+  "135": {
+    "question": "Which event is marked Free and includes Live Music, Talks & Poetry, Visual Arts, and Workshops & Classes?",
+    "answer": "Día de los Muertos Cultural Celebration",
+    "source_doc_ids": [
+      202
+    ]
+  },
+  "136": {
+    "question": "Which orchestra presents The Lord of the Rings: The Two Towers?",
+    "answer": "Pittsburgh Symphony Orchestra",
+    "source_doc_ids": [
+      202
+    ]
+  },
+  "137": {
+    "question": "What start times are listed for The Lord of the Rings: The Two Towers?",
+    "answer": "7:00PM; 2:30PM",
+    "source_doc_ids": [
+      202
+    ]
+  },
+  "138": {
+    "question": "In 2025, which CMU historian won the Pulitzer Prize in History?",
+    "answer": "Edda Fields-Black",
+    "source_doc_ids": [
+      6
+    ]
+  },
+  "139": {
+    "question": "How many enslaved people were liberated in the 1863 Combahee River Raid?",
+    "answer": "756",
+    "source_doc_ids": [
+      6
+    ]
+  },
+  "140": {
+    "question": "Since what year have the Pittsburgh Penguins played at PPG Paints Arena?",
+    "answer": "2010",
+    "source_doc_ids": [
+      526
+    ]
+  },
+  "141": {
+    "question": "What is Pittsburgh Opera's main performance venue?",
+    "answer": "Benedum Center",
+    "source_doc_ids": [
+      520
+    ]
+  },
+  "142": {
+    "question": "What are the geographic coordinates of Pittsburgh Opera?",
+    "answer": "40.453250°N 79.979770°W; 40°27′12″N 79°58′47″W",
+    "source_doc_ids": [
+      520
+    ]
+  },
+  "143": {
+    "question": "What types of opportunities does the History Center offer?",
+    "answer": "Full-time; part-time; seasonal internships; volunteer",
+    "source_doc_ids": [
+      305
+    ]
+  },
+  "144": {
+    "question": "Name one site besides the History Center that offers opportunities.",
+    "answer": "Fort Pitt Museum; Meadowcroft Rockshelter and Historic Village",
+    "source_doc_ids": [
+      305
+    ]
+  },
+  "145": {
+    "question": "How many 'Catering' listings are in the Partner Directory?",
+    "answer": "40",
+    "source_doc_ids": [
+      52
+    ]
+  },
+  "146": {
+    "question": "How many 'Places of Worship' are listed?",
+    "answer": "56",
+    "source_doc_ids": [
+      52
+    ]
+  },
+  "147": {
+    "question": "What are the 2025 dates for Little Italy Days?",
+    "answer": "Aug 14–17, 2025",
+    "source_doc_ids": [
+      380
+    ]
+  },
+  "148": {
+    "question": "Where is Little Italy Days held in Pittsburgh?",
+    "answer": "Liberty Avenue, Bloomfield",
+    "source_doc_ids": [
+      380
+    ]
+  },
+  "149": {
+    "question": "On Pittsburgh.Events, what start date is shown in the calendar filter?",
+    "answer": "Oct 5, 2025",
+    "source_doc_ids": [
+      67
+    ]
+  },
+  "150": {
+    "question": "On Pittsburgh.Events, what end date is shown in the calendar filter?",
+    "answer": "Oct 10, 2025",
+    "source_doc_ids": [
+      67
+    ]
+  }
+}

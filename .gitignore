@@ -42,3 +42,6 @@ Thumbs.db
 # tests/evaluation_results.json
 # tests/detailed_results.json
 # rag_system/test_results.json
+
+# Project-specific
+data_collection/openai_qa_generator.py
