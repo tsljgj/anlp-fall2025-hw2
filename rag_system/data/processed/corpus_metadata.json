@@ -1,0 +1,27 @@
+{
+  "num_documents": 530,
+  "num_chunks": 1626,
+  "chunks_per_doc": 3.0679245283018868,
+  "chunk_size": 512,
+  "overlap": 128,
+  "strategy": "rolling",
+  "token_stats": {
+    "min": 2,
+    "max": 512,
+    "avg": 434.9028290282903
+  },
+  "char_stats": {
+    "min": 11,
+    "max": 44198,
+    "avg": 5416.150676506765
+  },
+  "categories": {
+    "general_info": 193,
+    "events_pittsburgh": 90,
+    "music_culture": 565,
+    "food_events": 68,
+    "sports": 344,
+    "wikipedia": 366
+  },
+  "kb_path": "/Users/tangyiq/dev/anlp-fall2025-hw2-gitrepo/anlp-fall2025-hw2/data_collection/data/pittsburgh_cmu_knowledge_base.jsonl"
+}
