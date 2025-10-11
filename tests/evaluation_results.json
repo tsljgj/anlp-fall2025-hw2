@@ -1,0 +1,1569 @@
+{
+  "overall": {
+    "exact_match": 0.0,
+    "f1": 18.082024268214035,
+    "answer_recall": 71.33333333333334,
+    "total_questions": 150
+  },
+  "per_question": [
+    {
+      "question_id": "1",
+      "prediction": "Edda Fields-Black, a faculty member in the Dietrich College at Carnegie Mellon University, won the 2025 Pulitzer Prize in History for her book _COMBEE: Harriet Tubman, the Combahee River Raid and Black Freedom during the Civil War_.",
+      "references": [
+        "Edda Fields-Black"
+      ],
+      "exact_match": 0,
+      "f1": 0.16666666666666669,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "2",
+      "prediction": "According to the context provided, the 1863 Combahee River Raid, led by Harriet Tubman, resulted in the liberation of 756 enslaved people.",
+      "references": [
+        "756"
+      ],
+      "exact_match": 0,
+      "f1": 0.1,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "3",
+      "prediction": "According to the provided context, Carnegie Mellon University is ranked:\n\n- **24th** in the world by Times Higher Education.\n- **15th** in the U.S. by U.S. News & World Report.",
+      "references": [
+        "#24 world",
+        "#20 U.S."
+      ],
+      "exact_match": 0,
+      "f1": 0.13793103448275862,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "4",
+      "prediction": "According to the provided context, Carnegie Mellon University's U.S. News rankings in AI and computer science are as follows:\n\n- **Artificial Intelligence**: #1\n- **Computer Science**: #2",
+      "references": [
+        "#1 AI",
+        "#2 computer science"
+      ],
+      "exact_match": 0,
+      "f1": 0.20689655172413793,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "5",
+      "prediction": "The investment to revitalize Downtown Pittsburgh announced in 2024 is $600 million.",
+      "references": [
+        "$600 million"
+      ],
+      "exact_match": 0,
+      "f1": 0.3076923076923077,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "6",
+      "prediction": "Mayor Ed Gainey, County Executive Sara Innamorato, and members of the local business community celebrated the Downtown revitalization step on October 25, 2024.",
+      "references": [
+        "Ed Gainey",
+        "Sara Innamorato"
+      ],
+      "exact_match": 0,
+      "f1": 0.17391304347826084,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "7",
+      "prediction": "As of Oct–Dec 2025, Carnegie Mellon University historian Edda Fields-Black has been awarded the 2025 Pulitzer Prize in History for her book _COMBEE: Harriet Tubman, the Combahee River Raid and Black Freedom during the Civil War_.",
+      "references": [
+        "Edda Fields-Black"
+      ],
+      "exact_match": 0,
+      "f1": 0.15789473684210528,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "8",
+      "prediction": "Based on the provided context, the relevant Pittsburgh recycling service in December 2025 would be the bi-weekly recycling curbside collection for residents of single-family homes and small apartments (five or fewer). The Blue Bin Program, which aims to make curbside recycling bag-free, is also relevant, though the specific implementation details for December 2025 are not provided in the context.",
+      "references": [
+        "Christmas Tree Recycling"
+      ],
+      "exact_match": 0,
+      "f1": 0.03389830508474576,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "9",
+      "prediction": "The Department of Mobility and Infrastructure (DOMI) manages Pittsburgh’s streets, sidewalks, and bridges.",
+      "references": [
+        "Department of Mobility and Infrastructure",
+        "DOMI"
+      ],
+      "exact_match": 0,
+      "f1": 0.5555555555555556,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "10",
+      "prediction": "The provided context does not list any specific number of \"Places of Worship\" in VisitPittsburgh’s directory. Therefore, the answer is not available based on the given information.",
+      "references": [
+        "56"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "11",
+      "prediction": "The approximate run time of Noises Off is 2 hours, 30 minutes, including a 15-minute intermission.",
+      "references": [
+        "2h 30m, incl. 15m intermission"
+      ],
+      "exact_match": 0,
+      "f1": 0.1,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "12",
+      "prediction": "“Noises Off” is presented by arrangement with Concord Theatricals on behalf of Samuel French, Inc.",
+      "references": [
+        "Concord Theatricals",
+        "Samuel French, Inc."
+      ],
+      "exact_match": 0,
+      "f1": 0.33333333333333337,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "13",
+      "prediction": "“Noises Off” is regarded as a theatrical farce.",
+      "references": [
+        "the ultimate theatrical farce"
+      ],
+      "exact_match": 0,
+      "f1": 0.4,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "14",
+      "prediction": "The Pittsburgh Events calendar offers a variety of categories including:\n\n- Theater shows\n- Concerts\n- Comedy shows\n- Sports events\n- Memorable activities for friends and family\n\nYou can browse the schedule to find events that fit your interests.",
+      "references": [
+        "All Events",
+        "Concerts",
+        "Theater",
+        "Sports"
+      ],
+      "exact_match": 0,
+      "f1": 0.06060606060606061,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "15",
+      "prediction": "The end date shown in the filter on the Pittsburgh Events calendar page is October 10, 2025.",
+      "references": [
+        "Oct 10, 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.23529411764705882,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "16",
+      "prediction": "The focus of the \"Pittsburgh Concerts October 2025\" page is October 2025.",
+      "references": [
+        "October 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.33333333333333337,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "17",
+      "prediction": "The provided context does not include a specific \"October 2025 page\" or a list of concert venues for that month. Therefore, based on the given information, I cannot name three popular concert venues listed on an October 2025 page.",
+      "references": [
+        "Benedum Center",
+        "Heinz Hall",
+        "Carnegie of Homestead Music Hall"
+      ],
+      "exact_match": 0,
+      "f1": 0.05128205128205128,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "18",
+      "prediction": "",
+      "references": [
+        "Nov 1, 2025",
+        "Nov 6, 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "19",
+      "prediction": "",
+      "references": [
+        "15212"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "20",
+      "prediction": "The 1st Summit Arena at Cambria County War Memorial is located in Johnstown, PA, US.",
+      "references": [
+        "Johnstown, PA"
+      ],
+      "exact_match": 0,
+      "f1": 0.25,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "21",
+      "prediction": "Meadowcroft Historic Village opened to the public in 1969.",
+      "references": [
+        "1969"
+      ],
+      "exact_match": 0,
+      "f1": 0.2222222222222222,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "22",
+      "prediction": "The Pine Bank Covered Bridge was relocated to Meadowcroft from Greene County.",
+      "references": [
+        "Greene County"
+      ],
+      "exact_match": 0,
+      "f1": 0.3076923076923077,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "23",
+      "prediction": "The 'Día de los Muertos Cultural Celebration' is listed for the year 2025 on the Cultural Trust site.",
+      "references": [
+        "2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.125,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "24",
+      "prediction": "The 'Día de los Muertos Cultural Celebration' is scheduled at the following times:\n\n- 12:00PM\n- 1:00PM\n- 6:00PM\n\nAll events are held at the Pittsburgh Cultural Trust.",
+      "references": [
+        "1:00PM"
+      ],
+      "exact_match": 0,
+      "f1": 0.14814814814814814,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "25",
+      "prediction": "The showtimes listed for 'The Lord of the Rings: The Two Towers' are 7:00PM at Pittsburgh Symphony Orchestra and 2:30PM at Pittsburgh Symphony Orchestra.",
+      "references": [
+        "7:00PM",
+        "2:30PM"
+      ],
+      "exact_match": 0,
+      "f1": 0.16666666666666669,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "26",
+      "prediction": "The title of Madelyn Roehrig's project about Andy Warhol's grave is \"Figments: Conversations with Andy.\"",
+      "references": [
+        "Figments: Conversations with Andy"
+      ],
+      "exact_match": 0,
+      "f1": 0.4,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "27",
+      "prediction": "Andy Warhol's gravesite is located in Bethel Park, about 10 miles south of Pittsburgh.",
+      "references": [
+        "Bethel Park"
+      ],
+      "exact_match": 0,
+      "f1": 0.23529411764705882,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "28",
+      "prediction": "The provided context does not specify the current President of Carnegie Mellon University listed on the PSO (Presidential Search Organization) board. The most recent information provided is that Farnam Jahanian became the president in March 2018, following Subra Suresh who stepped down in June 2017. However, there is no mention of a PSO board or its current members. Therefore, based on the given information, the answer is not available.",
+      "references": [
+        "Farnam Jahanian, Ph.D."
+      ],
+      "exact_match": 0,
+      "f1": 0.061538461538461535,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "29",
+      "prediction": "The History Center, Fort Pitt Museum, and Meadowcroft Rockshelter and Historic Village offer a variety of full-time and part-time employment opportunities, as well as seasonal internships.",
+      "references": [
+        "History Center",
+        "Fort Pitt Museum",
+        "Meadowcroft Rockshelter and Historic Village"
+      ],
+      "exact_match": 0,
+      "f1": 0.32258064516129037,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "30",
+      "prediction": "The landscape of Albert and Delvin Miller’s Avella farm was drastically altered by coal mining operations during the 1940s and 1950s.",
+      "references": [
+        "1940s and 1950s"
+      ],
+      "exact_match": 0,
+      "f1": 0.2608695652173913,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "31",
+      "prediction": "",
+      "references": [
+        "August 14–17, 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "32",
+      "prediction": "When booking by phone, you should mention Pittsburgh Restaurant Week when making a reservation.",
+      "references": [
+        "Pittsburgh Restaurant Week"
+      ],
+      "exact_match": 0,
+      "f1": 0.375,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "33",
+      "prediction": "",
+      "references": [
+        "Liberty Ave, Bloomfield (Ella–Gross St)"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "34",
+      "prediction": "",
+      "references": [
+        "Highmark",
+        "AHN",
+        "First Commonwealth Bank",
+        "UPMC",
+        "UPMC Shadyside",
+        "UPMC Children's"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "35",
+      "prediction": "",
+      "references": [
+        "Eventbrite"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "36",
+      "prediction": "The 2025 VIP Experience price for two is $34.95.",
+      "references": [
+        "$34.95"
+      ],
+      "exact_match": 0,
+      "f1": 0.3636363636363636,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "37",
+      "prediction": "Chef Jason Huzzard from the Original Fish Market made Lobster Flautas live on Pittsburgh Today Live.",
+      "references": [
+        "Jason Huzzard"
+      ],
+      "exact_match": 0,
+      "f1": 0.23529411764705882,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "38",
+      "prediction": "Chef Jessica Gibson cooked live on Pittsburgh Today Live.",
+      "references": [
+        "Pittsburgh Today Live"
+      ],
+      "exact_match": 0,
+      "f1": 0.5,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "39",
+      "prediction": "The 'Getting To Know Pittsburgh Chefs' interviews were posted on YouTube.",
+      "references": [
+        "YouTube"
+      ],
+      "exact_match": 0,
+      "f1": 0.18181818181818182,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "40",
+      "prediction": "The email provided to contact the Banana Split Celebration team is info@bananasplitfest.com.",
+      "references": [
+        "info@bananasplitfest.com"
+      ],
+      "exact_match": 0,
+      "f1": 0.4,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "41",
+      "prediction": "The Steelers-Vikings game mentioned was hosted in Dublin, Ireland.",
+      "references": [
+        "Dublin"
+      ],
+      "exact_match": 0,
+      "f1": 0.19999999999999998,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "42",
+      "prediction": "Steelers fans crowded up and down the cobblestones of the Temple Bar district in Dublin.",
+      "references": [
+        "Temple Bar"
+      ],
+      "exact_match": 0,
+      "f1": 0.2666666666666667,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "43",
+      "prediction": "Steelers fans visited Fitzsimons Pub in Dublin, which served as an unofficial headquarters for Steelers Nation and hosted broadcasts, alumni appearances, and live Steelers audio programming.",
+      "references": [
+        "Guinness Storehouse",
+        "Christ Church Cathedral",
+        "Trinity College"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "44",
+      "prediction": "The document does not specify the exact date and time when \"Next men up\" was published. It only mentions that it was published on October 2, 2025, at 07:00 AM, but this date and time are associated with another article by Mike Prisuta, not specifically with \"Next men up.\" Therefore, the publication date and time for \"Next men up\" are not provided in the given context.",
+      "references": [
+        "Oct 02, 2025 at 07:00 AM"
+      ],
+      "exact_match": 0,
+      "f1": 0.14285714285714282,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "45",
+      "prediction": "Jaylen Warren was deactivated due to a knee injury before the Vikings game.",
+      "references": [
+        "Jaylen Warren"
+      ],
+      "exact_match": 0,
+      "f1": 0.3076923076923077,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "46",
+      "prediction": "Kenneth Gainwell logged 19 carries for 99 yards and two touchdowns against the Vikings.",
+      "references": [
+        "Kenneth Gainwell"
+      ],
+      "exact_match": 0,
+      "f1": 0.2666666666666667,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "47",
+      "prediction": "Beanie Bishop's interception set up the five-play, 35-yard TD drive.",
+      "references": [
+        "T.J. Watt"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "48",
+      "prediction": "The context provided does not specify the Steelers' record after exactly four games entering the bye week. However, it mentions that the Steelers were 6-2 at the time of writing, which is after their bye week. Therefore, the record after four games cannot be determined from the given information.",
+      "references": [
+        "3-1"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "49",
+      "prediction": "The Little Penguins Learn to Play program is for children ages 5 to 9 years old.",
+      "references": [
+        "Ages 5-9"
+      ],
+      "exact_match": 0,
+      "f1": 0.33333333333333337,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "50",
+      "prediction": "The provided context does not list any specific casino as a Founding Partner on the Penguins schedule page. The Founding Partners mentioned are PPG, 84 Lumber, DICK'S, FedEx, F.N.B., Ford, Highmark, Coca-Cola, Rivers Casino, and UPMC. None of these are specifically identified as a casino in the context provided.",
+      "references": [
+        "Rivers Casino"
+      ],
+      "exact_match": 0,
+      "f1": 0.08163265306122448,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "51",
+      "prediction": "The provided context does not contain information about the Seneca name for the Pittsburgh region.",
+      "references": [
+        "Jaödeogë’"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "52",
+      "prediction": "The Allegheny River and the Monongahela River meet at Pittsburgh to form the Ohio River.",
+      "references": [
+        "Allegheny",
+        "Monongahela"
+      ],
+      "exact_match": 0,
+      "f1": 0.15384615384615385,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "53",
+      "prediction": "After the British victory in the 1750s, France ceded their territories east of the Mississippi River.",
+      "references": [
+        "France"
+      ],
+      "exact_match": 0,
+      "f1": 0.14285714285714288,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "54",
+      "prediction": "The nickname of Pittsburgh’s former Civic Arena was \"the Igloo.\"",
+      "references": [
+        "the Igloo"
+      ],
+      "exact_match": 0,
+      "f1": 0.19999999999999998,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "55",
+      "prediction": "The Penguins play in the Metropolitan Division of the NHL.",
+      "references": [
+        "Metropolitan Division"
+      ],
+      "exact_match": 0,
+      "f1": 0.4444444444444445,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "56",
+      "prediction": "The Pittsburgh Penguins are in the Metropolitan Division of the Eastern Conference in the NHL.",
+      "references": [
+        "Eastern Conference"
+      ],
+      "exact_match": 0,
+      "f1": 0.3076923076923077,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "57",
+      "prediction": "The Carnegie Museums of Pittsburgh operates four museums in Pittsburgh.",
+      "references": [
+        "Carnegie Museums of Pittsburgh"
+      ],
+      "exact_match": 0,
+      "f1": 0.6153846153846153,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "58",
+      "prediction": "Based on the provided context, Pittsburgh Opera will primarily perform at the Benedum Center during Oct–Dec 2025. Specifically, Document 3 mentions performances of La Bohème at the Benedum Center on October 18, 21, 24, and 26, 2025.",
+      "references": [
+        "Benedum Center"
+      ],
+      "exact_match": 0,
+      "f1": 0.1081081081081081,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "59",
+      "prediction": "The context provided does not specify which Point Breeze museum visitors can visit in October–December 2025. However, based on the information given in Document 6, The Frick Pittsburgh, located in Point Breeze, is open to the public and includes several attractions such as Clayton, the restored Frick mansion; The Frick Art Museum; The Car and Carriage Museum; the Greenhouse; the Frick children's playhouse; and The Café. Since no specific closures are mentioned for this period, it is reasonable to assume that The Frick Pittsburgh will be open during October–December 2025. For precise opening hours and any potential changes, visitors should check the official website or contact The Frick Pittsburgh directly",
+      "references": [
+        "The Frick Pittsburgh"
+      ],
+      "exact_match": 0,
+      "f1": 0.0392156862745098,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "60",
+      "prediction": "The context provided does not contain information about Penguins home games during Oct–Dec 2025. The most recent information given is about the arena's history and events up to 2024. Therefore, the answer is not available in the given context.",
+      "references": [
+        "PPG Paints Arena"
+      ],
+      "exact_match": 0,
+      "f1": 0.05128205128205128,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "61",
+      "prediction": "The Pittsburgh concerts schedule focuses on October 2025.",
+      "references": [
+        "November 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.22222222222222224,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "62",
+      "prediction": "One popular Pittsburgh concert venue mentioned on the page is Heinz Hall.",
+      "references": [
+        "Benedum Center",
+        "Heinz Hall",
+        "Carnegie of Homestead Music Hall",
+        "Club Cafe",
+        "Thunderbird Cafe",
+        "Hard Rock Cafe"
+      ],
+      "exact_match": 0,
+      "f1": 0.3076923076923077,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "63",
+      "prediction": "The provided context does not contain any information about November concerts or their start dates. Therefore, there is no start date shown in the November concerts filter based on the given documents.",
+      "references": [
+        "Nov 1, 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "64",
+      "prediction": "The provided context does not contain any information about a November concerts filter or its end date. Therefore, the answer is not available in the given context.",
+      "references": [
+        "Nov 6, 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "65",
+      "prediction": "The Steelers entered their 2025 bye week with a 3-1 record.",
+      "references": [
+        "3-1"
+      ],
+      "exact_match": 0,
+      "f1": 0.33333333333333337,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "66",
+      "prediction": "The Steelers' new QB mentioned after four games in 2025 is Aaron Rodgers. The document states that Aaron Rodgers is fourth with 8 TD passes and ninth with a 102.6 passer rating.",
+      "references": [
+        "Aaron Rodgers"
+      ],
+      "exact_match": 0,
+      "f1": 0.125,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "67",
+      "prediction": "Meadowcroft Historic Village opened to the public in 1969.",
+      "references": [
+        "1969"
+      ],
+      "exact_match": 0,
+      "f1": 0.2222222222222222,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "68",
+      "prediction": "The Pine Bank Covered Bridge was relocated to Meadowcroft from Greene County.",
+      "references": [
+        "Greene County"
+      ],
+      "exact_match": 0,
+      "f1": 0.3076923076923077,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "69",
+      "prediction": "The Carnegie Institute and Library complex serves as the headquarters of the Carnegie Museums of Pittsburgh.",
+      "references": [
+        "The Carnegie Institute"
+      ],
+      "exact_match": 0,
+      "f1": 0.2666666666666667,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "70",
+      "prediction": "",
+      "references": [
+        "Greater Latrobe-Laurel Valley Chamber of Commerce"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "71",
+      "prediction": "",
+      "references": [
+        "Pittsburgh Penguins"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "72",
+      "prediction": "The provided context does not contain any specific Penguins schedule with month and year displayed. The documents focus on ticketing information, museum exhibits, and community programs, but do not provide a specific Penguins schedule.",
+      "references": [
+        "October 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "73",
+      "prediction": "The months that flank October 2025 in the schedule navigation are September 2025 and November 2025.",
+      "references": [
+        "September 2025",
+        "November 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.25,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "74",
+      "prediction": "",
+      "references": [
+        "Home",
+        "Away"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "75",
+      "prediction": "There is no healthcare-related founding partner shown on the Penguins page. The founding partners listed are PPG, 84 Lumber, DICK'S, FedEx, F.N.B., Ford, Highmark, Coca-Cola, Rivers Casino, and UPMC. While UPMC is related to healthcare, it is not explicitly labeled as a healthcare-related founding partner on the page.",
+      "references": [
+        "Highmark",
+        "UPMC"
+      ],
+      "exact_match": 0,
+      "f1": 0.0392156862745098,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "76",
+      "prediction": "The provided context does not include information about the Chair of the Pittsburgh Symphony Orchestra Board.",
+      "references": [
+        "Anthony L. Bucci"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "77",
+      "prediction": "The provided context does not include information about the President of Carnegie Mellon University on the PSO (Pittsburgh Supercomputing Center) board. The context does not mention any specific individuals holding the position of President on the PSO board.",
+      "references": [
+        "Farnam Jahanian"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "78",
+      "prediction": "The context provided does not include information about who serves as the PSO Principal Piccolo.",
+      "references": [
+        "Rhian Kenny"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "79",
+      "prediction": "The Allegheny River and the Monongahela River meet at Pittsburgh to form the Ohio River.",
+      "references": [
+        "Allegheny",
+        "Monongahela"
+      ],
+      "exact_match": 0,
+      "f1": 0.15384615384615385,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "80",
+      "prediction": "Pittsburgh Opera primarily performs at the Benedum Center for the Performing Arts.",
+      "references": [
+        "Benedum Center"
+      ],
+      "exact_match": 0,
+      "f1": 0.33333333333333337,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "81",
+      "prediction": "The Department of Mobility and Infrastructure (DOMI) manages Pittsburgh’s streets, sidewalks, and bridges.",
+      "references": [
+        "Department of Mobility and Infrastructure",
+        "DOMI"
+      ],
+      "exact_match": 0,
+      "f1": 0.5555555555555556,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "82",
+      "prediction": "",
+      "references": [
+        "Permits, Licenses, and Inspections",
+        "PLI"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "83",
+      "prediction": "The plan guiding Pittsburgh’s digital equity work through 2030 is the 2030 Community Strategic Plan. The City of Pittsburgh is working with Allegheny County and other local partners to close the digital divide across the region by implementing the goals of this plan.",
+      "references": [
+        "2030 Community Strategic Plan"
+      ],
+      "exact_match": 0,
+      "f1": 0.1904761904761905,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "84",
+      "prediction": "Chef Jessica Gibson from Bistro 19 cooked live on Pittsburgh Today Live.",
+      "references": [
+        "Chef Jessica Gibson",
+        "Jessica Gibson"
+      ],
+      "exact_match": 0,
+      "f1": 0.4,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "85",
+      "prediction": "Chef Jason Huzzard from the Original Fish Market made Lobster Flautas live on Pittsburgh Today Live.",
+      "references": [
+        "Chef Jason Huzzard",
+        "Jason Huzzard"
+      ],
+      "exact_match": 0,
+      "f1": 0.33333333333333337,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "86",
+      "prediction": "Tom Roberts provides the live score for Nosferatu (1922).",
+      "references": [
+        "Tom Roberts"
+      ],
+      "exact_match": 0,
+      "f1": 0.4,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "87",
+      "prediction": "The Pittsburgh Symphony Orchestra presents The Lord of the Rings: The Two Towers.",
+      "references": [
+        "Pittsburgh Symphony Orchestra"
+      ],
+      "exact_match": 0,
+      "f1": 0.5,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "88",
+      "prediction": "The 2025 Cultural Trust event that is free and includes live music is the \"Fourth River Public Music Industry Seminars: Publishing\" on Saturday, October 11, 2025, at Wood Street Galleries.",
+      "references": [
+        "Día de los Muertos Cultural Celebration"
+      ],
+      "exact_match": 0,
+      "f1": 0.058823529411764705,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "89",
+      "prediction": "The provided context does not contain any specific information about Pittsburgh concerts for a particular month and year. The documents focus on various topics including Steelers football, Pittsburgh events, museum information, and educational programs, but do not mention Pittsburgh concerts in detail.",
+      "references": [
+        "October 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "90",
+      "prediction": "The provided context does not include any specific start and end dates for a filter on an October 2025 concerts page. The information given pertains to various Pittsburgh Steelers and Pittsburgh Symphony events, but does not detail any specific concert page or its filters.",
+      "references": [
+        "Oct 5, 2025",
+        "Oct 10, 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.046511627906976744,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "91",
+      "prediction": "",
+      "references": [
+        "August 14–17, 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "92",
+      "prediction": "",
+      "references": [
+        "Ella St. to Gross St."
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "93",
+      "prediction": "",
+      "references": [
+        "$34.95"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "94",
+      "prediction": "",
+      "references": [
+        "UPMC",
+        "AHN"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "95",
+      "prediction": "The End Date shown in the Pittsburgh.Events calendar filter is Oct 10, 2025.",
+      "references": [
+        "Oct 10, 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.4,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "96",
+      "prediction": "The Pittsburgh Events Calendar title highlights the years 2025/2026.",
+      "references": [
+        "2025/2026"
+      ],
+      "exact_match": 0,
+      "f1": 0.4,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "97",
+      "prediction": "",
+      "references": [
+        "All Events",
+        "Concerts",
+        "Theater",
+        "Sports"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "98",
+      "prediction": "The investment to revitalize Downtown Pittsburgh is $600 million.",
+      "references": [
+        "$600 million"
+      ],
+      "exact_match": 0,
+      "f1": 0.4,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "99",
+      "prediction": "\"Getting To Know Pittsburgh Chefs\" was authored by Brian McCollum.",
+      "references": [
+        "Brian McCollum"
+      ],
+      "exact_match": 0,
+      "f1": 0.33333333333333337,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "100",
+      "prediction": "Steelers fans crowded the Temple Bar district during the Ireland game week.",
+      "references": [
+        "Temple Bar"
+      ],
+      "exact_match": 0,
+      "f1": 0.33333333333333337,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "101",
+      "prediction": "The name of Madelyn Roehrig’s gravesite project about Andy Warhol is \"Figments: Conversations with Andy.\"",
+      "references": [
+        "Figments: Conversations with Andy"
+      ],
+      "exact_match": 0,
+      "f1": 0.4210526315789474,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "102",
+      "prediction": "Andy Warhol is buried in Bethel Park, a municipality in West Mifflin, Pennsylvania. The context does not specify the exact municipality, but it mentions that his gravesite is in Bethel Park, which is located about 10 miles south of Pittsburgh.",
+      "references": [
+        "Bethel Park"
+      ],
+      "exact_match": 0,
+      "f1": 0.10256410256410257,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "103",
+      "prediction": "Roehrig collected 230 handwritten messages at Warhol’s grave.",
+      "references": [
+        "230"
+      ],
+      "exact_match": 0,
+      "f1": 0.19999999999999998,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "104",
+      "prediction": "The Heinz History Center offers various opportunities including:\n\n1. **Membership**: You can join or renew your membership to gain access to benefits like free admission to the museum and its affiliated institutions, discounts, and more.\n\n2. **Volunteering**: Opportunities to volunteer in different capacities such as docents, library and archives volunteers, affiliate liaisons, and assistance with special events.\n\n3. **Internships**: Unpaid internships available for credit or not for credit in departments like the Library & Archives, African American Program, and Italian American Program.\n\n4. **Events**: Participation in special events, educational programs, and administrative tasks around the Heinz History Center.\n\n5. **Exhibits and Programs**: Engaging with the museum's exhibits and",
+      "references": [
+        "employment",
+        "internships",
+        "volunteer"
+      ],
+      "exact_match": 0,
+      "f1": 0.01923076923076923,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "105",
+      "prediction": "The Little Penguins Learn to Play program is open to children between the ages of 5 and 9 years old.",
+      "references": [
+        "5-9"
+      ],
+      "exact_match": 0,
+      "f1": 0.19999999999999998,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "106",
+      "prediction": "The Little Penguins Learn to Play program provides eight to ten on-ice sessions of age-appropriate instruction.",
+      "references": [
+        "eight to ten"
+      ],
+      "exact_match": 0,
+      "f1": 0.3,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "107",
+      "prediction": "Since 2010, Penguins home games have been at PPG Paints Arena.",
+      "references": [
+        "2010"
+      ],
+      "exact_match": 0,
+      "f1": 0.16666666666666669,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "108",
+      "prediction": "Based on the provided context, during Oct 9–Dec 31, 2025, local rinks might host several \"Try Hockey for Free\" events per season. The context mentions that many local rinks and youth hockey associations host these events several times throughout the season.",
+      "references": [
+        "Try Hockey for Free"
+      ],
+      "exact_match": 0,
+      "f1": 0.18604651162790695,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "109",
+      "prediction": "Between Oct 9 and Dec 31, 2025, Penguins home games will be played at PPG Paints Arena.",
+      "references": [
+        "PPG Paints Arena"
+      ],
+      "exact_match": 0,
+      "f1": 0.3,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "110",
+      "prediction": "When booking by phone, diners should mention Pittsburgh Restaurant Week.",
+      "references": [
+        "Pittsburgh Restaurant Week"
+      ],
+      "exact_match": 0,
+      "f1": 0.4615384615384615,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "111",
+      "prediction": "The information about the intermission length for 'Noises Off' is not provided in the given context.",
+      "references": [
+        "15 minutes"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "112",
+      "prediction": "The information provided does not mention a presentation of 'Noises Off'. Therefore, the answer is not in the context.",
+      "references": [
+        "Concord Theatricals on behalf of Samuel French, Inc."
+      ],
+      "exact_match": 0,
+      "f1": 0.08695652173913045,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "113",
+      "prediction": "The Steelers faced the Vikings in Dublin, Ireland, for their 24-21 win.",
+      "references": [
+        "Dublin"
+      ],
+      "exact_match": 0,
+      "f1": 0.16666666666666669,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "114",
+      "prediction": "The Steelers deactivated running back Jaylen Warren before their Dublin game against the Vikings.",
+      "references": [
+        "Jaylen Warren"
+      ],
+      "exact_match": 0,
+      "f1": 0.2857142857142857,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "115",
+      "prediction": "The provided context does not contain any information about CMU programs being ranked #1 in the U.S. between Oct 9 and Dec 31, 2025. The rankings mentioned in the documents are from previous years or are not specific to the time frame asked.",
+      "references": [
+        "Artificial intelligence"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "116",
+      "prediction": "T.J. Watt made the 13-yard interception return that set up a Steelers touchdown drive.",
+      "references": [
+        "T.J. Watt"
+      ],
+      "exact_match": 0,
+      "f1": 0.35294117647058826,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "117",
+      "prediction": "The Frick Pittsburgh is located in the Point Breeze neighborhood of Pittsburgh.",
+      "references": [
+        "Point Breeze, Pittsburgh"
+      ],
+      "exact_match": 0,
+      "f1": 0.4615384615384615,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "118",
+      "prediction": "The geographic coordinates of The Frick Pittsburgh are not provided in the given context.",
+      "references": [
+        "40°26′47″N 79°54′09″W"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "119",
+      "prediction": "",
+      "references": [
+        "Materials Recovery Map"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "120",
+      "prediction": "Between Oct 9 and Dec 31, 2025, Carnegie Mellon University was ranked 28th in the world by Times Higher Education.",
+      "references": [
+        "24"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "121",
+      "prediction": "The final score of the Steelers' win over the Vikings in Dublin was 24-21.",
+      "references": [
+        "24-21"
+      ],
+      "exact_match": 0,
+      "f1": 0.2857142857142857,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "122",
+      "prediction": "Kenneth Gainwell recorded 99 rushing yards and two touchdowns in the game against the Vikings.",
+      "references": [
+        "Kenneth Gainwell"
+      ],
+      "exact_match": 0,
+      "f1": 0.2666666666666667,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "123",
+      "prediction": "With 2:23 left in the third quarter, Pittsburgh held a 21-6 lead.",
+      "references": [
+        "21-6"
+      ],
+      "exact_match": 0,
+      "f1": 0.2857142857142857,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "124",
+      "prediction": "The listed address for Acrisure Stadium in Pittsburgh is not explicitly provided in the given context. However, it is described as being located in the North Shore neighborhood of Pittsburgh, Pennsylvania, along the Ohio River, on the North Side of Pittsburgh.",
+      "references": [
+        "15212, 100 Art Rooney Avenue, Pittsburgh, PA, US"
+      ],
+      "exact_match": 0,
+      "f1": 0.04545454545454545,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "125",
+      "prediction": "The Steelers-Vikings game was played in Dublin, Ireland.",
+      "references": [
+        "Dublin",
+        "Dublin, Ireland"
+      ],
+      "exact_match": 0,
+      "f1": 0.4,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "126",
+      "prediction": "Broderick Jones is mentioned as a former first-round pick.",
+      "references": [
+        "Broderick Jones",
+        "Troy Fautanu"
+      ],
+      "exact_match": 0,
+      "f1": 0.3636363636363636,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "127",
+      "prediction": "",
+      "references": [
+        "October 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "128",
+      "prediction": "",
+      "references": [
+        "PPG",
+        "84 Lumber",
+        "DICK'S",
+        "FedEx",
+        "F.N.B.",
+        "Ford",
+        "Highmark",
+        "Coca-Cola",
+        "Rivers Casino",
+        "UPMC"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "129",
+      "prediction": "The provided context does not contain any information about a specific concerts page or the month and year it focuses on. Therefore, the answer is not available in the given context.",
+      "references": [
+        "November 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "130",
+      "prediction": "The provided context does not include a specific Start Date shown on the November concerts page filter. The context mentions a Start Date of Oct 5, 2025, but this is not specific to the November concerts page. Therefore, the answer is not available in the given context.",
+      "references": [
+        "Nov 1, 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.047619047619047616,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "131",
+      "prediction": "The provided context does not include information about the chair of the Pittsburgh Symphony Orchestra board.",
+      "references": [
+        "Anthony L. Bucci"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "132",
+      "prediction": "The PSO president and CEO is Melia Tourangeau.",
+      "references": [
+        "Melia Peters Tourangeau"
+      ],
+      "exact_match": 0,
+      "f1": 0.4,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "133",
+      "prediction": "The provided context does not mention any Carnegie Mellon University official serving on the PSO board. Therefore, the answer is not available in the given information.",
+      "references": [
+        "Farnam Jahanian"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "134",
+      "prediction": "The film that features a live score by Tom Roberts is \"Nosferatu: A Symphony of Horror (1922)\".",
+      "references": [
+        "Nosferatu: A Symphony of Horror (1922)"
+      ],
+      "exact_match": 0,
+      "f1": 0.5263157894736842,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "135",
+      "prediction": "The provided context does not include an event that is explicitly marked as free and includes live music, talks & poetry, visual arts, and workshops & classes. The information given focuses on various events and activities in Pittsburgh, but none match all the specified criteria.",
+      "references": [
+        "Día de los Muertos Cultural Celebration"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "136",
+      "prediction": "The Pittsburgh Symphony Orchestra presents The Lord of the Rings: The Two Towers.",
+      "references": [
+        "Pittsburgh Symphony Orchestra"
+      ],
+      "exact_match": 0,
+      "f1": 0.5,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "137",
+      "prediction": "The start times listed for The Lord of the Rings: The Two Towers are 7:00PM and 2:30PM.",
+      "references": [
+        "7:00PM",
+        "2:30PM"
+      ],
+      "exact_match": 0,
+      "f1": 0.23529411764705882,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "138",
+      "prediction": "In 2025, Carnegie Mellon Professor Edda Fields-Black won the Pulitzer Prize in History for her book _COMBEE: Harriet Tubman, the Combahee River Raid and Black Freedom during the Civil War_.",
+      "references": [
+        "Edda Fields-Black"
+      ],
+      "exact_match": 0,
+      "f1": 0.19354838709677416,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "139",
+      "prediction": "According to the context provided, the 1863 Combahee River Raid, led by Harriet Tubman, resulted in the liberation of 756 enslaved people.",
+      "references": [
+        "756"
+      ],
+      "exact_match": 0,
+      "f1": 0.1,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "140",
+      "prediction": "The Pittsburgh Penguins have played at PPG Paints Arena since 2010.",
+      "references": [
+        "2010"
+      ],
+      "exact_match": 0,
+      "f1": 0.18181818181818182,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "141",
+      "prediction": "Pittsburgh Opera's main performance venue is the Benedum Center.",
+      "references": [
+        "Benedum Center"
+      ],
+      "exact_match": 0,
+      "f1": 0.3636363636363636,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "142",
+      "prediction": "The provided context does not include the geographic coordinates of Pittsburgh Opera.",
+      "references": [
+        "40.453250°N 79.979770°W",
+        "40°27′12″N 79°58′47″W"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "143",
+      "prediction": "The History Center offers a variety of opportunities including:\n\n1. **Internships**: Available in different departments such as Marketing & Communications, Education, Library & Archives, and more. Interns gain practical skills in areas like historic research, collections management, and exhibit development.\n\n2. **Volunteer Positions**: Opportunities include becoming a docent, assisting in the Library & Archives, serving as a History Center Affiliate Liaison, and participating in special events and educational programs.\n\n3. **Exhibits**: The center features several exhibits that explore various aspects of Western Pennsylvania history and culture, such as Pittsburgh’s Hidden History, Mister Rogers' Neighborhood, and Pittsburgh: A Tradition of Innovation.\n\n4. **Events & Programs**: Engaging events and educational programs are regularly",
+      "references": [
+        "Full-time",
+        "part-time",
+        "seasonal internships",
+        "volunteer"
+      ],
+      "exact_match": 0,
+      "f1": 0.0196078431372549,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "144",
+      "prediction": "Based on the provided context, Meadowcroft Rockshelter and Historic Village offers opportunities besides the History Center. It is described as the oldest site of human habitation in North America and features a recreated 16th century Monongahela Indian Village and 1770s Frontier Trading Post, among other attractions.",
+      "references": [
+        "Fort Pitt Museum",
+        "Meadowcroft Rockshelter and Historic Village"
+      ],
+      "exact_match": 0,
+      "f1": 0.21276595744680848,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "145",
+      "prediction": "The provided context does not contain any specific information about 'Catering' listings in the Partner Directory. Therefore, the answer is not available based on the given documents.",
+      "references": [
+        "40"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "146",
+      "prediction": "The provided context does not list any 'Places of Worship'. Therefore, the answer is that there are no 'Places of Worship' listed in the given documents.",
+      "references": [
+        "56"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "147",
+      "prediction": "",
+      "references": [
+        "Aug 14–17, 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "148",
+      "prediction": "",
+      "references": [
+        "Liberty Avenue, Bloomfield"
+      ],
+      "exact_match": 0,
+      "f1": 0.0,
+      "answer_recall": 0
+    },
+    {
+      "question_id": "149",
+      "prediction": "The start date shown in the calendar filter on Pittsburgh.Events is October 5, 2025.",
+      "references": [
+        "Oct 5, 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.25,
+      "answer_recall": 1
+    },
+    {
+      "question_id": "150",
+      "prediction": "The end date shown in the calendar filter on Pittsburgh.Events is October 10, 2025.",
+      "references": [
+        "Oct 10, 2025"
+      ],
+      "exact_match": 0,
+      "f1": 0.25,
+      "answer_recall": 1
+    }
+  ]
+}
