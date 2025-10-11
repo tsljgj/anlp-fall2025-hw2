@@ -25,12 +25,17 @@ def load_questions(filepath: str) -> List[str]:
 
 
 def load_reference_answers(filepath: str) -> Dict[str, List[str]]:
-    """Load reference answers from JSON file."""
+    """Load reference answers from JSON file (supports both qa_metadata.json and reference_answers.json formats)."""
     with open(filepath, 'r', encoding='utf-8') as f:
-        raw_answers = json.load(f)
+        raw_data = json.load(f)
 
     reference_answers = {}
-    for qid, answer_str in raw_answers.items():
+    for qid, data in raw_data.items():
+        if isinstance(data, dict) and 'answer' in data:
+            answer_str = data['answer']
+        else:
+            answer_str = data
+
         answers = [a.strip() for a in answer_str.split(';')]
         reference_answers[qid] = answers
 
@@ -336,12 +341,27 @@ def main():
         help="Together API key (optional, will try to read from test_rag.py)"
     )
 
+    parser.add_argument(
+        "--questions-file",
+        type=str,
+        default=None,
+        help="Path to questions file (default: data_collection/data/test/questions.txt)"
+    )
+
+    parser.add_argument(
+        "--reference-file",
+        type=str,
+        default=None,
+        help="Path to reference answers file (default: data_collection/data/test/qa_metadata.json)"
+    )
+
     args = parser.parse_args()
 
     tests_dir = Path(__file__).parent
+    test_data_dir = tests_dir.parent / "data_collection" / "data" / "test"
 
-    questions_file = tests_dir / "questions.txt"
-    reference_file = tests_dir / "reference_answers.json"
+    questions_file = Path(args.questions_file) if args.questions_file else test_data_dir / "questions.txt"
+    reference_file = Path(args.reference_file) if args.reference_file else test_data_dir / "qa_metadata.json"
     output_file = tests_dir / args.output_file
     eval_file = tests_dir / "evaluation_results.json"
     detailed_file = tests_dir / "detailed_results.json"
