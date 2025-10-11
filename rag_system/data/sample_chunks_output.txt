@@ -1,0 +1,330 @@
+======================================================================
+CHUNK 1
+======================================================================
+ID: doc0_chunk0
+Source Title: About Carnegie Mellon | Carnegie Mellon University
+Source URL: https://www.cmu.edu/about/
+Category: general_info
+Chunk Index: 0
+Token Count: 486
+Character Range: 0-4473
+
+CONTENT:
+# About Carnegie Mellon
+
+## Don’t Envision the Future, Invent It Every Day
+
+At Carnegie Mellon University, academic and research excellence isn't just what we strive for — it's the uncompromising standard. Our entrepreneurial spirit means no pursuit is too complex, and no question is too unconventional to explore.
+
+Whether pioneering groundbreaking brain research, creating visionary art that challenges perspectives or developing next-generation technologies like self-driving cars, we go all in on big ideas that move the world forward. See how we transform bold ideas into extraordinary impact that changes everything.
+
+CMU Anthem - Extended - YouTube
+
+[Photo image of Carnegie Mellon University](https://www.youtube.com/channel/UCf-COwmdNelXvbj-KaMCuLw?embeds_referring_euri=https%3A%2F%2Fwww.cmu.edu%2F)
+
+Carnegie Mellon University
+
+162K subscribers
+
+[CMU Anthem - Extended](https://www.youtube.com/watch?v=bnvHuJMNI_U)
+
+Carnegie Mellon University
+
+Watch later
+
+Share
+
+Copy link
+
+Info
+
+Shopping
+
+Tap to unmute
+
+If playback doesn't begin shortly, try restarting your device.
+
+More videos
+
+## More videos
+
+You're signed out
+
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+CancelConfirm
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+[Watch on](https://www.youtube.com/watch?v=bnvHuJMNI_U&embeds_referring_euri=https%3A%2F%2Fwww.cmu.edu%2F)
+
+0:00
+
+0:00 / 1:09
+•Live
+
+•
+
+## CMU Stands Apart
+
+### \#1
+
+#### Best Undergraduate Software Engineering Program
+
+_U.S. News & World Report_
+
+### \#5
+
+#### Best Graduate Engineering School
+
+_U.S. News & World Report_
+
+### \#7
+
+#### World’s Top Drama School
+
+_The Hollywood Reporter_
+
+[View All Our Rankings & Awards](https://www.cmu.edu/about/rankings-and-awards)
+
+## Who We Are and What We Do
+
+CMU fosters a community of fearless trailblazers united by a shared passion for innovation and excellence. Learn about our strategic partnerships and global presence.
+
+### [Vision, Mission and Values](https://www.cmu.edu/about/vision-mission-values)
+
+Explore CMU’s key initiatives and values, from our strategic plan to diversity. Learn more about our history and what makes us SO CMU.
+
+### [Leadership](https://www.cmu.edu/leadership)
+
+Meet our Board of Trustees, president, senior administration members and deans.
+
+### [Our Regional Impact](https://www.cmu.edu/regional-impact)
+
+Explore our partnerships with Pittsburgh and the Commonwealth of Pennsylvania to create lasting economic and community change.
+
+### [CMU Locations](https://www.cmu.edu/global)
+
+Carnegie Mellon is a university without borders, with campuses in Pittsburgh, Silicon Valley, Qatar and Africa. Our collaborative efforts empower researchers in solving global issues.
+
+## CMU Population by the Numbers
+
+### 16,335+
+
+#### students representing 126+ countries
+
+### 1,586+
+
+#### faculty representing 63+ countries
+
+### 127,691+
+
+#### alumni representing 150+ countries
+
+[View CMU Fact Sheet (PDF)](https://www.cmu.edu/sites/default/files/documents/UCM-26-911%20CMU_Fact_Sheet_02_MECH-Access.pdf)
+
+## The Latest at CMU
+
+Oct 01, 2025
+
+### [The Long Game: Years of CMU Discoveries Drive New Parkinson's Treatment](https://www.cmu.edu/news/stories/archives/2025/october/the-long-game-years-of-cmu-discoveries-drive-new-parkinsons-treatment)
+
+Sep 30, 2025
+
+### [Peacocks Eating Ice Cream: CMU Philosophers Teaching AI to Ask 'Why?'](https://www.cmu.edu/news/stories/archives/2025/september/peacocks-eating-ice-cream-cmu-philosophers-teaching-ai-to-ask-why)
+
+Sep 23, 2025
+
+### [Chemists Can Discover New Materials More Quickly With AI](https://www.cmu.edu/news/stories/archives/2025/september/chemists-can-discover-new-materials-more-quickly-with-ai)
+
+Sep 23, 2025
+
+### [Carnegie Mellon Named a Top 20 US University](https://www.cmu.edu/news/stories/archives/2025/september/carnegie-mellon-named-a-top-20-us-university)
+
+Sep 22, 2025
+
+### [Better Screening Tool for Sickle Cell Disease Progression](https://www.cmu.edu/news/stories/archives/2025/september/better-screening-tool-for-sickle-cell-disease-progression)
+
+Jun 05, 2025
+
+### [Kirsten Martin Appointed the H. John Heinz III Dean of the Heinz College of Information Systems and Public Policy](https://www.cmu.edu/news/stories/archives/2025/june/kirsten-martin-appointed-the-h-john-heinz-iii-dean-of-the-heinz-college-of-information-systems-and)
+
+======================================================================
+CHUNK 2
+======================================================================
+ID: doc1_chunk0
+Source Title: Traditions | Carnegie Mellon University
+Source URL: https://www.cmu.edu/about/traditions
+Category: general_info
+Chunk Index: 0
+Token Count: 512
+Character Range: 0-4723
+
+CONTENT:
+# Traditions ## Connected to the Past, Shaping the Future At Carnegie Mellon University (CMU), traditions are more than just events — they're a celebration of our bold and collaborative community. Some commemorate the Scottish heritage of our founder, Andrew Carnegie, while others originate from previous CMU students. These hallmark experiences help create the fabric of the university, building a tight-knit campus with a creative, quirky spirit. From the distinctive sounds of the [Carnegie Mellon Pipes and Drums](https://www.cmu.edu/student-affairs/dean/pipes/) to the joyful energy of [Spring Carnival](https://www.springcarnival.org/), our traditions embody our fearless, visionary spirit, honor our rich history and pave the way for an extraordinary future. Explore the many annual traditions and programs where the entire CMU community comes together to connect, engage and unleash their **Tartan pride**. ## The Fence at CMU Have a message for campus? Paint it on the Fence, a tradition that made the original structure the most painted object in the world. Help our current Fence retake that title. [Learn About the Fence](https://www.cmu.edu/stugov/fence/index.html) ## Spring Carnival The oldest CMU tradition, this three-day event features student-built booths, racing robots, live entertainment and an array of delectable food options. [Learn About Spring Carnival](https://www.cmu.edu/engage/alumni/events/campus/spring-carnival/index.html) ## CMU Traditions and Activities Explore our annual events that foster the Tartan spirit. [![A racer gets ready for Buggy at CMU, 2025](https://www.cmu.edu/sites/default/files/styles/large_testimonial_grid_384x256/public/2025-05/UA_230415A_Buggy_Finals_Booth183.jpeg.webp?itok=ez5hurtC)**Sweepstakes**](https://www.cmu.edu/buggy/) A thrilling highlight of Spring Carnival is Sweepstakes, in which CMU students build and race aerodynamic "buggies" at speeds up to 35 mph. [![Farnam Jahanian at Scotty Saturday. ](https://www.cmu.edu/sites/default/files/styles/large_testimonial_grid_384x256/public/2025-05/221015-Scotty-Saturday-035-SM.jpeg.webp?itok=fO8d-nl1)**Scotty Saturday**](https://www.cmu.edu/student-affairs/slice/traditions/scotty-saturday.html) This daylong celebration of Carnegie Mellon spirit features CMU-themed activities, student talent showcases, free snacks and giveaways. [![Greek Sing at CMU](https://www.cmu.edu/sites/default/files/styles/large_testimonial_grid_384x256/public/2025-05/240323A_Greek_Sing021.jpeg.webp?itok=hT2_Wv-B)**Greek Sing**](https://greeksing.com/) In this annual event supporting local charities, CMU fraternities and sororities perform 15-minute versions of your favorite musicals. [![the FAIR at CMU](https://www.cmu.edu/sites/default/files/styles/large_testimonial_grid_384x256/public/2025-05/thefair900x600.jpg.webp?itok=cAGrHPgK)**The FAIR and Winter FAIR**](https://www.cmu.edu/student-affairs/sit/traditions/fair.html) Explore CMU's diverse student organizations and outdoor recreation partners. The fairs take place early in the fall and spring semesters. [![The Kiltie Band](https://www.cmu.edu/sites/default/files/styles/large_testimonial_grid_384x256/public/2025-05/MC_191116B_Kiltie%20Band_0030.jpg.webp?itok=HpAvsbry)**Kiltie Band**](https://athletics.cmu.edu/athletics/kiltieband/index) The Kiltie Band rocks kilts — what else? — while bringing their infectious, irreverent energy to CMU sporting events. * * * ## Our Connection to the City Carnegie Mellon’s traditions include embracing Pittsburgh’s rich culture. Immerse yourself in the city’s unique offerings through these opportunities: ### [Arts Pass](https://www.cmu.edu/student-affairs/slice/traditions/arts-pass.html) Unlock free access to renowned museums and attractions with your CMU ID, from the Andy Warhol Museum to the National Aviary. ### [Pittsburgh Connections](https://www.cmu.edu/student-affairs/slice/traditions/pittsburgh.html) Join outdoor adventures, cultural exploration and environmental stewardship across Pittsburgh through subsidized experiences. * * * ## Explore More CMU Traditions From treats during finals week to hearing the sound of bagpipes on campus, discover more CMU traditions that become lifelong memories. ### Bagpipers It doesn't get more Scottish than bagpipes. Carnegie Mellon's Pipes and Drums can be found practicing around campus and performing at formal university events. ### Autographs Behind the stage of Kresge Theatre senior "dramats" (drama students) sign the walls and ceiling before graduating. Among these young hopefuls: Ted Danson, Blair Underwood and Holly Hunter. ### Almost Midnight Breakfast CMU staff and faculty cook omelets and serve you breakfast during finals week in the fall and spring
+
+======================================================================
+CHUNK 3
+======================================================================
+ID: doc1_chunk1
+Source Title: Traditions | Carnegie Mellon University
+Source URL: https://www.cmu.edu/about/traditions
+Category: general_info
+Chunk Index: 1
+Token Count: 175
+Character Range: 3787-5289
+
+CONTENT:
+Museum to the National Aviary. ### [Pittsburgh Connections](https://www.cmu.edu/student-affairs/slice/traditions/pittsburgh.html) Join outdoor adventures, cultural exploration and environmental stewardship across Pittsburgh through subsidized experiences. * * * ## Explore More CMU Traditions From treats during finals week to hearing the sound of bagpipes on campus, discover more CMU traditions that become lifelong memories. ### Bagpipers It doesn't get more Scottish than bagpipes. Carnegie Mellon's Pipes and Drums can be found practicing around campus and performing at formal university events. ### Autographs Behind the stage of Kresge Theatre senior "dramats" (drama students) sign the walls and ceiling before graduating. Among these young hopefuls: Ted Danson, Blair Underwood and Holly Hunter. ### Almost Midnight Breakfast CMU staff and faculty cook omelets and serve you breakfast during finals week in the fall and spring semesters. PreviousNext 1/3 * * * ## Cultivating Future Leaders We take immense pride in training the leaders of tomorrow. Learn about our time-honored traditions that empower you to unlock your full potential and celebrate your achievements: - [Emerging Leaders](https://www.cmu.edu/student-affairs/celd/leadership-development/emerging-leaders.html) - [Senior Leadership Recognition](https://www.cmu.edu/student-affairs/slice/traditions/senior-leadership/index.html#slr) - [Senior Engagement](https://www.cmu.edu/student-affairs/slice/traditions/senior/index.html)
+
+======================================================================
+CHUNK 4
+======================================================================
+ID: doc2_chunk0
+Source Title: Vision, Mission and Values | Carnegie Mellon University
+Source URL: https://www.cmu.edu/about/vision-mission-values
+Category: general_info
+Chunk Index: 0
+Token Count: 486
+Character Range: 0-3513
+
+CONTENT:
+# Vision, Mission and Values
+
+## Empowering the Next Generation of World-Changers
+
+Carnegie Mellon University’s vision, mission and values guide us in providing an exceptional educational experience and creating a diverse community of creators, inventors and leaders. See how they help us cultivate an open, cooperative culture that values entrepreneurial thinking and addresses real-world problems.
+
+### Vision
+
+Carnegie Mellon University will have a transformative impact on society through continual innovation in education, research, creativity and entrepreneurship.
+
+### Mission
+
+- To create a transformative educational experience for students focused on deep disciplinary knowledge; problem-solving; leadership, communication and interpersonal skills; and personal health and well-being.
+- To cultivate a transformative university community committed to (a) attracting and retaining diverse, world-class talent; (b) creating a collaborative environment open to the free exchange of ideas, where research, creativity, innovation and entrepreneurship can flourish; and (c) ensuring individuals can achieve their full potential.
+- To impact society in a transformative way — regionally, nationally and globally — by engaging with partners outside the traditional borders of the university campus.
+
+### Values
+
+- **Dedication**, reflected in our distinctive work ethic and in our commitment to excellence
+- **Impact**, reflected in our commitment to address critical issues facing society regionally, nationally and globally
+- **Collaboration**, reflected in our interdisciplinary approach, our focus on internal and external partnerships, and our capacity to create new fields of inquiry
+- **Creativity**, reflected in our openness to new ideas and forms of expression, intellectual curiosity, willingness to take risks and entrepreneurial spirit
+- **Empathy and compassion**, reflected in our focus on improving the human condition and on the personal development of the members of our community
+- **Inclusion**, reflected in a culture and climate that seeks, welcomes and advances talented minds from diverse backgrounds
+- **Integrity**, reflected in our adherence to the highest ethical standards in personal and professional behavior, and in our commitment to transparency and accountability in governance and everything we do
+- **Sustainability**, reflected in our shared commitment to lead by example in preserving and protecting our natural resources, and in our approach to responsible financial planning
+
+## A History of Work that Matters
+
+In 1900, philanthropist Andrew Carnegie donated $1 million to found a school where students from all backgrounds could gain skills to uplift their careers and communities. Over 100 years later, CMU continues that spirit as a global leader in education and research.
+
+[Learn More About CMU's History](https://www.cmu.edu/about/history)
+
+## Commitment to Belonging
+
+Ranging perspectives and experiences catalyze CMU’s passionate and uninhibited spirit. That’s why we cultivate an environment with educational access and community engagement so all feel welcomed, supported and empowered to achieve their full potential.
+
+## Planning for CMU’s Future
+
+CMU’s Strategic Framework provides a vision to drive the university's mission through education, research and global impact. Learn about the plan’s accomplishments and how we are updating it to meet our future endeavors and goals.
+
+[Learn About Our Strategic Framework](https://www.cmu.edu/strategic-framework/)
+
+======================================================================
+CHUNK 5
+======================================================================
+ID: doc3_chunk0
+Source Title: History | Carnegie Mellon University
+Source URL: https://www.cmu.edu/about/history
+Category: general_info
+Chunk Index: 0
+Token Count: 512
+Character Range: 0-3382
+
+CONTENT:
+# History ## Founder Spotlight A self-educated "working boy," Andrew Carnegie emigrated from Scotland in 1848 and settled in Pittsburgh, Pa. Attending night school and borrowing books, Carnegie went from factory worker in a textile mill to successful entrepreneur and industrialist. He rose to prominence by founding what became the world's largest steel producing company by the end of the 19th century. "My heart is in the work," he stated, which would become part of the school's official motto. At one point the richest man in the world, Carnegie once said, "To die rich is to die disgraced." He turned his attention to writing, social activism and philanthropy, determined to establish educational opportunities for the general public where few existed. CMU's Origin ## 1900: Initial Funding for Carnegie Technical Schools In 1900, Andrew Carnegie donated $1 million to the city of Pittsburgh, envisioning a school where working-class men and women of Pittsburgh could learn practical skills, trades and crafts that would enhance their careers, lives and communities. The Carnegie Technical Schools offered two- and three-year certificates in the arts as well as in engineering disciplines and included a college for women, Margaret Morrison Carnegie College. Initial number of students 120 The first Carnegie Technical Schools class was admitted in 1906. Degrees Introduced ## 1912: Carnegie Tech Grants Bachelor's Degrees Soon faced with the demand for baccalaureate programs, Carnegie Technical Schools changed its name to the Carnegie Institute of Technology, or "Carnegie Tech", and began offering bachelor's degrees through its College of Engineering and College of Fine Arts. Carnegie Tech set the groundwork for a research institution, recruiting leading scientists, offering sponsored fellowships with government and industry leaders and pioneering nontraditional interdisciplinary research, which brought together physicists, chemists and metallurgists, for example. Interdisciplinary research would become the hallmark of Carnegie Mellon research. In 1919, the first doctorate (in civil engineering) was awarded to Mao Yisheng, a student from China. First U.S. Drama Class 18 actors The first U.S. drama degree was awarded in 1914 at Carnegie Tech. Investment in Expansion ## Early 20th Century Progress During the first half of the 20th century, with support from Andrew Carnegie and other funders, Carnegie Tech laid the foundation for a school on the cutting edge. It expanded from two buildings into an elegant 20th-century campus designed in the Beaux Arts architectural style, housing a wealth of machine shops, studios and laboratories — the hands-on center of learning that persists today. Carnegie died in 1919, but his vision for an educated public lived on after him. Humanities Requirement 25 % of curriculum With the goal of understanding societal needs, the Carnegie Plan began in 1938. Science and engineering students were now required to take humanities and social sciences courses. ## Post-war Growth: Opening Three New Schools With the end of World War II, the latter half of the 20th century brought unprecedented growth to Carnegie Tech. In 1956, the arrival of the first IBM computer to campus was revolutionary, initiating a university culture where information technology pervaded virtually all areas of study. University culture also changed
+
+======================================================================
+CHUNK 6
+======================================================================
+ID: doc3_chunk1
+Source Title: History | Carnegie Mellon University
+Source URL: https://www.cmu.edu/about/history
+Category: general_info
+Chunk Index: 1
+Token Count: 512
+Character Range: 2563-6289
+
+CONTENT:
+the Beaux Arts architectural style, housing a wealth of machine shops, studios and laboratories — the hands-on center of learning that persists today. Carnegie died in 1919, but his vision for an educated public lived on after him. Humanities Requirement 25 % of curriculum With the goal of understanding societal needs, the Carnegie Plan began in 1938. Science and engineering students were now required to take humanities and social sciences courses. ## Post-war Growth: Opening Three New Schools With the end of World War II, the latter half of the 20th century brought unprecedented growth to Carnegie Tech. In 1956, the arrival of the first IBM computer to campus was revolutionary, initiating a university culture where information technology pervaded virtually all areas of study. University culture also changed in 1973, when Margaret Morrison closed and women joined their male peers in classrooms and dorms. ### 1948 The Graduate School of Industrial Administration, later renamed the [David A. Tepper School of Business](https://www.cmu.edu/tepper/index.html), focused on quantitative analysis and pioneering the field of management science. ### 1968 The School of Urban and Public Affairs, later renamed the [H. John Heinz III College](https://www.heinz.cmu.edu/), provided graduate training for work in the public sector. ### 1986 The [School of Computer Science](https://www.cs.cmu.edu/) pioneered computing and artificial intelligence, led by interdisciplinary efforts of Allen Newell and Herbert Simon. 1967 - Present ## The CMU of Today In 1967, Carnegie Tech merged with the Mellon Institute, a science research center founded by the Mellon family of Pittsburgh, to become known as **Carnegie Mellon University**. This support from the Mellons allowed Carnegie Mellon to establish the last of its current pillars: the Mellon College of Science and the College of Humanities and Social Sciences, now known as the [Marianna Brown Dietrich College of Humanities and Social Sciences](http://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/). In 2017, Carnegie Mellon celebrated the 50th anniversary of the Carnegie Tech–Mellon Institute merger, revisiting the shared vision of the founders and recognizing the impact it has had, and will continue to have, in the world of higher education, research and discovery. 2025 Student Count 16,335 ## CMU's Global Leadership In its 115 years, Carnegie Mellon has soared to national and international leadership in higher education and research. A birthplace of innovation since its founding, it continues to be known for innovation, for solving real-world problems and for interdisciplinary collaboration. Its alumni can be found across the globe — from Tony Award winners to Nobel Prize and Turing Award winners, from CEOs to entrepreneurs, from professors to artists. In the 2000s, in response to demand for expanded international educational opportunities, Carnegie Mellon began offering degree programs outside of Pittsburgh. Today its global presence includes campuses in [Qatar](https://www.qatar.cmu.edu/) and [Silicon Valley, Calif.](https://sv.cmu.edu/), more than a dozen degree-granting locations, and more than 20 research partnerships in cities and countries such as **Los Angeles**, **New York City**, **Washington, D.C.**, **China**, [Portugal](https://cmuportugal.org/) and [Rwanda](https://www.africa.engineering.cmu.edu/). ### 2002 Carnegie Mellon established a [branch campus in Silicon Valley](https://sv.cmu.edu/), the epicenter of the modern technological revolution. ### 2004 [Carnegie University in Qatar (CMU-Q)](https://www.qatar.cmu.edu/) opened its doors with 41 students, offering programs in Business
+
+======================================================================
+CHUNK 7
+======================================================================
+ID: doc3_chunk2
+Source Title: History | Carnegie Mellon University
+Source URL: https://www.cmu.edu/about/history
+Category: general_info
+Chunk Index: 2
+Token Count: 250
+Character Range: 5228-7203
+
+CONTENT:
+for interdisciplinary collaboration. Its alumni can be found across the globe — from Tony Award winners to Nobel Prize and Turing Award winners, from CEOs to entrepreneurs, from professors to artists. In the 2000s, in response to demand for expanded international educational opportunities, Carnegie Mellon began offering degree programs outside of Pittsburgh. Today its global presence includes campuses in [Qatar](https://www.qatar.cmu.edu/) and [Silicon Valley, Calif.](https://sv.cmu.edu/), more than a dozen degree-granting locations, and more than 20 research partnerships in cities and countries such as **Los Angeles**, **New York City**, **Washington, D.C.**, **China**, [Portugal](https://cmuportugal.org/) and [Rwanda](https://www.africa.engineering.cmu.edu/). ### 2002 Carnegie Mellon established a [branch campus in Silicon Valley](https://sv.cmu.edu/), the epicenter of the modern technological revolution. ### 2004 [Carnegie University in Qatar (CMU-Q)](https://www.qatar.cmu.edu/) opened its doors with 41 students, offering programs in Business Administration and Computer Science. ### 2011 Carnegie Mellon University and the Government of Rwanda signed an agreement to establish [CMU-Africa](https://www.africa.engineering.cmu.edu/). This partnership was designed to respond to the critical shortage of high-quality engineering talent required to harness Africa's tremendous potential as home to the fastest-growing workforce in the world. ## Expanding into the Future CMU is positioned like never before to meet the challenges of the 21st century. In the coming years, the university will see the largest expansion to the Pittsburgh campus since 1900. At the intersection of technology and humanity, CMU will focus on advancing the individual student experience, the broader Carnegie Mellon community experience, and the social impact of Carnegie Mellon throughout the world. [Explore our Strategic Framework 2025](https://www.cmu.edu/strategic-framework/)
+
+======================================================================
+CHUNK 8
+======================================================================
+ID: doc4_chunk0
+Source Title: Search Announcement | Carnegie Mellon University
+Source URL: https://www.cmu.edu/about/open-searches/avp-executive-director-swartz-center/search-announcement
+Category: general_info
+Chunk Index: 0
+Token Count: 512
+Character Range: 0-3898
+
+CONTENT:
+# Search Announcement _August 4, 2025_ Dear Members of the Carnegie Mellon Community: I am pleased to officially announce a **global search for a new associate vice president for entrepreneurship and executive director of the Swartz Center for Entrepreneurship**. As was [recently announced](https://www.cmu.edu/news/stories/archives/2025/june/carnegie-mellon-university-announces-swartz-center-for-entrepreneurship-leadership-transition#:~:text=Dave%20Mawhinney(opens%20in%20new,the%20center's%20growth%20and%20trajectory.), Dave Mawhinney stepped down from his role as founding executive director of the Swartz Center on July 1, 2025, and has returned to his full-time faculty position in the Tepper School of Business. The Swartz Center launched in 2016, thanks to a [transformative $31M gift](https://www.cmu.edu/news/stories/archives/2015/june/swartz-center-gift.html) from alumnus and distinguished venture capitalist and entrepreneur James R. Swartz (MSIA ’66). Today, it is a nationally recognized engine for entrepreneurship education, supporting Carnegie Mellon University startups through an array of programs including the Gebhardt Sandbox Fund, the McGinnis Venture competition, Venture Bridge pre-seed accelerator program, a robust EIR and mentor program, and the Tartan Entrepreneurs Fund. These programs have helped anchor CMU as a leading producer of startups among academic institutions, a primary driver of Pittsburgh’s growing dominance in emerging technologies and an incubator for innovation. The associate vice president and executive director will accelerate the next phase of growth of CMU’s entrepreneurship ecosystem and advance our long-standing commitment to innovation and impact in the region, country and the world. Elevating this role to an associate vice president position reflects our deep commitment to entrepreneurship and to expanding our interdisciplinary coordination and investment to propel us to even greater heights. I look forward to welcoming the center’s next leader, who will help us shape the next chapter of entrepreneurial excellence and impact by translating transformative ideas and research to power progress. To guide this important search, I have assembled a [search advisory committee](https://www.cmu.edu/about/open-searches/avp-executive-director-swartz-center/advisory-committee) that includes faculty, alumni and leaders from across the university and broader entrepreneurial community. I will co-chair the committee with Ron Bianchini, serial entrepreneur, trustee, alumnus and former engineering faculty member. Other members include: - Isabelle Bajeux-Besnainou, Dean and Richard P. Simmons Professor of Finance, Tepper School of Business - Lane Bess (DC 1983), CEO of Deep Instinct, Principal/ Founder of Bess Ventures and Advisory, CMU Trustee - Jeanne Cunicelli (DC 1988), President of UPMC Enterprises, CMU Trustee - Mary Jo Dively, Vice President and General Counsel, and Secretary of the Corporation - Michael Donohue (SCS 2001), Technology Investor - David Bennett, Vice President of University Advancement - Martial Hebert, Dean and University Professor of Robotics, School of Computer Science - Reeja Jayan, Professor of Mechanical Engineering, College of Engineering, Founder and CEO of SeaLion Energy - Ashwini Karanth, Graduate Student, Tepper School of Business, Swartz Entrepreneurial Fellow, Swartz Center for Entrepreneurship - Charles Kennedy, Chief Investment Officer - Brandon Lucia, Kavčić-Moura Professor of Electrical and Computer Engineering, College of Engineering, Co-founder and CEO of Efficient Computer - Jorgen Pedersen (ENG 1995, SCS 1998), CEO of the ARM Institute and Robotics Entrepreneur - Sam Reiman (HNZ 2004), Director and Trustee at Richard King Mellon Foundation, CMU Trustee - Matt Rogers (ENG 2004, 2005), Co-Founder of NEST and CEO of Mill - Dug Song, Co-Founder and Former CEO, Duo Security
+
+======================================================================
+CHUNK 9
+======================================================================
+ID: doc4_chunk1
+Source Title: Search Announcement | Carnegie Mellon University
+Source URL: https://www.cmu.edu/about/open-searches/avp-executive-director-swartz-center/search-announcement
+Category: general_info
+Chunk Index: 1
+Token Count: 333
+Character Range: 3029-5360
+
+CONTENT:
+Bennett, Vice President of University Advancement - Martial Hebert, Dean and University Professor of Robotics, School of Computer Science - Reeja Jayan, Professor of Mechanical Engineering, College of Engineering, Founder and CEO of SeaLion Energy - Ashwini Karanth, Graduate Student, Tepper School of Business, Swartz Entrepreneurial Fellow, Swartz Center for Entrepreneurship - Charles Kennedy, Chief Investment Officer - Brandon Lucia, Kavčić-Moura Professor of Electrical and Computer Engineering, College of Engineering, Co-founder and CEO of Efficient Computer - Jorgen Pedersen (ENG 1995, SCS 1998), CEO of the ARM Institute and Robotics Entrepreneur - Sam Reiman (HNZ 2004), Director and Trustee at Richard King Mellon Foundation, CMU Trustee - Matt Rogers (ENG 2004, 2005), Co-Founder of NEST and CEO of Mill - Dug Song, Co-Founder and Former CEO, Duo Security In partnership with the executive search firm Spencer Stuart, the committee will encourage nominations and applications to build a robust and highly qualified applicant pool. Throughout the fall semester, the committee will engage with stakeholders inside and outside of the university to gather input on the role and candidates, with the goal of filling the role by the end of the calendar year. To learn more about the role and the search process, as well as to submit confidential inquiries, nominations or applications, please visit the [search website](https://www.cmu.edu/about/open-searches/avp-executive-director-swartz-center). I am deeply grateful for Dave Mawhinney’s leadership in shaping the success of the Swartz Center, and a celebration to honor his legacy of impact will take place in the fall. I would also like to extend my gratitude to the [Swartz Center for Entrepreneurship](https://www.cmu.edu/swartz-center-for-entrepreneurship/) team for their collaboration and guidance during this transitional period, with special thanks to Meredith Grelli, the managing director of the Swartz Center for Entrepreneurship, assistant dean for entrepreneurial initiatives and director of Project Olympus in the School of Computer Science, and associate teaching professor in the Tepper School of Business, for serving as interim executive director of the Swartz Center throughout the search process. Sincerely, Theresa Mayer Vice President for Research
+
+======================================================================
+CHUNK 10
+======================================================================
+ID: doc5_chunk0
+Source Title: Search for Associate Vice President for Entrepreneurship and Executive Director of the Swartz Center for Entrepreneurship | Carnegie Mellon University
+Source URL: https://www.cmu.edu/about/open-searches/avp-executive-director-swartz-center
+Category: general_info
+Chunk Index: 0
+Token Count: 135
+Character Range: 0-1113
+
+CONTENT:
+# Search for Associate Vice President for Entrepreneurship and Executive Director of the Swartz Center for Entrepreneurship
+
+The Swartz Center launched in 2016, thanks to a [transformative $31M gift](https://www.cmu.edu/news/stories/archives/2015/june/swartz-center-gift.html) from Carnegie Mellon alumnus and distinguished entrepreneur James R. Swartz (MSIA’66).
+
+Today, it is a nationally recognized engine for entrepreneurship education with programs that have helped anchor Carnegie Mellon as a leading producer of startups among academic institutions — a primary driver of Pittsburgh’s growing dominance in emerging technologies and an incubator for innovation.
+
+The Associate Vice President for Entrepreneurship and Executive Director of the Swartz Center for Entrepreneurship will accelerate the next phase of growth of Carnegie Mellon University’s entrepreneurship ecosystem and advance our long-standing commitment to innovation and impact in the region, country, and the world.
+
+[Learn more about the Swartz Center for Entrepreneurship](https://www.cmu.edu/swartz-center-for-entrepreneurship/index.html)
+
