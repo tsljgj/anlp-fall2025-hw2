@@ -1,1 +1,1 @@
- .\rag\Scripts\activate.ps1
+ .\setup_rag_env_uv.ps1
